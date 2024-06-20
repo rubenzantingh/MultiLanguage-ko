@@ -1,0 +1,1 @@
+MultiLanguageNpcData['ko'] = {}
