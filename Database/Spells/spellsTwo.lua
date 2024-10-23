@@ -1,4 +1,3 @@
-MultiLanguageSpellData['ko'][77391] = {name = "펌프 가동까지 남은 시간", additional_info = nil}
 MultiLanguageSpellData['ko'][77392] = {name = "빛나는 알", additional_info = nil}
 MultiLanguageSpellData['ko'][77393] = {name = "초안전 병력 발사기", additional_info = nil}
 MultiLanguageSpellData['ko'][77394] = {name = "아비아나를 위한 기도", additional_info = "5 야드 사정거리\n3 초 주문 시전 시간\n[q]부활한 아비아나의 영혼을 불러냅니다."}
@@ -6614,7 +6613,7 @@ MultiLanguageSpellData['ko'][85979] = {name = "폭풍 작렬", additional_info =
 MultiLanguageSpellData['ko'][85980] = {name = "폭풍 작렬", additional_info = nil}
 MultiLanguageSpellData['ko'][85981] = {name = "망령 탄생", additional_info = nil}
 MultiLanguageSpellData['ko'][85998] = {name = "성채 꼭대기로: 초갈 소환 - 얼라이언스", additional_info = nil}
-MultiLanguageSpellData['ko'][86000] = {name = "굴단의 저주", additional_info = "22% (기본 마나 중) 사정거리 없음\n즉시\n[q]Summons a falling meteor down upon the enemy target, dealing 1793 Shadowflame damage and erupts an aura of magic within 4 yards, causing all targets within it to have a 10% increased chance to be critically hit by the abilities any Warlock demon pets. The aura lasts for 15 sec."}
+MultiLanguageSpellData['ko'][86000] = {name = "굴단의 저주", additional_info = "22% (기본 마나 중) 사정거리 없음\n즉시\n[q]Summons a falling meteor down upon the enemy target, dealing 1793 Shadowflame damage and erupts an aura of magic within 4 yards, causing all targets within it to have a 10% increased chance to be critically hit by the abilities of any Warlock demon pets. The aura lasts for 15 sec."}
 MultiLanguageSpellData['ko'][86002] = {name = "악취 흡수", additional_info = "즉시\n[q]질병의 구릅으로 보호받습니다. 120의 피해를 흡수합니다."}
 MultiLanguageSpellData['ko'][86003] = {name = "무반응", additional_info = "즉시\n[q]이 용은 심하게 얻어맞았습니다. 용의 눈은 멀겋고 초점이 맞지 않습니다. 용의 옆구리와 둥을 따라 깊은 상처 여러 곳에서 피가 줄줄 흐릅니다."}
 MultiLanguageSpellData['ko'][86004] = {name = "흑갈색 잉크", additional_info = "2 초 주문 시전 시간\n도구: 숙련자의 필기구\n재료:\n잿빛 안료 (2)"}
@@ -12605,7 +12604,7 @@ MultiLanguageSpellData['ko'][94403] = {name = "문양: 요정의 불꽃", additi
 MultiLanguageSpellData['ko'][94404] = {name = "문양: 야성의 돌진", additional_info = "3 초 주문 시전 시간 3\n도구: 숙련자의 필기구\n재료:\n비취불꽃 잉크 (3), 가벼운 양피지\n직업: 드루이드\n29\n[q2]사용 효과:"}
 MultiLanguageSpellData['ko'][94405] = {name = "문양: 죽음의 소원", additional_info = "3 초 주문 시전 시간 3\n도구: 숙련자의 필기구\n재료:\n비취불꽃 잉크 (3), 가벼운 양피지\n직업: 전사\n29\n[q2]사용 효과:\n[q2]죽음의 소원이 활성화되었을 때 받는 피해가 증가하지 않습니다."}
 MultiLanguageSpellData['ko'][94406] = {name = "문양: 봉쇄", additional_info = "3 초 주문 시전 시간 3\n도구: 숙련자의 필기구\n재료:\n희미하게 빛나는 잉크 (3), 가벼운 양피지\n직업: 전사\n50\n[q2]사용 효과:\n[q2]봉쇄의 기절 효과 지속시간이 1초만큼 증가합니다."}
-MultiLanguageSpellData['ko'][94422] = {name = "태산을 움직여라: 타기 역순 시전", additional_info = nil}
+MultiLanguageSpellData['ko'][94422] = {name = "<내부용>태산을 움직여라: 타기 역순 시전", additional_info = nil}
 MultiLanguageSpellData['ko'][94423] = {name = "백색 조명탄", additional_info = nil}
 MultiLanguageSpellData['ko'][94424] = {name = "추방 상태 소형 노란색", additional_info = nil}
 MultiLanguageSpellData['ko'][94425] = {name = "태산 해골분쇄자: 서서히 어두워짐", additional_info = nil}
@@ -15020,7 +15019,7 @@ MultiLanguageSpellData['ko'][98159] = {name = "마그마 덫", additional_info =
 MultiLanguageSpellData['ko'][98161] = {name = "위습을 차원문 파동으로 오라", additional_info = nil}
 MultiLanguageSpellData['ko'][98162] = {name = "위습 응답으로 통하는 차원문", additional_info = nil}
 MultiLanguageSpellData['ko'][98163] = {name = "고룡족 광선 전 효과", additional_info = nil}
-MultiLanguageSpellData['ko'][98164] = {name = "마그마 덫", additional_info = "사정거리 없음\n즉시\n[q]라그나로스가 대상 위치에 마그마 덫을 만듭니다. 누군가 마그마 덫을 밟으면 마그마 덫 폭발로 모든 적이 97500 to 102500의 화염 피해를 입고, 덫을 밟은 대상은 공중으로 아주 높이 날아갑니다."}
+MultiLanguageSpellData['ko'][98164] = {name = "마그마 덫", additional_info = "사정거리 없음\n즉시\n[q]라그나로스가 대상 위치에 마그마 덫을 만듭니다. 누군가 마그마 덫을 밟으면 마그마 덫 폭발로 모든 적이 117000 to 123000의 화염 피해를 입고, 덫을 밟은 대상은 공중으로 아주 높이 날아갑니다."}
 MultiLanguageSpellData['ko'][98165] = {name = "황혼 광선 - 왼쪽 앞", additional_info = nil}
 MultiLanguageSpellData['ko'][98166] = {name = "황혼 광선 - 오른쪽 앞", additional_info = nil}
 MultiLanguageSpellData['ko'][98167] = {name = "황혼 광선 - 뒤", additional_info = nil}
@@ -15030,7 +15029,7 @@ MultiLanguageSpellData['ko'][98171] = {name = "마그마 덫", additional_info =
 MultiLanguageSpellData['ko'][98172] = {name = "마그마 덫", additional_info = nil}
 MultiLanguageSpellData['ko'][98173] = {name = "칼렉고스 광선 충격", additional_info = nil}
 MultiLanguageSpellData['ko'][98174] = {name = "비전 탄막 시각 효과", additional_info = nil}
-MultiLanguageSpellData['ko'][98175] = {name = "마그마 덫 폭발", additional_info = "사정거리 없음\n즉시\n[q]마그마가 폭발하여 모든 적에게 97500 to 102500의 화염 피해를 입히고, 폭발 지점에서 반경 8미터 내에 있는 적을 공중으로 멀리 날려보냅니다."}
+MultiLanguageSpellData['ko'][98175] = {name = "마그마 덫 폭발", additional_info = "사정거리 없음\n즉시\n[q]마그마가 폭발하여 모든 적에게 117000 to 123000의 화염 피해를 입히고, 폭발 지점에서 반경 8미터 내에 있는 적을 공중으로 멀리 날려보냅니다."}
 MultiLanguageSpellData['ko'][98177] = {name = "쥐 덮개 생성", additional_info = nil}
 MultiLanguageSpellData['ko'][98178] = {name = "쥐 생성", additional_info = nil}
 MultiLanguageSpellData['ko'][98179] = {name = "마그마 덫", additional_info = nil}
@@ -15081,7 +15080,7 @@ MultiLanguageSpellData['ko'][98231] = {name = "폭탄 파동", additional_info =
 MultiLanguageSpellData['ko'][98233] = {name = "머리 폭발", additional_info = nil}
 MultiLanguageSpellData['ko'][98234] = {name = "가장 근접한 공격자 도발", additional_info = nil}
 MultiLanguageSpellData['ko'][98235] = {name = "머리 폭발", additional_info = nil}
-MultiLanguageSpellData['ko'][98237] = {name = "라그나로스의 손길", additional_info = "사정거리 없음\n즉시\n[q]55미터 반경 내에 있는 모든 적에게 33150 to 34850의 화염 피해를 입히고 멀리 밀쳐냅니다."}
+MultiLanguageSpellData['ko'][98237] = {name = "라그나로스의 손길", additional_info = "사정거리 없음\n즉시\n[q]55미터 반경 내에 있는 모든 적에게 39000 to 41000의 화염 피해를 입히고 멀리 밀쳐냅니다."}
 MultiLanguageSpellData['ko'][98238] = {name = "쥐 미끼", additional_info = nil}
 MultiLanguageSpellData['ko'][98239] = {name = "피의 광란", additional_info = "즉시\n[q]공격 속도가 150%만큼 증가합니다.\n 공격력이 50%만큼 증가합니다."}
 MultiLanguageSpellData['ko'][98240] = {name = "어둠 폭발", additional_info = nil}
@@ -15102,7 +15101,7 @@ MultiLanguageSpellData['ko'][98256] = {name = "정신집중", additional_info = 
 MultiLanguageSpellData['ko'][98257] = {name = "우두머리 감정표현 칼렉고스 03", additional_info = nil}
 MultiLanguageSpellData['ko'][98259] = {name = "라그나로스의 징벌", additional_info = nil}
 MultiLanguageSpellData['ko'][98261] = {name = "씁쓸한 알약", additional_info = "0.1 초 주문 시전 시간\n[q]발 앞에 폭탄을 내려놓습니다."}
-MultiLanguageSpellData['ko'][98263] = {name = "라그나로스의 징벌", additional_info = "사정거리 없음\n즉시\n[q]대상으로부터 반경 6미터 내에 있는 적에게 62156 to 65343의 화염 피해를 입히고 밀쳐냅니다."}
+MultiLanguageSpellData['ko'][98263] = {name = "라그나로스의 징벌", additional_info = "사정거리 없음\n즉시\n[q]대상으로부터 반경 6미터 내에 있는 적에게 73125 to 76875의 화염 피해를 입히고 밀쳐냅니다."}
 MultiLanguageSpellData['ko'][98264] = {name = "화산 분출", additional_info = "즉시\n[q]화산이 분출하기 직전입니다."}
 MultiLanguageSpellData['ko'][98265] = {name = "용암 관", additional_info = nil}
 MultiLanguageSpellData['ko'][98267] = {name = "타렉고사 죽음 소환", additional_info = nil}
@@ -15218,18 +15217,18 @@ MultiLanguageSpellData['ko'][98443] = {name = "불타는 회오리바람", addit
 MultiLanguageSpellData['ko'][98444] = {name = "브리쿨 뿔잔", additional_info = "1.5 초 주문 시전 시간\n[q]브리쿨 뿔잔을 들이킵니다."}
 MultiLanguageSpellData['ko'][98445] = {name = "호박석에 갇힘", additional_info = "1 초 주문 시전 시간 30 분 재사용 대기시간\n[q]호박석에 갇힙니다."}
 MultiLanguageSpellData['ko'][98447] = {name = "귀신 들린 전쟁 북", additional_info = "5 야드 사정거리\n3 초 주문 시전 시간\n[q]귀신 들린 전쟁 북을 내려놓고 소리를 듣습니다."}
-MultiLanguageSpellData['ko'][98450] = {name = "불타는 씨앗", additional_info = "4 초 주문 시전 시간\n[q]적에게 불타는 씨앗을 심습니다. 씨앗은 각각 다른 속도로 자라며, 완전히 자라면 폭발하여 12미터 반경 내의 대상에게 63750의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98450] = {name = "불타는 씨앗", additional_info = "4 초 주문 시전 시간\n[q]적에게 불타는 씨앗을 심습니다. 씨앗은 각각 다른 속도로 자라며, 완전히 자라면 폭발하여 12미터 반경 내의 대상에게 75000의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98451] = {name = "불타는 보주", additional_info = "4 초 주문 시전 시간\n[q]불타는 보주를 소환하여 적을 공격합니다."}
 MultiLanguageSpellData['ko'][98462] = {name = "화산 불", additional_info = nil}
 MultiLanguageSpellData['ko'][98463] = {name = "화산 불", additional_info = "사정거리 없음\n즉시\n[q]화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98466] = {name = "반란군 야영지 수호병", additional_info = nil}
 MultiLanguageSpellData['ko'][98468] = {name = "사격", additional_info = "45 야드 사정거리\n즉시\n원거리 무기 필요\n[q]적에게 발사하여 물리 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98470] = {name = "그롬골 수호병", additional_info = nil}
-MultiLanguageSpellData['ko'][98471] = {name = "불타는 산", additional_info = "80 야드 사정거리\n즉시 2 초 재사용 대기시간\n[q]적에게 26347 to 29562의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98471] = {name = "불타는 산", additional_info = "80 야드 사정거리\n즉시 2 초 재사용 대기시간\n[q]적에게 30914 to 34862의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98472] = {name = "용암", additional_info = "즉시\n[q]3초마다 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98473] = {name = "불타는 속도", additional_info = "사정거리 없음\n즉시\n[q]화염의 피조물의 속도가 생명력이 줄어듦에 따라 감소하여, 생명력이 50%가 되면 완전히 느려집니다."}
 MultiLanguageSpellData['ko'][98474] = {name = "불꽃 낫", additional_info = "기력 100\n즉시\n[q]시전자 전방의 적에게 화염 피해를 입힙니다. 피해는 적중한 대상에게 균등하게 나뉩니다."}
-MultiLanguageSpellData['ko'][98476] = {name = "화염 도약", additional_info = "기력 100 90 야드 사정거리\n즉시\n[q]적에게 도약하여 좁은 지역에 26036 to 29213의 화염 피해를 입히고 화염의 영혼을 소환합니다."}
+MultiLanguageSpellData['ko'][98476] = {name = "화염 도약", additional_info = "기력 100 90 야드 사정거리\n즉시\n[q]적에게 도약하여 좁은 지역에 30630 to 34368의 화염 피해를 입히고 화염의 영혼을 소환합니다."}
 MultiLanguageSpellData['ko'][98477] = {name = "4.1 - ZG 이벤트 - RC/GG - 혈군주 만도키르 소환", additional_info = nil}
 MultiLanguageSpellData['ko'][98478] = {name = "4.1 - ZG 이벤트 - RC/GG - 혈군주 만도키르 소환", additional_info = nil}
 MultiLanguageSpellData['ko'][98479] = {name = "속박", additional_info = "40 야드 사정거리\n집중 (0 초 주문 시전 시간)\n[q]두꺼운 쇠사슬에 묶입니다."}
@@ -15243,9 +15242,9 @@ MultiLanguageSpellData['ko'][98491] = {name = "용암 강타", additional_info =
 MultiLanguageSpellData['ko'][98492] = {name = "분출", additional_info = "사정거리 없음\n즉시\n[q]12000의 화염 피해를 입히고 받는 화염 피해를 10%만큼 증가시킵니다. 최대 20번까지 중복되며 15 sec 동안 지속됩니다."}
 MultiLanguageSpellData['ko'][98493] = {name = "가열된 화산", additional_info = "즉시\n[q]대상 화산 밑에서 마그마가 타오르게 합니다."}
 MultiLanguageSpellData['ko'][98494] = {name = "열기 배출구, 시험용", additional_info = "즉시\n[q]열반응 상승 기류로 평소보다 훨씬 더 높고 멀리 도약합니다.\n(500밀리초 재사용 대기시간)"}
-MultiLanguageSpellData['ko'][98495] = {name = "타오르는 씨앗", additional_info = "사정거리 없음\n즉시\n[q]대상에게 타오르는 씨앗을 발사하여 반경 6미터 내의 적에게 62156 to 65343의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98495] = {name = "타오르는 씨앗", additional_info = "사정거리 없음\n즉시\n[q]대상에게 타오르는 씨앗을 발사하여 반경 6미터 내의 적에게 73125 to 76875의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98497] = {name = "타오르는 씨앗", additional_info = nil}
-MultiLanguageSpellData['ko'][98498] = {name = "타오르는 씨앗", additional_info = "사정거리 없음\n즉시\n[q]반경 6미터 내의 적에게 62156 to 65343의 화염 피해를 입히고 해당 위치에 타오르는 씨앗을 만들어냅니다."}
+MultiLanguageSpellData['ko'][98498] = {name = "타오르는 씨앗", additional_info = "사정거리 없음\n즉시\n[q]반경 6미터 내의 적에게 73125 to 76875의 화염 피해를 입히고 해당 위치에 타오르는 씨앗을 만들어냅니다."}
 MultiLanguageSpellData['ko'][98499] = {name = "유성", additional_info = "사정거리 없음\n즉시\n[q]하늘에서 유성이 떨어집니다."}
 MultiLanguageSpellData['ko'][98500] = {name = "유성 충돌", additional_info = "40 야드 사정거리\n즉시\n[q]불타는 유성이 땅에 충돌하며 주위 플레이어에게 27750 to 32250의 피해를 입히고 뒤로 밀쳐냅니다."}
 MultiLanguageSpellData['ko'][98501] = {name = "열기 배출구", additional_info = "즉시\n[q]열반응 상승 기류로 평소보다 훨씬 더 높고 멀리 도약합니다.\n(500밀리초 재사용 대기시간)"}
@@ -15276,7 +15275,7 @@ MultiLanguageSpellData['ko'][98531] = {name = "늑대인간 타락", additional_
 MultiLanguageSpellData['ko'][98532] = {name = "늑대인간 타락", additional_info = "근접 사정거리\n즉시\n[q]대상에게 일시적으로 늑대인간의 저주를 겁니다. 변신한 동안에는 근접 및 원거리 공격, 주문 시전 속도가 20%만큼 증가하지만 방어도가 20%만큼 감소합니다."}
 MultiLanguageSpellData['ko'][98533] = {name = "[q4]멸종된 거북 등딱지", additional_info = "3 초 주문 시전 시간 15\n[q]거북은 오랜 시간에 걸쳐 약간의 변화만 겪은 고대 생명체입니다. 거북은 크게 3종으로 나뉘는데 거기에는 바다거북, 민물에 사는 남생이, 깨끗한 물에 사는 테라핀이 있습니다. 그 중 남생이의 것으로 보이는 이 단단한 등딱지를 사용하면 아주 훌륭한, 하지만 약간은 우스꽝스러워 보이는 방패를 만들 수 있을 것입니다.\n[q4]멸종된 거북 등딱지\n계정 귀속\n보조장비 방패\n방어도 11896\n힘 +190\n체력 +286\n[q2]특화 + 134\n내구도 120 / 120\n85\n[q2]착용 효과: 회피 숙련도가 114만큼 증가합니다."}
 MultiLanguageSpellData['ko'][98534] = {name = "유성 방화", additional_info = "40 야드 사정거리\n즉시\n[q]유성이 떨어진 잿더미 분화구에서 연기가 솟구칩니다."}
-MultiLanguageSpellData['ko'][98535] = {name = "화염 도약", additional_info = "사정거리 없음\n즉시\n[q]판드랄이 적에게 달려듭니다. 그가 원래 있던 자리에는 화염의 영혼이 생깁니다. 판드랄은 목표 지점에 도달하면 영광의 빛을 내뿜으며 땅을 불태워, 적에게 1 min 동안 0.5초마다 26036 to 29213의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98535] = {name = "화염 도약", additional_info = "사정거리 없음\n즉시\n[q]판드랄이 적에게 달려듭니다. 그가 원래 있던 자리에는 화염의 영혼이 생깁니다. 판드랄은 목표 지점에 도달하면 영광의 빛을 내뿜으며 땅을 불태워, 적에게 1 min 동안 0.5초마다 30630 to 34368의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98536] = {name = "퀘스트 투명 상태 보기 1", additional_info = nil}
 MultiLanguageSpellData['ko'][98537] = {name = "퀘스트 투명 상태 보기 2", additional_info = nil}
 MultiLanguageSpellData['ko'][98538] = {name = "퀘스트 투명 상태 보기 10", additional_info = nil}
@@ -15321,7 +15320,7 @@ MultiLanguageSpellData['ko'][98580] = {name = "환영 복제 역순 시전", add
 MultiLanguageSpellData['ko'][98581] = {name = "환영 복제 오라", additional_info = nil}
 MultiLanguageSpellData['ko'][98582] = {name = "[q3]새끼 테러닥스", additional_info = "3 초 주문 시전 시간 15\n[q]사랑스러운 녹색 새끼 테러닥스입니다! 이렇게 작은 테러닥스는 제아무리 날카로운 음파를 내질러도 당신의 고막이 터질 걱정이 전혀 없고, 녀석이 당신 얼굴을 먹어 삼키려고 해도 그저 친근한 입맞춤 정도로만 느껴집니다.\n[q3]새끼 테러닥스\n획득 시 귀속\n[q2]사용 효과: 애완동물 친구를 소환하는 법을 배웁니다.\n[q2]새끼 테러닥스를 소환하거나 소환 해제합니다."}
 MultiLanguageSpellData['ko'][98583] = {name = "불타는 보주", additional_info = nil}
-MultiLanguageSpellData['ko'][98584] = {name = "불타는 보주", additional_info = "200 야드 사정거리\n즉시\n[q]2초마다 7650의 화염 피해를 입힙니다. 효과가 중복됩니다."}
+MultiLanguageSpellData['ko'][98584] = {name = "불타는 보주", additional_info = "200 야드 사정거리\n즉시\n[q]2초마다 9000의 화염 피해를 입힙니다. 효과가 중복됩니다."}
 MultiLanguageSpellData['ko'][98585] = {name = "열기 배출구", additional_info = "즉시\n[q]열반응 상승 기류로 평소보다 훨씬 더 높고 멀리 도약합니다."}
 MultiLanguageSpellData['ko'][98586] = {name = "열기 배출구 파동", additional_info = "즉시\n[q]열반응 상승 기류로 평소보다 훨씬 더 높고 멀리 도약합니다."}
 MultiLanguageSpellData['ko'][98587] = {name = "부두교 조각상", additional_info = "즉시\n[q]부두교 조각상을 소환하거나 소환 해제합니다."}
@@ -15346,7 +15345,7 @@ MultiLanguageSpellData['ko'][98614] = {name = "톨로와 안렌 보호", additio
 MultiLanguageSpellData['ko'][98616] = {name = "위치 표시", additional_info = nil}
 MultiLanguageSpellData['ko'][98618] = {name = "거미줄 투척", additional_info = nil}
 MultiLanguageSpellData['ko'][98619] = {name = "화염의 날개", additional_info = "즉시\n[q]화염의 날개가 자라나 하늘을 날 수 있게 해줍니다."}
-MultiLanguageSpellData['ko'][98620] = {name = "불타는 씨앗", additional_info = "즉시\n[q]적에게 불타는 씨앗을 심습니다. 씨앗은 각각 다른 속도로 자라며, 완전히 자라면 폭발하여 12미터 반경 내의 대상에게 63750의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98620] = {name = "불타는 씨앗", additional_info = "즉시\n[q]적에게 불타는 씨앗을 심습니다. 씨앗은 각각 다른 속도로 자라며, 완전히 자라면 폭발하여 12미터 반경 내의 대상에게 75000의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98623] = {name = "가느다란 거미줄", additional_info = nil}
 MultiLanguageSpellData['ko'][98624] = {name = "화염의 날개", additional_info = nil}
 MultiLanguageSpellData['ko'][98628] = {name = "새 꼬치", additional_info = "40 야드 사정거리\n4 초 주문 시전 시간\n[q]적 새에게 날카로운 창을 던집니다."}
@@ -15412,7 +15411,7 @@ MultiLanguageSpellData['ko'][98704] = {name = "카메라 광선 대상", additio
 MultiLanguageSpellData['ko'][98705] = {name = "불꽃 간헐천", additional_info = "30 야드 사정거리\n1.5 초 주문 시전 시간\n[q]대상 위치에 불꽃 간헐천을 만들어냅니다."}
 MultiLanguageSpellData['ko'][98706] = {name = "설퍼라스 강타", additional_info = nil}
 MultiLanguageSpellData['ko'][98707] = {name = "카메라 타기 - 좌석 3", additional_info = nil}
-MultiLanguageSpellData['ko'][98708] = {name = "설퍼라스 강타", additional_info = "사정거리 없음\n즉시\n[q]설퍼라스의 충격이 5미터 내의 적에게 536250 to 563750의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98708] = {name = "설퍼라스 강타", additional_info = "사정거리 없음\n즉시\n[q]설퍼라스의 충격이 5미터 내의 적에게 102375 to 107625의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98709] = {name = "카메라 타기 - 좌석 2", additional_info = nil}
 MultiLanguageSpellData['ko'][98710] = {name = "설퍼라스 강타", additional_info = "사정거리 없음\n2.5 초 주문 시전 시간\n[q]라그나로스가 설퍼라스로 땅을 강하게 내리쳐 커다란 충격과 함께 대상 지역에서 용암의 파도가 솟구치게 합니다."}
 MultiLanguageSpellData['ko'][98711] = {name = "화염구", additional_info = "40 야드 사정거리\n1 초 주문 시전 시간\n[q]적에게 화염 피해를 입힙니다."}
@@ -15605,10 +15604,10 @@ MultiLanguageSpellData['ko'][98923] = {name = "발스탄 들기", additional_inf
 MultiLanguageSpellData['ko'][98924] = {name = "알 주머니", additional_info = nil}
 MultiLanguageSpellData['ko'][98925] = {name = "손 바꿈", additional_info = nil}
 MultiLanguageSpellData['ko'][98926] = {name = "발스탄 처치", additional_info = nil}
-MultiLanguageSpellData['ko'][98928] = {name = "용암 파도", additional_info = "사정거리 없음\n즉시\n[q]124312 to 130687의 화염 피해를 입히고 1초마다 41437 to 43562의 추가 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98928] = {name = "용암 파도", additional_info = "사정거리 없음\n즉시\n[q]146250 to 153750의 화염 피해를 입히고 1초마다 48750 to 51250의 추가 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98929] = {name = "투명화", additional_info = nil}
 MultiLanguageSpellData['ko'][98932] = {name = "자유로운 마음", additional_info = "즉시\n[q]10 sec 동안 이동 속도가 120%만큼 증가합니다."}
-MultiLanguageSpellData['ko'][98934] = {name = "잿불 확산", additional_info = "150 야드 사정거리\n즉시\n[q]모든 적에게 25858 to 30051의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][98934] = {name = "잿불 확산", additional_info = "150 야드 사정거리\n즉시\n[q]모든 적에게 30421 to 35355의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][98935] = {name = "말퓨리온 스톰레이지 소환", additional_info = nil}
 MultiLanguageSpellData['ko'][98936] = {name = "HMC 허수아비 효과 행인 1", additional_info = nil}
 MultiLanguageSpellData['ko'][98937] = {name = "HMC 허수아비 효과 행인 2", additional_info = nil}
@@ -15772,7 +15771,7 @@ MultiLanguageSpellData['ko'][99122] = {name = "그을리는 폭격", additional_
 MultiLanguageSpellData['ko'][99123] = {name = "죽음의 손아귀", additional_info = "30 야드 사정거리\n즉시\n[q]모든 물질을 감싸고 결합시키는 부정의 힘으로 대상을 끌어당겨 3 sec 동안 자신을 공격하게 만듭니다."}
 MultiLanguageSpellData['ko'][99124] = {name = "그을리는 폭격", additional_info = nil}
 MultiLanguageSpellData['ko'][99125] = {name = "타오르는 열기", additional_info = nil}
-MultiLanguageSpellData['ko'][99126] = {name = "타오르는 열기", additional_info = "60 야드 사정거리\n즉시\n[q]용암의 후예가 무작위 대상에게 타오르는 열기를 가하여 지나간 자리에 타오르는 열기의 흔적을 남기게 합니다. 타오르는 열기는 1초마다 58012 to 60987의 화염 피해를 입히고, 화염의 피조물의 생명력을 1초마다 10%만큼 치유합니다."}
+MultiLanguageSpellData['ko'][99126] = {name = "타오르는 열기", additional_info = "60 야드 사정거리\n즉시\n[q]용암의 후예가 무작위 대상에게 타오르는 열기를 가하여 지나간 자리에 타오르는 열기의 흔적을 남기게 합니다. 타오르는 열기는 1초마다 68250 to 71750의 화염 피해를 입히고, 화염의 피조물의 생명력을 1초마다 10%만큼 치유합니다."}
 MultiLanguageSpellData['ko'][99127] = {name = "불타는 매복", additional_info = nil}
 MultiLanguageSpellData['ko'][99128] = {name = "타오르는 열기", additional_info = nil}
 MultiLanguageSpellData['ko'][99129] = {name = "타오르는 열기", additional_info = nil}
@@ -15787,7 +15786,7 @@ MultiLanguageSpellData['ko'][99140] = {name = "폭격", additional_info = nil}
 MultiLanguageSpellData['ko'][99141] = {name = "그을리는 폭격", additional_info = nil}
 MultiLanguageSpellData['ko'][99142] = {name = "뒤틀린 황혼", additional_info = "사정거리 없음\n1.5 초 주문 시전 시간\n[q]일직선상으로 40000의 냉기 피해를 입히고 5 sec 동안 1초마다 20000의 냉기 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99143] = {name = "풍선 끈", additional_info = nil}
-MultiLanguageSpellData['ko'][99144] = {name = "타오르는 열기", additional_info = "사정거리 없음\n즉시\n[q]1초마다 58012 to 60987의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][99144] = {name = "타오르는 열기", additional_info = "사정거리 없음\n즉시\n[q]1초마다 68250 to 71750의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99145] = {name = "타오르는 열기", additional_info = "사정거리 없음\n즉시\n[q]타오르는 열기가 화염의 피조물과 용암의 후예의 생명력을 1초마다 10%만큼 치유합니다."}
 MultiLanguageSpellData['ko'][99146] = {name = "유성 방화", additional_info = nil}
 MultiLanguageSpellData['ko'][99148] = {name = "황혼 폭발", additional_info = "90 야드 사정거리\n2.5 초 주문 시전 시간\n[q]적에게 암흑 피해를 입힙니다."}
@@ -15809,7 +15808,7 @@ MultiLanguageSpellData['ko'][99164] = {name = "고아에게 호드 풍선 신호
 MultiLanguageSpellData['ko'][99165] = {name = "얼라이언스 풍선 소환", additional_info = "5 야드 사정거리\n1 초 주문 시전 시간\n[q]얼라이언스 풍선을 소환합니다."}
 MultiLanguageSpellData['ko'][99166] = {name = "고아의 얼라이언스 풍선", additional_info = "10 야드 사정거리\n즉시 1 초 재사용 대기시간\n[q]풍선을 소환하거나 소환 해제합니다."}
 MultiLanguageSpellData['ko'][99167] = {name = "고아에게 얼라이언스 풍선 신호", additional_info = "10 야드 사정거리\n즉시 1 초 재사용 대기시간\n[q]풍선을 소환하거나 소환 해제합니다."}
-MultiLanguageSpellData['ko'][99171] = {name = "휘몰아치는 불길", additional_info = "사정거리 없음\n즉시\n[q]라그나로스가 휘몰아치는 불길을 시전하여 자신과 가깝거나, 어느 정도 떨어지거나, 가장 멀리 떨어진 지역을 불길로 감싸서 1 sec 동안 1초마다 74587 to 78412의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][99171] = {name = "휘몰아치는 불길", additional_info = "사정거리 없음\n즉시\n[q]라그나로스가 휘몰아치는 불길을 시전하여 자신과 가깝거나, 어느 정도 떨어지거나, 가장 멀리 떨어진 지역을 불길로 감싸서 1 sec 동안 1초마다 87750 to 92250의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99172] = {name = "휘몰아치는 불길", additional_info = "사정거리 없음\n2.5 초 주문 시전 시간\n[q]라그나로스가 자신과 가장 가까운 지역을 불길로 뒤덮기 시작합니다."}
 MultiLanguageSpellData['ko'][99173] = {name = "불타는 상처", additional_info = "사정거리 없음\n즉시\n[q]근접 치명타를 적중시키면 4 sec 동안 6%의 추가 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99174] = {name = "아이템 - 도적 T12 2P 보너스", additional_info = "[q]근접 치명타를 적중시키면 4 sec 동안 6%의 추가 화염 피해를 입힙니다."}
@@ -15852,7 +15851,7 @@ MultiLanguageSpellData['ko'][99219] = {name = "끈적이는 그물", additional_
 MultiLanguageSpellData['ko'][99220] = {name = "아이템 - 흑마법사 T12 2P 보너스", additional_info = "[q]주기적인 피해를 입힐 때마다 일정 확률로 불타는 임프를 소환하여 15 sec 동안 전투를 돕게 만듭니다.\n(효과 발동 확률: 5%, 45초 재사용 대기시간)"}
 MultiLanguageSpellData['ko'][99221] = {name = "불타는 임프", additional_info = "즉시\n[q]전투를 도울 불타는 불타는 임프를 소환합니다."}
 MultiLanguageSpellData['ko'][99223] = {name = "끈적이는 그물", additional_info = nil}
-MultiLanguageSpellData['ko'][99224] = {name = "휘몰아치는 불길", additional_info = "사정거리 없음\n즉시\n[q]74587 to 78412의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][99224] = {name = "휘몰아치는 불길", additional_info = "사정거리 없음\n즉시\n[q]87750 to 92250의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99225] = {name = "휘몰아치는 불길", additional_info = nil}
 MultiLanguageSpellData['ko'][99226] = {name = "화염 돌풍", additional_info = "40 야드 사정거리\n1.5 초 주문 시전 시간\n[q]대상에게 2751 to 4264의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99227] = {name = "불탄 나무 제어기 소환", additional_info = "40 야드 사정거리\n즉시\n[q]도토리를 심으면 나무가 자라서 덩굴손을 소환합니다."}
@@ -15893,7 +15892,7 @@ MultiLanguageSpellData['ko'][99264] = {name = "알 주머니", additional_info =
 MultiLanguageSpellData['ko'][99265] = {name = "타오르는 바위", additional_info = nil}
 MultiLanguageSpellData['ko'][99266] = {name = "유성 파괴", additional_info = nil}
 MultiLanguageSpellData['ko'][99267] = {name = "살아있는 유성", additional_info = nil}
-MultiLanguageSpellData['ko'][99268] = {name = "살아있는 유성", additional_info = "사정거리 없음\n즉시\n[q]라그나로스가 살아있는 유성을 소환합니다. 살아있는 유성은 플레이어를 향해 굴러가서 플레이어와 접촉하면 유성 충격으로 반경 8미터 내의 적에게 487500 to 512500의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][99268] = {name = "살아있는 유성", additional_info = "사정거리 없음\n즉시\n[q]라그나로스가 살아있는 유성을 소환합니다. 살아있는 유성은 플레이어를 향해 굴러가서 플레이어와 접촉하면 유성 충격으로 반경 8미터 내의 적에게 107250 to 112750의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99269] = {name = "살아있는 유성", additional_info = nil}
 MultiLanguageSpellData['ko'][99270] = {name = "자살", additional_info = nil}
 MultiLanguageSpellData['ko'][99273] = {name = "암습", additional_info = nil}
@@ -15910,7 +15909,7 @@ MultiLanguageSpellData['ko'][99283] = {name = "신비한 화살", additional_inf
 MultiLanguageSpellData['ko'][99284] = {name = "시선 집중", additional_info = "사정거리 없음\n즉시\n[q]대상에게 시선을 집중합니다.\n 도발 효과에 면역이 됩니다."}
 MultiLanguageSpellData['ko'][99285] = {name = "상어 소환 해제", additional_info = nil}
 MultiLanguageSpellData['ko'][99286] = {name = "냉기화염 분출", additional_info = "2 초 주문 시전 시간\n[q]이동 경로 내의 모든 적에게 냉기 피해를 입힙니다."}
-MultiLanguageSpellData['ko'][99287] = {name = "유성 충격", additional_info = "사정거리 없음\n즉시\n[q]살아있는 유성의 충격이 반경 8미터 내의 적에게 487500 to 512500의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][99287] = {name = "유성 충격", additional_info = "사정거리 없음\n즉시\n[q]살아있는 유성의 충격이 반경 8미터 내의 적에게 107250 to 112750의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99289] = {name = "충전", additional_info = "즉시\n[q]집중을 회복합니다."}
 MultiLanguageSpellData['ko'][99290] = {name = "축복받은 떡 놓기", additional_info = "10 야드 사정거리\n2 초 주문 시전 시간\n[q]다르나서스에 있는 선조의 제단에 축복받은 떡을 놓습니다."}
 MultiLanguageSpellData['ko'][99292] = {name = "성난불길", additional_info = nil}
@@ -15926,7 +15925,7 @@ MultiLanguageSpellData['ko'][99303] = {name = "발화", additional_info = "사�
 MultiLanguageSpellData['ko'][99304] = {name = "먹어치우기", additional_info = "10 야드 사정거리\n집중 (1 초 주문 시전 시간)\n[q]작은 야수를 먹어치워 공격력이 20%만큼 증가하고, 이동 속도가 1%만큼 증가하며, 생명력이 최대 생명력의 20%만큼 회복됩니다."}
 MultiLanguageSpellData['ko'][99305] = {name = "포만감", additional_info = "10 야드 사정거리\n즉시\n[q]얼마 전에 음식을 먹어서 배고프지 않습니다."}
 MultiLanguageSpellData['ko'][99307] = {name = "갈비 대접", additional_info = "5 야드 사정거리\n집중\n[q]다르나서스 파수꾼에게 맛있는 갈비를 대접합니다."}
-MultiLanguageSpellData['ko'][99308] = {name = "출혈이 멈추지 않는 상처", additional_info = "근접 사정거리\n즉시\n[q]적에게 출혈을 일으켜 1 min 동안 0.2초마다 5100의 물리 피해를 입힙니다. 대상의 생명력이 50% 아래로 떨어지면 효과가 사라집니다."}
+MultiLanguageSpellData['ko'][99308] = {name = "출혈이 멈추지 않는 상처", additional_info = "근접 사정거리\n즉시\n[q]적에게 출혈을 일으켜 1 min 동안 0.2초마다 6000의 물리 피해를 입힙니다. 대상의 생명력이 50% 아래로 떨어지면 효과가 사라집니다."}
 MultiLanguageSpellData['ko'][99309] = {name = "갈비 요리", additional_info = "10 야드 사정거리\n1.5 초 주문 시전 시간\n[q]난로 또는 요리용 모닥불 근처에서 갈비를 요리합니다."}
 MultiLanguageSpellData['ko'][99312] = {name = "얼어붙은 물의 정령 소환", additional_info = nil}
 MultiLanguageSpellData['ko'][99314] = {name = "쌀 빻기", additional_info = "5 야드 사정거리\n2.5 초 주문 시전 시간\n[q]쌀을 빻아서 쌀가루로 만듭니다."}
@@ -16195,7 +16194,7 @@ MultiLanguageSpellData['ko'][99645] = {name = "영속의 눈 투명화 감지 15
 MultiLanguageSpellData['ko'][99646] = {name = "무모한 도약", additional_info = "사정거리 없음\n즉시\n[q]적에게 도약하여 42412 to 47587의 화염 피해를 입히고 좁은 지역 내의 시전자를 포함한 모든 이를 기절시킵니다."}
 MultiLanguageSpellData['ko'][99647] = {name = "불타는 산", additional_info = "20 야드 사정거리\n즉시 2 초 재사용 대기시간\n[q]적에게 32244 to 36179의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99648] = {name = "투명 상태 보기 취소", additional_info = nil}
-MultiLanguageSpellData['ko'][99649] = {name = "반작용 불꽃", additional_info = "사정거리 없음\n즉시\n[q]시전자가 공격 또는 주문으로 피해를 입으면 불이 퍼져 나가 공격자에게 1초마다 5000의 화염 피해를 입힙니다. 효과는 중첩됩니다.\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][99649] = {name = "반작용 불꽃", additional_info = "사정거리 없음\n즉시\n[q]시전자가 공격 또는 주문으로 피해를 입으면 불이 퍼져 나가 공격자에게 5초마다 0의 화염 피해를 입힙니다. 효과는 중첩됩니다.\n(1초 재사용 대기시간)"}
 MultiLanguageSpellData['ko'][99650] = {name = "반작용 불꽃", additional_info = "사정거리 없음\n즉시\n[q]1초마다 5000의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99652] = {name = "[q4]두뇌분열기", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n진금 (8), 지옥불 루비 (2), 강화 엘레멘티움 주괴 (3), 혼돈의 보주 (5)\n[q4]두뇌분열기\n착용 시 귀속\n한손 장비 단검\n공격력 616 - 1,144 속도 1.80\n(초당 공격력 488.89)\n민첩성 +155\n체력 +232\n내구도 75 / 75\n85\n[q2]착용 효과: 적중도가 103만큼 증가합니다.\n[q2]착용 효과: 가속도가 103만큼 증가합니다."}
 MultiLanguageSpellData['ko'][99653] = {name = "[q4]명인 엘레멘티움 마법검", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n진금 (8), 대양 사파이어 , 벽옥 (2), 강화 엘레멘티움 주괴 , 혼돈의 보주 (5)\n[q4]명인 엘레멘티움 마법검\n착용 시 귀속\n주장비 단검\n공격력 479 - 890 속도 1.40\n(초당 공격력 488.93)\n체력 +232\n지능 +155\n내구도 75 / 75\n85\n[q2]착용 효과: 치명타 및 극대화 적중도가 103만큼 증가합니다.\n[q2]착용 효과: 적중도가 103만큼 증가합니다.\n[q2]착용 효과: 주문력이 2,066만큼 증가합니다."}
@@ -16331,7 +16330,7 @@ MultiLanguageSpellData['ko'][99827] = {name = "광전사 돌진", additional_inf
 MultiLanguageSpellData['ko'][99828] = {name = "바다 걸음", additional_info = "즉시\n[q]바쉬르에 머무는 동안 수중 호흡이 가능하며 해저 이동 속도가 119%만큼 증가합니다."}
 MultiLanguageSpellData['ko'][99829] = {name = "마그마 뱉기", additional_info = "90 야드 사정거리\n0.5 초 주문 시전 시간\n[q]적에게 3400 to 4600의 화염 피해를 입히고 적을 불태워 3초마다 4000의 추가 화염 피해를 입힙니다. 효과가 제거되면 폭발합니다."}
 MultiLanguageSpellData['ko'][99830] = {name = "화염 파열", additional_info = "즉시 5 초 재사용 대기시간\n[q]주위 적에게 5087 to 5912의 화염 피해를 입히고 밀쳐냅니다."}
-MultiLanguageSpellData['ko'][99832] = {name = "사지 도려내기", additional_info = "근접 사정거리\n즉시\n[q]지옥불 사냥개가 적의 노출된 살점을 잔인하게 도려내어 일반 공격력의 130%에 해당하는 피해를 입히고, 30 sec 동안 3초마다 효과 하나당 6800의 출혈 피해를 입히는 상처를 남깁니다."}
+MultiLanguageSpellData['ko'][99832] = {name = "사지 도려내기", additional_info = "근접 사정거리\n즉시\n[q]지옥불 사냥개가 적의 노출된 살점을 잔인하게 도려내어 일반 공격력의 130%에 해당하는 피해를 입히고, 30 sec 동안 3초마다 효과 하나당 8000의 출혈 피해를 입히는 상처를 남깁니다."}
 MultiLanguageSpellData['ko'][99835] = {name = "분리 불안", additional_info = "즉시\n[q]사냥꾼과 야수가 너무 멀리 떨어지면 둘 다 극도로 흥분하여 공격력과 공격 속도가 100%만큼 증가합니다."}
 MultiLanguageSpellData['ko'][99836] = {name = "수정 감옥 덫 던지기", additional_info = "100 야드 사정거리\n즉시 7 초 재사용 대기시간\n[q]걸려드는 대상을 단단한 수정에 가두는 덫을 던집니다."}
 MultiLanguageSpellData['ko'][99837] = {name = "수정 감옥 덫 효과", additional_info = "50 야드 사정거리\n즉시\n[q]대상을 수정에 가둡니다."}
@@ -16339,9 +16338,9 @@ MultiLanguageSpellData['ko'][99838] = {name = "제물의 덫", additional_info =
 MultiLanguageSpellData['ko'][99839] = {name = "제물의 덫 던지기", additional_info = "100 야드 사정거리\n즉시 7 초 재사용 대기시간\n[q]덫을 던져 걸려드는 대상을 불길로 감싸 화염 피해를 입히고 받는 피해를 증가시킵니다."}
 MultiLanguageSpellData['ko'][99840] = {name = "마그마 파열", additional_info = "45 야드 사정거리\n1.5 초 주문 시전 시간\n[q]거대한 마그마 폭발을 일으켜 주변 모든 적에게 40375 to 44625의 화염 피해를 입히고 1 min 동안 받는 화염 피해를 40%만큼 증가시키며 마그마 분출을 유발합니다."}
 MultiLanguageSpellData['ko'][99841] = {name = "마그마 파열", additional_info = "사정거리 없음\n즉시\n[q]폭발을 일으켜 적에게 피해를 입힙니다."}
-MultiLanguageSpellData['ko'][99842] = {name = "마그마 파열", additional_info = "사정거리 없음\n즉시\n[q]폭발을 일으켜 적에게 100937 to 111562의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][99842] = {name = "마그마 파열", additional_info = "사정거리 없음\n즉시\n[q]폭발을 일으켜 적에게 118750 to 131250의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99843] = {name = "타오르는 발톱", additional_info = nil}
-MultiLanguageSpellData['ko'][99844] = {name = "타오르는 발톱", additional_info = "30 야드 사정거리\n즉시\n[q]타오르는 발톱으로 적을 공격하여 115625 to 134375의 물리 피해를 입히고 대상이 15 sec 동안 물리 및 화염 공격으로 받는 피해를 10%만큼 증가시킵니다."}
+MultiLanguageSpellData['ko'][99844] = {name = "타오르는 발톱", additional_info = "30 야드 사정거리\n즉시\n[q]타오르는 발톱으로 적을 공격하여 138750 to 161250의 물리 피해를 입히고 대상이 15 sec 동안 물리 및 화염 공격으로 받는 피해를 10%만큼 증가시킵니다."}
 MultiLanguageSpellData['ko'][99845] = {name = "제물", additional_info = "즉시\n[q]모든 적에게 7000 to 9000의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99846] = {name = "제물", additional_info = "즉시\n[q]1초마다 주위의 적에게 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99847] = {name = "거미줄 발사", additional_info = "30 야드 사정거리\n즉시\n[q]1500의 자연 피해를 입히고 이동 속도를 0%만큼 감소시킵니다. 5초 동안 지속됩니다."}
@@ -16399,9 +16398,9 @@ MultiLanguageSpellData['ko'][99928] = {name = "번개 부르기", additional_inf
 MultiLanguageSpellData['ko'][99931] = {name = "곡선베기", additional_info = "근접 사정거리\n즉시\n[q]시전자 전방의 적에게 무기 공격력의 125%에 해당하는 피해를 입히고 주 대상에게 날카로운 상처를 남깁니다."}
 MultiLanguageSpellData['ko'][99932] = {name = "화염의 날개 취소 오라", additional_info = nil}
 MultiLanguageSpellData['ko'][99933] = {name = "용암 깃털 오라 멀티 - 취소", additional_info = nil}
-MultiLanguageSpellData['ko'][99934] = {name = "불타는 산", additional_info = "80 야드 사정거리\n즉시 2 초 재사용 대기시간\n[q]적에게 26347 to 29561의 화염 피해를 입힙니다."}
-MultiLanguageSpellData['ko'][99936] = {name = "날카로운 상처", additional_info = "즉시\n[q]30 sec에 걸쳐 3초마다 6800의 피해를 입힙니다. 효과가 중첩됩니다."}
-MultiLanguageSpellData['ko'][99937] = {name = "날카로운 상처", additional_info = "즉시\n[q]30 sec에 걸쳐 3초마다 6800의 피해를 입힙니다. 효과가 중첩됩니다."}
+MultiLanguageSpellData['ko'][99934] = {name = "불타는 산", additional_info = "80 야드 사정거리\n즉시 2 초 재사용 대기시간\n[q]적에게 43240 to 48760의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][99936] = {name = "날카로운 상처", additional_info = "즉시\n[q]30 sec에 걸쳐 3초마다 8000의 피해를 입힙니다. 효과가 중첩됩니다."}
+MultiLanguageSpellData['ko'][99937] = {name = "날카로운 상처", additional_info = "즉시\n[q]30 sec에 걸쳐 3초마다 8000의 피해를 입힙니다. 효과가 중첩됩니다."}
 MultiLanguageSpellData['ko'][99938] = {name = "투척나무 충격", additional_info = "40 야드 사정거리\n즉시\n[q]투척나무가 떨어지는 곳 주변에 있는 적에게 물리 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99939] = {name = "과열", additional_info = "마나 150\n집중 (10 초 주문 시전 시간)\n[q]사방으로 용암 덩이를 내던집니다."}
 MultiLanguageSpellData['ko'][99940] = {name = "과열", additional_info = nil}
@@ -16449,7 +16448,7 @@ MultiLanguageSpellData['ko'][99997] = {name = "그을리는 오라", additional_
 MultiLanguageSpellData['ko'][99998] = {name = "지상 포화", additional_info = "2 초 주문 시전 시간\n[q]시전자 주위를 불태워 주변 모든 적에게 6 sec 동안 1.5초마다 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][99999] = {name = "시선 집중", additional_info = nil}
 MultiLanguageSpellData['ko'][100000] = {name = "게임의 승자", additional_info = "마나 100000\n즉시 1.157 일 재사용 대기시간\n[q]당신의 모든 노력이 수포로 돌아갔을 때, 이 노래를 불러드리겠습니다.\n(1.157일 재사용 대기시간)"}
-MultiLanguageSpellData['ko'][100002] = {name = "창 던지기", additional_info = "200 야드 사정거리\n2 초 주문 시전 시간\n[q]창을 던져서 99450 to 104550의 물리 피해를 입히고 불의 범람을 발동시킵니다."}
+MultiLanguageSpellData['ko'][100002] = {name = "창 던지기", additional_info = "200 야드 사정거리\n2 초 주문 시전 시간\n[q]창을 던져서 117000 to 123000의 물리 피해를 입히고 불의 범람을 발동시킵니다."}
 MultiLanguageSpellData['ko'][100003] = {name = "마그마 파열", additional_info = "45 야드 사정거리\n즉시\n[q]마그마 폭발을 일으켜 주위 적들에게 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][100004] = {name = "정령의 속박 (심원의 영지): 스랄 폭발", additional_info = nil}
 MultiLanguageSpellData['ko'][100005] = {name = "창 시각효과", additional_info = nil}
@@ -16469,7 +16468,7 @@ MultiLanguageSpellData['ko'][100020] = {name = "명랑한 물어뜯기", additio
 MultiLanguageSpellData['ko'][100021] = {name = "알리스라조르 광폭화 오라", additional_info = nil}
 MultiLanguageSpellData['ko'][100022] = {name = "알리스라조르 광폭화 오라 2", additional_info = nil}
 MultiLanguageSpellData['ko'][100023] = {name = "각인 취소", additional_info = nil}
-MultiLanguageSpellData['ko'][100024] = {name = "출혈이 멈추지 않는 상처", additional_info = "근접 사정거리\n즉시\n[q]적에게 출혈을 일으켜 1 min 동안 0.2초마다 5100의 물리 피해를 입힙니다. 대상의 생명력이 50% 아래로 떨어지면 효과가 사라집니다."}
+MultiLanguageSpellData['ko'][100024] = {name = "출혈이 멈추지 않는 상처", additional_info = "근접 사정거리\n즉시\n[q]적에게 출혈을 일으켜 1 min 동안 0.2초마다 6000의 물리 피해를 입힙니다. 대상의 생명력이 50% 아래로 떨어지면 효과가 사라집니다."}
 MultiLanguageSpellData['ko'][100025] = {name = "서서히 어두워짐", additional_info = nil}
 MultiLanguageSpellData['ko'][100026] = {name = "창 가져오기", additional_info = nil}
 MultiLanguageSpellData['ko'][100027] = {name = "언더시티로 순간이동", additional_info = nil}
@@ -16563,7 +16562,7 @@ MultiLanguageSpellData['ko'][100166] = {name = "불타는 고문", additional_in
 MultiLanguageSpellData['ko'][100167] = {name = "신중", additional_info = "즉시\n[q]사냥개가 한번 덫에 걸려서 당분간은 특히 주의를 기울입니다."}
 MultiLanguageSpellData['ko'][100168] = {name = "정령의 속박 (심원의 영지): 테라제인 조종기 소환", additional_info = nil}
 MultiLanguageSpellData['ko'][100169] = {name = "타렉고사의 정수", additional_info = "집중 (40 초 주문 시전 시간)"}
-MultiLanguageSpellData['ko'][100171] = {name = "화염의 세계", additional_info = "사정거리 없음\n집중 (9 초 주문 시전 시간)\n[q]라그나로스가 휘몰아치는 불길을 시전하여 2초마다 자신과 가깝거나, 어느 정도 떨어지거나, 가장 멀리 떨어진 지역을 불길로 감싸서 74587 to 78412의 화염 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][100171] = {name = "화염의 세계", additional_info = "사정거리 없음\n집중 (9 초 주문 시전 시간)\n[q]라그나로스가 휘몰아치는 불길을 시전하여 2초마다 자신과 가깝거나, 어느 정도 떨어지거나, 가장 멀리 떨어진 지역을 불길로 감싸서 87750 to 92250의 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][100191] = {name = "화염 각성", additional_info = "100 야드 사정거리\n즉시\n[q]주위 모든 적에게 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][100192] = {name = "거대한 불길", additional_info = "3 초 주문 시전 시간\n[q]거대한 불길이 주위 적에게 화염 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][100193] = {name = "거대한 불길", additional_info = "2 야드 사정거리\n즉시\n[q]주위 적에게 화염 피해를 입힙니다."}
@@ -16713,7 +16712,7 @@ MultiLanguageSpellData['ko'][100455] = {name = "설퍼라스", additional_info =
 MultiLanguageSpellData['ko'][100456] = {name = "설퍼라스", additional_info = nil}
 MultiLanguageSpellData['ko'][100457] = {name = "징계 처분", additional_info = "즉시\n[q]공격 속도가 50%만큼 증가합니다.\n 공격력이 50%만큼 증가합니다."}
 MultiLanguageSpellData['ko'][100459] = {name = "타오르는 열기", additional_info = nil}
-MultiLanguageSpellData['ko'][100460] = {name = "타오르는 열기", additional_info = "1000 야드 사정거리\n즉시\n[q]용암의 후예가 무작위 대상에게 타오르는 열기를 가하여 지나간 자리에 타오르는 열기의 흔적을 남기게 합니다. 타오르는 열기는 1초마다 58012 to 60987의 화염 피해를 입히고, 화염의 피조물의 생명력을 1초마다 10%만큼 치유합니다."}
+MultiLanguageSpellData['ko'][100460] = {name = "타오르는 열기", additional_info = "1000 야드 사정거리\n즉시\n[q]용암의 후예가 무작위 대상에게 타오르는 열기를 가하여 지나간 자리에 타오르는 열기의 흔적을 남기게 합니다. 타오르는 열기는 1초마다 68250 to 71750의 화염 피해를 입히고, 화염의 피조물의 생명력을 1초마다 10%만큼 치유합니다."}
 MultiLanguageSpellData['ko'][100462] = {name = "근접 대상 위협 수준 증가", additional_info = nil}
 MultiLanguageSpellData['ko'][100463] = {name = "무광택 화염껍질 집결체", additional_info = "3 초 주문 시전 시간\n재료:\n화염껍질 파편 (2)\n[q]화염껍질 파편 3개를 결합하여 무광택 화염껍질 집결체를 만듭니다."}
 MultiLanguageSpellData['ko'][100464] = {name = "무광택 유문암 집결체", additional_info = "3 초 주문 시전 시간\n재료:\n유문암 파편 (2)\n[q]유문암 파편 3개를 결합하여 무광택 유문암 집결체를 만듭니다."}
@@ -20614,3 +20613,4 @@ MultiLanguageSpellData['ko'][470574] = {name = "Protocol Inferno", additional_in
 MultiLanguageSpellData['ko'][470575] = {name = "Protocol Inferno", additional_info = nil}
 MultiLanguageSpellData['ko'][470595] = {name = "Fury of the Firelord", additional_info = nil}
 MultiLanguageSpellData['ko'][470597] = {name = "Protocol Inferno", additional_info = "사정거리 없음\n즉시 1 분 재사용 대기시간"}
+MultiLanguageSpellData['ko'][473053] = {name = "Gushing Wound", additional_info = "근접 사정거리\n즉시\n[q]Causes the target to bleed for 6000 Physical damage every 0.2 sec. for 1 min. This effect is removed if the target falls below 50% health."}
