@@ -9378,7 +9378,6 @@ MultiLanguageNpcData['ko'][131921] = {name = "남성 드러스트바 주민", su
 MultiLanguageNpcData['ko'][131922] = {name = "여성 드러스트바 주민", subname = nil}
 MultiLanguageNpcData['ko'][131923] = {name = "페이 라우", subname = nil}
 MultiLanguageNpcData['ko'][131924] = {name = "압축가스 작렬 추적기", subname = nil}
-MultiLanguageNpcData['ko'][131925] = {name = "루실 웨이크레스트", subname = nil}
 MultiLanguageNpcData['ko'][131926] = {name = "춘가", subname = nil}
 MultiLanguageNpcData['ko'][131927] = {name = "높은산 수련생", subname = nil}
 MultiLanguageNpcData['ko'][131928] = {name = "유혹의 꽃", subname = nil}
@@ -27294,7 +27293,6 @@ MultiLanguageNpcData['ko'][151934] = {name = "포획꾼 기계거미", subname =
 MultiLanguageNpcData['ko'][151935] = {name = "Kill Credit: Use - Charging Station", subname = nil}
 MultiLanguageNpcData['ko'][151936] = {name = "마일룬", subname = nil}
 MultiLanguageNpcData['ko'][151937] = {name = "차원문 제어기", subname = nil}
-MultiLanguageNpcData['ko'][151938] = {name = "발리스리아 드림워커", subname = nil}
 MultiLanguageNpcData['ko'][151939] = {name = "베르디사", subname = nil}
 MultiLanguageNpcData['ko'][151940] = {name = "트로그 삼촌", subname = nil}
 MultiLanguageNpcData['ko'][151941] = {name = "폭발 직전의 더시웨이", subname = "비즈모의 싸움굴 병참장교"}
@@ -39839,7 +39837,7 @@ MultiLanguageNpcData['ko'][166019] = {name = "아른나방", subname = nil}
 MultiLanguageNpcData['ko'][166020] = {name = "투명 추적기", subname = nil}
 MultiLanguageNpcData['ko'][166021] = {name = "이동 경로 표시기", subname = nil}
 MultiLanguageNpcData['ko'][166022] = {name = "경계하는 여우", subname = nil}
-MultiLanguageNpcData['ko'][166023] = {name = "미로 원숭이 가이드", subname = nil}
+MultiLanguageNpcData['ko'][166023] = {name = "미로 원숭이 가이드", subname = "삭제 예정"}
 MultiLanguageNpcData['ko'][166024] = {name = "겁 많은 룬망아지", subname = nil}
 MultiLanguageNpcData['ko'][166025] = {name = "무대 도우미", subname = "별빛 연극단"}
 MultiLanguageNpcData['ko'][166026] = {name = "무에젤라의 하수인", subname = nil}
@@ -39887,7 +39885,7 @@ MultiLanguageNpcData['ko'][166069] = {name = "헌금장의 비축물", subname =
 MultiLanguageNpcData['ko'][166070] = {name = "굴림꾼", subname = "여관주인"}
 MultiLanguageNpcData['ko'][166071] = {name = "유령", subname = nil}
 MultiLanguageNpcData['ko'][166073] = {name = "거대한 몽환나방", subname = nil}
-MultiLanguageNpcData['ko'][166074] = {name = "가짜 쓰레기", subname = nil}
+MultiLanguageNpcData['ko'][166074] = {name = "가짜 쓰레기", subname = "쓰레기로 대체 예정"}
 MultiLanguageNpcData['ko'][166075] = {name = "거대날개 몽환나방", subname = nil}
 MultiLanguageNpcData['ko'][166076] = {name = "재료꾼", subname = "폐품에서 찾아낸 물건 및 수리 상인"}
 MultiLanguageNpcData['ko'][166077] = {name = "영혼의 성물함", subname = nil}

@@ -5335,7 +5335,7 @@ MultiLanguageNpcData['ko'][181748] = {name = "Djaradin Crustshaper", subname = "
 MultiLanguageNpcData['ko'][181749] = {name = "Kirin Tor Questgiver", subname = nil}
 MultiLanguageNpcData['ko'][181750] = {name = "Djaradin Wallclimber", subname = "[(T3 ELITE) SCOUT]"}
 MultiLanguageNpcData['ko'][181751] = {name = "Djaradin Lietenant Caster", subname = nil}
-MultiLanguageNpcData['ko'][181752] = {name = "Djaradin Necksnapper", subname = "[(T3 ELITE) FIGHTER]"}
+MultiLanguageNpcData['ko'][181752] = {name = "Djaradin Necksnapper", subname = nil}
 MultiLanguageNpcData['ko'][181753] = {name = "Tuskarr Questgiver", subname = nil}
 MultiLanguageNpcData['ko'][181754] = {name = "Crustshaper Darjonic", subname = "[(T3 BOSS) HEALER:EARTH]"}
 MultiLanguageNpcData['ko'][181755] = {name = "Wallclimber Darjonic", subname = "[(T3 BOSS) SCOUT]"}
@@ -6238,7 +6238,7 @@ MultiLanguageNpcData['ko'][182779] = {name = "Cobra", subname = "[(T1) FIGHTER:
 MultiLanguageNpcData['ko'][182780] = {name = "Cobra", subname = "[(T0) CASTER:NATURE]"}
 MultiLanguageNpcData['ko'][182781] = {name = "Eel", subname = "[(T2) TRAPPER:LIGHTNING]"}
 MultiLanguageNpcData['ko'][182782] = {name = "Eel", subname = "[(T2) FIGHTER]"}
-MultiLanguageNpcData['ko'][182783] = {name = "Baby Eel", subname = "[(T0) SWARMER]"}
+MultiLanguageNpcData['ko'][182783] = {name = "Reanimated Farmer", subname = "[The Scourge]"}
 MultiLanguageNpcData['ko'][182784] = {name = "Prairie Dog", subname = nil}
 MultiLanguageNpcData['ko'][182785] = {name = "Phoenix Baby", subname = nil}
 MultiLanguageNpcData['ko'][182786] = {name = "텁수룩한 토끼", subname = nil}
@@ -10305,7 +10305,6 @@ MultiLanguageNpcData['ko'][187764] = {name = "마법사 환영", subname = "키�
 MultiLanguageNpcData['ko'][187766] = {name = "Merithra", subname = nil}
 MultiLanguageNpcData['ko'][187767] = {name = "엠바르 파이어패스", subname = nil}
 MultiLanguageNpcData['ko'][187768] = {name = "다테아 스톰래쉬", subname = nil}
-MultiLanguageNpcData['ko'][187769] = {name = "Sir Learnsalot the Hooved (DNT)", subname = "[Test Alchemy Trainer]"}
 MultiLanguageNpcData['ko'][187771] = {name = "카드로스 아이스래스", subname = nil}
 MultiLanguageNpcData['ko'][187772] = {name = "오팔팽", subname = nil}
 MultiLanguageNpcData['ko'][187773] = {name = "점박이 화분뿔벌레", subname = nil}
@@ -10749,7 +10748,7 @@ MultiLanguageNpcData['ko'][188393] = {name = "Duck", subname = nil}
 MultiLanguageNpcData['ko'][188394] = {name = "Duck", subname = nil}
 MultiLanguageNpcData['ko'][188395] = {name = "Earth Elemental", subname = nil}
 MultiLanguageNpcData['ko'][188396] = {name = "Earth Elemental", subname = nil}
-MultiLanguageNpcData['ko'][188397] = {name = "Earth Proto Dragon", subname = nil}
+MultiLanguageNpcData['ko'][188397] = {name = "Earth Proto-Dragon", subname = nil}
 MultiLanguageNpcData['ko'][188398] = {name = "Earth Revenant", subname = nil}
 MultiLanguageNpcData['ko'][188399] = {name = "Eel", subname = nil}
 MultiLanguageNpcData['ko'][188400] = {name = "Eel", subname = nil}
@@ -10872,9 +10871,9 @@ MultiLanguageNpcData['ko'][188528] = {name = "Hornstrider", subname = nil}
 MultiLanguageNpcData['ko'][188529] = {name = "Hornstrider", subname = nil}
 MultiLanguageNpcData['ko'][188530] = {name = "Water Elemental", subname = nil}
 MultiLanguageNpcData['ko'][188531] = {name = "Water Elemental", subname = nil}
-MultiLanguageNpcData['ko'][188532] = {name = "Black Proto Dragon", subname = nil}
-MultiLanguageNpcData['ko'][188533] = {name = "Black Proto Dragon", subname = nil}
-MultiLanguageNpcData['ko'][188534] = {name = "Black Proto Dragon", subname = nil}
+MultiLanguageNpcData['ko'][188532] = {name = "Black Proto-Dragon", subname = nil}
+MultiLanguageNpcData['ko'][188533] = {name = "Black Proto-Dragon", subname = nil}
+MultiLanguageNpcData['ko'][188534] = {name = "Black Proto-Dragon", subname = nil}
 MultiLanguageNpcData['ko'][188535] = {name = "Proto Whelp", subname = nil}
 MultiLanguageNpcData['ko'][188536] = {name = "Dreadsquall", subname = nil}
 MultiLanguageNpcData['ko'][188537] = {name = "Phoenix", subname = nil}
@@ -17754,7 +17753,7 @@ MultiLanguageNpcData['ko'][196476] = {name = "짐마차", subname = nil}
 MultiLanguageNpcData['ko'][196477] = {name = "Qalashi Forces", subname = nil}
 MultiLanguageNpcData['ko'][196478] = {name = "갉작이", subname = nil}
 MultiLanguageNpcData['ko'][196479] = {name = "달빛이", subname = nil}
-MultiLanguageNpcData['ko'][196480] = {name = "조종사", subname = nil}
+MultiLanguageNpcData['ko'][196480] = {name = "파일럿", subname = nil}
 MultiLanguageNpcData['ko'][196481] = {name = "칠흑", subname = nil}
 MultiLanguageNpcData['ko'][196482] = {name = "비대해진 고대정령", subname = nil}
 MultiLanguageNpcData['ko'][196483] = {name = "Kill Credit: Tyrgon Positioned", subname = nil}
@@ -19840,14 +19839,14 @@ MultiLanguageNpcData['ko'][198877] = {name = "검은갈퀴 파수병", subname =
 MultiLanguageNpcData['ko'][198878] = {name = "원시술사 폭풍우창조자", subname = nil}
 MultiLanguageNpcData['ko'][198879] = {name = "핑거스프링 경호원", subname = nil}
 MultiLanguageNpcData['ko'][198880] = {name = "독기의 씨앗", subname = nil}
-MultiLanguageNpcData['ko'][198883] = {name = "Vanessa VanCleef", subname = nil}
+MultiLanguageNpcData['ko'][198883] = {name = "바네사 밴클리프", subname = nil}
 MultiLanguageNpcData['ko'][198884] = {name = "단장 마티아스 쇼", subname = "SI:7 단장"}
 MultiLanguageNpcData['ko'][198885] = {name = "SI:7 요원", subname = nil}
 MultiLanguageNpcData['ko'][198886] = {name = "데피아즈단 도둑", subname = nil}
 MultiLanguageNpcData['ko'][198887] = {name = "새끼 소나무등", subname = nil}
 MultiLanguageNpcData['ko'][198894] = {name = "Bone Spider", subname = nil}
 MultiLanguageNpcData['ko'][198895] = {name = "알레고사", subname = "순간이동 전문 마법사"}
-MultiLanguageNpcData['ko'][198896] = {name = "Master Mathias Shaw", subname = "[Leader of SI:7]"}
+MultiLanguageNpcData['ko'][198896] = {name = "단장 마티아스 쇼", subname = "SI:7 단장"}
 MultiLanguageNpcData['ko'][198897] = {name = "제철공 조슈", subname = "전문 대장장이 및 대장용품 상인"}
 MultiLanguageNpcData['ko'][198898] = {name = "바람현자 쿨리세크", subname = "전문 연금술사 및 보급품 상인"}
 MultiLanguageNpcData['ko'][198899] = {name = "수습생 아르투", subname = "전문 약초채집사"}
@@ -23919,7 +23918,6 @@ MultiLanguageNpcData['ko'][204461] = {name = "Kill Credit: Q06a - Spot 1 Arrival
 MultiLanguageNpcData['ko'][204462] = {name = "Kill Credit: Q06a - Spot 2 Arrival Finished", subname = nil}
 MultiLanguageNpcData['ko'][204463] = {name = "Slitherdrake", subname = nil}
 MultiLanguageNpcData['ko'][204464] = {name = "Djaradin Elder", subname = nil}
-MultiLanguageNpcData['ko'][204465] = {name = "조니 잘나스", subname = "이 동네는 우리가 접수한다"}
 MultiLanguageNpcData['ko'][204466] = {name = "Shineshell Slimer", subname = nil}
 MultiLanguageNpcData['ko'][204467] = {name = "Slitherdrake", subname = nil}
 MultiLanguageNpcData['ko'][204468] = {name = "하늘뿔", subname = "이 동네는 우리가 접수한다"}
@@ -24235,7 +24233,7 @@ MultiLanguageNpcData['ko'][204852] = {name = "이글거리는 창", subname = ni
 MultiLanguageNpcData['ko'][204853] = {name = "Invisible Bunny (IGC)", subname = nil}
 MultiLanguageNpcData['ko'][204854] = {name = "Elemental [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][204855] = {name = "발굴된 고서", subname = nil}
-MultiLanguageNpcData['ko'][204856] = {name = "Chauffered Mekgineer's Chopper", subname = nil}
+MultiLanguageNpcData['ko'][204856] = {name = "운전기사 딸린 붕붕이", subname = nil}
 MultiLanguageNpcData['ko'][204857] = {name = "Vault Observation Executor", subname = nil}
 MultiLanguageNpcData['ko'][204858] = {name = "네부스", subname = nil}
 MultiLanguageNpcData['ko'][204859] = {name = "Candle Flamethrower", subname = nil}
@@ -24907,14 +24905,14 @@ MultiLanguageNpcData['ko'][205771] = {name = "Kill Credit: Grimoire [DNT]", subn
 MultiLanguageNpcData['ko'][205772] = {name = "칼렉고스", subname = "환영 복제"}
 MultiLanguageNpcData['ko'][205773] = {name = "Faction Traitor", subname = nil}
 MultiLanguageNpcData['ko'][205774] = {name = "감시자 코라노스", subname = nil}
-MultiLanguageNpcData['ko'][205775] = {name = "Kildrumeh", subname = nil}
+MultiLanguageNpcData['ko'][205775] = {name = "킬드루메", subname = nil}
 MultiLanguageNpcData['ko'][205776] = {name = "아서스", subname = "로데론의 왕자"}
 MultiLanguageNpcData['ko'][205777] = {name = "천하무적", subname = nil}
 MultiLanguageNpcData['ko'][205778] = {name = "Faction Traitor", subname = nil}
 MultiLanguageNpcData['ko'][205780] = {name = "브레나", subname = "이스카라 족장"}
 MultiLanguageNpcData['ko'][205781] = {name = "기록관 에드레스", subname = nil}
-MultiLanguageNpcData['ko'][205782] = {name = "Ta'lan the Antiquary", subname = "[Cartel Ta]"}
-MultiLanguageNpcData['ko'][205783] = {name = "Finder Ta'sul", subname = nil}
+MultiLanguageNpcData['ko'][205782] = {name = "유물상 타란", subname = "타 중개단"}
+MultiLanguageNpcData['ko'][205783] = {name = "발견자 타술", subname = nil}
 MultiLanguageNpcData['ko'][205784] = {name = "Infinite Ritualist", subname = nil}
 MultiLanguageNpcData['ko'][205785] = {name = "말리고스", subname = nil}
 MultiLanguageNpcData['ko'][205786] = {name = "넬타리온", subname = nil}
@@ -25635,7 +25633,7 @@ MultiLanguageNpcData['ko'][206764] = {name = "청동 시간지기", subname = ni
 MultiLanguageNpcData['ko'][206765] = {name = "들이닥친 지옥불정령", subname = nil}
 MultiLanguageNpcData['ko'][206766] = {name = "Flame Scorpion", subname = nil}
 MultiLanguageNpcData['ko'][206767] = {name = "Flame Scorpion", subname = nil}
-MultiLanguageNpcData['ko'][206768] = {name = "Grapple Point", subname = nil}
+MultiLanguageNpcData['ko'][206768] = {name = "갈고리 위치", subname = nil}
 MultiLanguageNpcData['ko'][206769] = {name = "Fire Elemental", subname = nil}
 MultiLanguageNpcData['ko'][206770] = {name = "활성화된 수확로봇", subname = nil}
 MultiLanguageNpcData['ko'][206772] = {name = "Kaldorei Defender", subname = nil}
@@ -25756,7 +25754,7 @@ MultiLanguageNpcData['ko'][206893] = {name = "청동 시간지기", subname = ni
 MultiLanguageNpcData['ko'][206894] = {name = "아가판투스", subname = nil}
 MultiLanguageNpcData['ko'][206895] = {name = "맛깔스러운 단서", subname = nil}
 MultiLanguageNpcData['ko'][206896] = {name = "메리스라", subname = "꿈꾸는 자"}
-MultiLanguageNpcData['ko'][206898] = {name = "Winston", subname = nil}
+MultiLanguageNpcData['ko'][206898] = {name = "윈스톤", subname = nil}
 MultiLanguageNpcData['ko'][206899] = {name = "기괴한 지옥 박쥐", subname = nil}
 MultiLanguageNpcData['ko'][206900] = {name = "화염결속 파수꾼", subname = nil}
 MultiLanguageNpcData['ko'][206901] = {name = "Kill Credit: Iriska Illusion Dispelled", subname = nil}
@@ -26634,7 +26632,7 @@ MultiLanguageNpcData['ko'][208165] = {name = "얼라이언스 기사", subname =
 MultiLanguageNpcData['ko'][208166] = {name = "정지 해제 집중 장치", subname = nil}
 MultiLanguageNpcData['ko'][208167] = {name = "니로빈", subname = "사본 연구 고고학자"}
 MultiLanguageNpcData['ko'][208168] = {name = "이터누스", subname = nil}
-MultiLanguageNpcData['ko'][208169] = {name = "Harvest Torch", subname = nil}
+MultiLanguageNpcData['ko'][208169] = {name = "수확 횃불", subname = nil}
 MultiLanguageNpcData['ko'][208170] = {name = "미스린디르", subname = "직업용품 상인"}
 MultiLanguageNpcData['ko'][208173] = {name = "엘란드리어스", subname = "일용품 상인"}
 MultiLanguageNpcData['ko'][208174] = {name = "얼어붙은 검투사", subname = nil}
@@ -28128,9 +28126,9 @@ MultiLanguageNpcData['ko'][210203] = {name = "Seeking Inferno", subname = nil}
 MultiLanguageNpcData['ko'][210204] = {name = "Rokhan", subname = "[Darkspear Chieftain]"}
 MultiLanguageNpcData['ko'][210205] = {name = "Conjured Phoenix", subname = nil}
 MultiLanguageNpcData['ko'][210206] = {name = "Historian Wolfgang", subname = "[The Timewalkers]"}
-MultiLanguageNpcData['ko'][210207] = {name = "Historian Cortagosa", subname = "[The Timewalkers]"}
-MultiLanguageNpcData['ko'][210208] = {name = "Historian Gnai Woodlund", subname = "[The Timewalkers]"}
-MultiLanguageNpcData['ko'][210209] = {name = "Mocha", subname = nil}
+MultiLanguageNpcData['ko'][210207] = {name = "역사가 코르타고사", subname = "시간여행단"}
+MultiLanguageNpcData['ko'][210208] = {name = "역사가 나이 우드런드", subname = "시간여행단"}
+MultiLanguageNpcData['ko'][210209] = {name = "모카", subname = nil}
 MultiLanguageNpcData['ko'][210210] = {name = "쇄도하는 포들링", subname = nil}
 MultiLanguageNpcData['ko'][210211] = {name = "Enchanted Shrub", subname = nil}
 MultiLanguageNpcData['ko'][210221] = {name = "Lilian Voss", subname = nil}
@@ -30059,7 +30057,7 @@ MultiLanguageNpcData['ko'][212759] = {name = "도발당한 잠복마귀", subnam
 MultiLanguageNpcData['ko'][212761] = {name = "들끓는 하늘공포", subname = nil}
 MultiLanguageNpcData['ko'][212762] = {name = "웬드브렌트", subname = nil}
 MultiLanguageNpcData['ko'][212764] = {name = "동력장치 대변자", subname = nil}
-MultiLanguageNpcData['ko'][212765] = {name = "공허 결속 모독자", subname = nil}
+MultiLanguageNpcData['ko'][212765] = {name = "공허결속 모독자", subname = nil}
 MultiLanguageNpcData['ko'][212766] = {name = "풀뿌리 단추", subname = nil}
 MultiLanguageNpcData['ko'][212773] = {name = "잿빛 희생양", subname = nil}
 MultiLanguageNpcData['ko'][212774] = {name = "잿빛 희생양", subname = nil}
@@ -31884,8 +31882,8 @@ MultiLanguageNpcData['ko'][214940] = {name = "카헤티 척후병", subname = ni
 MultiLanguageNpcData['ko'][214941] = {name = "카헤티 감독관", subname = nil}
 MultiLanguageNpcData['ko'][214943] = {name = "초조한 이프티쉬", subname = nil}
 MultiLanguageNpcData['ko'][214944] = {name = "Pulse Stalker [DNT]", subname = nil}
-MultiLanguageNpcData['ko'][214945] = {name = "이끼투성이 라몰리스", subname = nil}
-MultiLanguageNpcData['ko'][214946] = {name = "덩굴포식 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][214945] = {name = "이끼투성이 돌산양", subname = nil}
+MultiLanguageNpcData['ko'][214946] = {name = "덩굴포식 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][214947] = {name = "토파즈의 눈", subname = nil}
 MultiLanguageNpcData['ko'][214948] = {name = "떠도는 폭풍떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][214949] = {name = "휘황찬란한 새끼 공작새", subname = nil}
@@ -32509,6 +32507,7 @@ MultiLanguageNpcData['ko'][215718] = {name = "피티", subname = nil}
 MultiLanguageNpcData['ko'][215719] = {name = "Malfunctioning Crawler Mine", subname = nil}
 MultiLanguageNpcData['ko'][215720] = {name = "거미 지뢰", subname = nil}
 MultiLanguageNpcData['ko'][215724] = {name = "네이레이아", subname = nil}
+MultiLanguageNpcData['ko'][215726] = {name = "무게 막대 소도구", subname = nil}
 MultiLanguageNpcData['ko'][215727] = {name = "아라시 예비군", subname = nil}
 MultiLanguageNpcData['ko'][215730] = {name = "아로매쉬", subname = "므말 거미학자"}
 MultiLanguageNpcData['ko'][215731] = {name = "Captain Niffen", subname = "[CHANGE MY NAME]"}
@@ -32804,7 +32803,7 @@ MultiLanguageNpcData['ko'][216084] = {name = "부상당한 토석인", subname =
 MultiLanguageNpcData['ko'][216085] = {name = "모이라 타우릿산", subname = "검은무쇠 부족 여왕"}
 MultiLanguageNpcData['ko'][216086] = {name = "빛나는 미소의 베룬드", subname = nil}
 MultiLanguageNpcData['ko'][216087] = {name = "대변자 브린테", subname = nil}
-MultiLanguageNpcData['ko'][216088] = {name = "웬드브렌트", subname = nil}
+MultiLanguageNpcData['ko'][216088] = {name = "웬브랜트", subname = nil}
 MultiLanguageNpcData['ko'][216089] = {name = "크로쿨 방문객", subname = nil}
 MultiLanguageNpcData['ko'][216090] = {name = "길들인 마르술", subname = nil}
 MultiLanguageNpcData['ko'][216091] = {name = "타바누", subname = "마르술 사육사"}
@@ -32856,7 +32855,7 @@ MultiLanguageNpcData['ko'][216147] = {name = "안두인 린", subname = nil}
 MultiLanguageNpcData['ko'][216148] = {name = "알레리아 윈드러너", subname = nil}
 MultiLanguageNpcData['ko'][216149] = {name = "모이라 타우릿산", subname = "검은무쇠 부족 여왕"}
 MultiLanguageNpcData['ko'][216150] = {name = "마그니 브론즈비어드", subname = "대변자"}
-MultiLanguageNpcData['ko'][216151] = {name = "메릭스", subname = "의회감독관"}
+MultiLanguageNpcData['ko'][216151] = {name = "메릭스", subname = "의회지기"}
 MultiLanguageNpcData['ko'][216152] = {name = "Earthen Stormrider", subname = "[Scout]"}
 MultiLanguageNpcData['ko'][216153] = {name = "자칼라", subname = nil}
 MultiLanguageNpcData['ko'][216155] = {name = "딸깍거리는 복병", subname = nil}
@@ -33643,7 +33642,7 @@ MultiLanguageNpcData['ko'][217087] = {name = "Crystal Clackling", subname = nil}
 MultiLanguageNpcData['ko'][217088] = {name = "네르나벨", subname = "보석공"}
 MultiLanguageNpcData['ko'][217089] = {name = "Bradrula", subname = nil}
 MultiLanguageNpcData['ko'][217090] = {name = "롤드렌", subname = "시장 감사관"}
-MultiLanguageNpcData['ko'][217091] = {name = "보크그레트", subname = nil}
+MultiLanguageNpcData['ko'][217091] = {name = "보크그레트", subname = "제련터 시장 행정관"}
 MultiLanguageNpcData['ko'][217092] = {name = "Lounge Bruiser", subname = nil}
 MultiLanguageNpcData['ko'][217093] = {name = "옵스토른", subname = nil}
 MultiLanguageNpcData['ko'][217094] = {name = "오그론 워프체인", subname = "발드라켄 방문객"}
@@ -33745,7 +33744,7 @@ MultiLanguageNpcData['ko'][217197] = {name = "Gilnean Child", subname = nil}
 MultiLanguageNpcData['ko'][217198] = {name = "앵무새", subname = nil}
 MultiLanguageNpcData['ko'][217200] = {name = "공허 수정 괴수", subname = nil}
 MultiLanguageNpcData['ko'][217205] = {name = "Targeting Bunny", subname = nil}
-MultiLanguageNpcData['ko'][217207] = {name = "속박 풀린 일꾼", subname = nil}
+MultiLanguageNpcData['ko'][217207] = {name = "해방자 일꾼", subname = nil}
 MultiLanguageNpcData['ko'][217208] = {name = "제크비르", subname = "전령의 대리인"}
 MultiLanguageNpcData['ko'][217209] = {name = "시쉬라", subname = "제쉬의 괴물"}
 MultiLanguageNpcData['ko'][217210] = {name = "Roska's Crate of Totems", subname = nil}
@@ -33920,7 +33919,7 @@ MultiLanguageNpcData['ko'][217425] = {name = "진창 비료", subname = nil}
 MultiLanguageNpcData['ko'][217426] = {name = "텔레온 브라운파이크 경", subname = nil}
 MultiLanguageNpcData['ko'][217427] = {name = "Brother Taelan Darkstrike", subname = "[Order of Night (3/1)]"}
 MultiLanguageNpcData['ko'][217428] = {name = "동요한 바위앉은새", subname = nil}
-MultiLanguageNpcData['ko'][217429] = {name = "대마왕", subname = nil}
+MultiLanguageNpcData['ko'][217429] = {name = "거대마귀", subname = nil}
 MultiLanguageNpcData['ko'][217430] = {name = "Weaver's Threadling", subname = nil}
 MultiLanguageNpcData['ko'][217431] = {name = "Weaver's Threadling", subname = nil}
 MultiLanguageNpcData['ko'][217432] = {name = "Weaver's Threadling", subname = nil}
@@ -33941,7 +33940,7 @@ MultiLanguageNpcData['ko'][217446] = {name = "샤드가르", subname = "전문 
 MultiLanguageNpcData['ko'][217447] = {name = "간도르힐", subname = "전문 대장장이"}
 MultiLanguageNpcData['ko'][217448] = {name = "카헤티 복병", subname = nil}
 MultiLanguageNpcData['ko'][217449] = {name = "오팔린", subname = "보석세공용품 상인"}
-MultiLanguageNpcData['ko'][217450] = {name = "속박 풀린 수호자", subname = nil}
+MultiLanguageNpcData['ko'][217450] = {name = "해방자 수호병", subname = nil}
 MultiLanguageNpcData['ko'][217451] = {name = "고위 정원사 두르티그", subname = "전문 약초채집사"}
 MultiLanguageNpcData['ko'][217452] = {name = "양조장이 수도사", subname = nil}
 MultiLanguageNpcData['ko'][217453] = {name = "Kill Credit: Q04 - Follow 1 Finished", subname = nil}
@@ -33949,7 +33948,7 @@ MultiLanguageNpcData['ko'][217454] = {name = "Kill Credit: Q04 - Follow 2 Finish
 MultiLanguageNpcData['ko'][217455] = {name = "Kill Credit: Q04 - Follow 3 Finished", subname = nil}
 MultiLanguageNpcData['ko'][217456] = {name = "수북한 잡초", subname = nil}
 MultiLanguageNpcData['ko'][217457] = {name = "Deeps Strider Matriarch", subname = nil}
-MultiLanguageNpcData['ko'][217458] = {name = "Cataract Strider", subname = nil}
+MultiLanguageNpcData['ko'][217458] = {name = "폭포 성큼걸이", subname = nil}
 MultiLanguageNpcData['ko'][217459] = {name = "Deeps Striderling", subname = nil}
 MultiLanguageNpcData['ko'][217460] = {name = "Grotto Salamanther", subname = nil}
 MultiLanguageNpcData['ko'][217461] = {name = "동굴비늘 새끼", subname = nil}
@@ -33959,7 +33958,7 @@ MultiLanguageNpcData['ko'][217464] = {name = "경건한 사도", subname = nil}
 MultiLanguageNpcData['ko'][217465] = {name = "아라크네", subname = nil}
 MultiLanguageNpcData['ko'][217466] = {name = "베스카", subname = "수습 비단노래꾼"}
 MultiLanguageNpcData['ko'][217467] = {name = "테스카", subname = "수습 비단노래꾼"}
-MultiLanguageNpcData['ko'][217468] = {name = "날쌘 실타래 쥐", subname = nil}
+MultiLanguageNpcData['ko'][217468] = {name = "날쌘 그물쥐", subname = nil}
 MultiLanguageNpcData['ko'][217469] = {name = "모르드렉", subname = "주문, 두루마리, 아뮬렛 상인"}
 MultiLanguageNpcData['ko'][217470] = {name = "툴루문", subname = "집행자 조수"}
 MultiLanguageNpcData['ko'][217471] = {name = "Waterworks Cartwielder", subname = nil}
@@ -34010,7 +34009,7 @@ MultiLanguageNpcData['ko'][217519] = {name = "일몰 그늘경비병", subname =
 MultiLanguageNpcData['ko'][217522] = {name = "끈적이는 민달팽이", subname = nil}
 MultiLanguageNpcData['ko'][217523] = {name = "새끼 립리스크", subname = nil}
 MultiLanguageNpcData['ko'][217524] = {name = "장갑 립리스크", subname = nil}
-MultiLanguageNpcData['ko'][217525] = {name = "속박 풀린 토석인", subname = nil}
+MultiLanguageNpcData['ko'][217525] = {name = "해방자 토석인", subname = nil}
 MultiLanguageNpcData['ko'][217526] = {name = "Kill Credit: Fungal Spore Burned", subname = nil}
 MultiLanguageNpcData['ko'][217527] = {name = "소금기 갈매기", subname = nil}
 MultiLanguageNpcData['ko'][217528] = {name = "Chitin Ravager", subname = nil}
@@ -34535,10 +34534,10 @@ MultiLanguageNpcData['ko'][218187] = {name = "풀 뜯는 성큼이", subname = n
 MultiLanguageNpcData['ko'][218188] = {name = "방랑하는 먹보", subname = nil}
 MultiLanguageNpcData['ko'][218189] = {name = "폴로", subname = "요리 재료 상인"}
 MultiLanguageNpcData['ko'][218190] = {name = "사리아", subname = "재봉용품 상인"}
-MultiLanguageNpcData['ko'][218191] = {name = "이끼투성이 라몰리스", subname = nil}
-MultiLanguageNpcData['ko'][218192] = {name = "지에스바르그", subname = "연금술용품 상인"}
+MultiLanguageNpcData['ko'][218191] = {name = "이끼투성이 돌산양", subname = nil}
+MultiLanguageNpcData['ko'][218192] = {name = "시스바르그", subname = "연금술용품 상인"}
 MultiLanguageNpcData['ko'][218193] = {name = "일리아니", subname = "마법부여용품 상인"}
-MultiLanguageNpcData['ko'][218194] = {name = "덩굴포식 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][218194] = {name = "덩굴포식 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][218195] = {name = "루쿠", subname = "기술용품 상인"}
 MultiLanguageNpcData['ko'][218196] = {name = "'날렵한' 안디스즈", subname = "관리자"}
 MultiLanguageNpcData['ko'][218197] = {name = "쿠르스", subname = "사무원"}
@@ -35130,7 +35129,7 @@ MultiLanguageNpcData['ko'][219148] = {name = "스카르딘 탈태", subname = ni
 MultiLanguageNpcData['ko'][219149] = {name = "이성을 잃은 스카르딘", subname = nil}
 MultiLanguageNpcData['ko'][219150] = {name = "서약신도 시민", subname = nil}
 MultiLanguageNpcData['ko'][219151] = {name = "서약신도 시민", subname = nil}
-MultiLanguageNpcData['ko'][219152] = {name = "Unbound Civilian", subname = nil}
+MultiLanguageNpcData['ko'][219152] = {name = "해방자 시민", subname = nil}
 MultiLanguageNpcData['ko'][219153] = {name = "Unbound Civilian", subname = nil}
 MultiLanguageNpcData['ko'][219154] = {name = "동요한 기계 대변자", subname = nil}
 MultiLanguageNpcData['ko'][219155] = {name = "동요한 기계 대변자", subname = nil}
@@ -35335,7 +35334,7 @@ MultiLanguageNpcData['ko'][219378] = {name = "우리 속 돌산양", subname = n
 MultiLanguageNpcData['ko'][219379] = {name = "모레크", subname = "가방 상인"}
 MultiLanguageNpcData['ko'][219380] = {name = "도칸", subname = "꽃병 상인"}
 MultiLanguageNpcData['ko'][219381] = {name = "Visiting Machinespeaker", subname = nil}
-MultiLanguageNpcData['ko'][219382] = {name = "속박 풀린 무역상", subname = nil}
+MultiLanguageNpcData['ko'][219382] = {name = "해방자 무역상", subname = nil}
 MultiLanguageNpcData['ko'][219383] = {name = "말루크", subname = "책 상인"}
 MultiLanguageNpcData['ko'][219384] = {name = "기계 대변자 조르스", subname = nil}
 MultiLanguageNpcData['ko'][219385] = {name = "네라다", subname = "물약 상인"}
@@ -35383,7 +35382,7 @@ MultiLanguageNpcData['ko'][219433] = {name = "암초지기", subname = nil}
 MultiLanguageNpcData['ko'][219434] = {name = "뒤틀린 덩굴손", subname = nil}
 MultiLanguageNpcData['ko'][219435] = {name = "세련된 뱃사람", subname = nil}
 MultiLanguageNpcData['ko'][219436] = {name = "건장한 뱃사람", subname = nil}
-MultiLanguageNpcData['ko'][219437] = {name = "도르나갈 시민", subname = nil}
+MultiLanguageNpcData['ko'][219437] = {name = "도르노갈 시민", subname = nil}
 MultiLanguageNpcData['ko'][219438] = {name = "그물감시관 시체", subname = nil}
 MultiLanguageNpcData['ko'][219439] = {name = "Skardyn Hauler", subname = nil}
 MultiLanguageNpcData['ko'][219440] = {name = "고위 대변자 에리히", subname = nil}
@@ -35541,7 +35540,7 @@ MultiLanguageNpcData['ko'][219687] = {name = "Fungarian Beast", subname = nil}
 MultiLanguageNpcData['ko'][219693] = {name = "Rock Viper", subname = "[T2 (1.2/2)]"}
 MultiLanguageNpcData['ko'][219694] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['ko'][219695] = {name = "지친 잿불벌", subname = nil}
-MultiLanguageNpcData['ko'][219696] = {name = "체념한 일벌레", subname = nil}
+MultiLanguageNpcData['ko'][219696] = {name = "망설이는 일벌레", subname = nil}
 MultiLanguageNpcData['ko'][219697] = {name = "글렌세라", subname = "변신 교관"}
 MultiLanguageNpcData['ko'][219699] = {name = "미랄 머더 미튼스", subname = nil}
 MultiLanguageNpcData['ko'][219701] = {name = "Celormu", subname = "[Dragonriding Trainer]"}
@@ -35585,7 +35584,7 @@ MultiLanguageNpcData['ko'][219754] = {name = "심연의 속삭이는 자", subna
 MultiLanguageNpcData['ko'][219755] = {name = "알레리아 윈드러너", subname = nil}
 MultiLanguageNpcData['ko'][219756] = {name = "여군주 제이나 프라우드무어", subname = nil}
 MultiLanguageNpcData['ko'][219757] = {name = "스랄", subname = nil}
-MultiLanguageNpcData['ko'][219759] = {name = "게으른 고물상", subname = "골드퓨즈 회수반"}
+MultiLanguageNpcData['ko'][219759] = {name = "게으른 고물상", subname = nil}
 MultiLanguageNpcData['ko'][219760] = {name = "다카쉬 그림레저", subname = "병참장교"}
 MultiLanguageNpcData['ko'][219761] = {name = "플릭스 스퍼터마우스", subname = nil}
 MultiLanguageNpcData['ko'][219763] = {name = "거울의 주인 무르크나", subname = nil}
@@ -36148,7 +36147,7 @@ MultiLanguageNpcData['ko'][220462] = {name = "Weaver's Instructions", subname = 
 MultiLanguageNpcData['ko'][220463] = {name = "Distraction Credit Large", subname = nil}
 MultiLanguageNpcData['ko'][220464] = {name = "Distraction Credit Small", subname = nil}
 MultiLanguageNpcData['ko'][220465] = {name = "뱃사람 노투스", subname = nil}
-MultiLanguageNpcData['ko'][220466] = {name = "Stillstone Frog Trap", subname = nil}
+MultiLanguageNpcData['ko'][220466] = {name = "침묵바위 개구리 덫", subname = nil}
 MultiLanguageNpcData['ko'][220467] = {name = "연고 제작자 오를로", subname = "오를로의 약국"}
 MultiLanguageNpcData['ko'][220468] = {name = "롭", subname = nil}
 MultiLanguageNpcData['ko'][220469] = {name = "스틸", subname = nil}
@@ -36183,7 +36182,7 @@ MultiLanguageNpcData['ko'][220497] = {name = "비단 야금이", subname = nil}
 MultiLanguageNpcData['ko'][220498] = {name = "뱃사람 시로", subname = nil}
 MultiLanguageNpcData['ko'][220499] = {name = "오드린 브론즈닐", subname = nil}
 MultiLanguageNpcData['ko'][220500] = {name = "달콤침 일꾼", subname = nil}
-MultiLanguageNpcData['ko'][220501] = {name = "Royal Shackles", subname = nil}
+MultiLanguageNpcData['ko'][220501] = {name = "군주의 족쇄", subname = nil}
 MultiLanguageNpcData['ko'][220502] = {name = "공격적인 달콤침", subname = nil}
 MultiLanguageNpcData['ko'][220504] = {name = "암흑의 토템", subname = nil}
 MultiLanguageNpcData['ko'][220505] = {name = "Targeting Bunny", subname = nil}
@@ -36619,7 +36618,7 @@ MultiLanguageNpcData['ko'][221019] = {name = "러피오스", subname = nil}
 MultiLanguageNpcData['ko'][221020] = {name = "KC: TP to Surface", subname = nil}
 MultiLanguageNpcData['ko'][221021] = {name = "KC: Climb High", subname = nil}
 MultiLanguageNpcData['ko'][221022] = {name = "KC: Climb Mid", subname = nil}
-MultiLanguageNpcData['ko'][221023] = {name = "야생 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][221023] = {name = "야생 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][221024] = {name = "격노한 혈암뿔", subname = nil}
 MultiLanguageNpcData['ko'][221025] = {name = "간섭하는 포들링", subname = nil}
 MultiLanguageNpcData['ko'][221028] = {name = "병든 덩굴손", subname = nil}
@@ -36668,7 +36667,7 @@ MultiLanguageNpcData['ko'][221076] = {name = "악취비늘", subname = nil}
 MultiLanguageNpcData['ko'][221077] = {name = "조수 울라 스레드스트롱", subname = "젠샤르 교역소"}
 MultiLanguageNpcData['ko'][221080] = {name = "밤 딸깍이", subname = nil}
 MultiLanguageNpcData['ko'][221081] = {name = "사악한 바퀴", subname = nil}
-MultiLanguageNpcData['ko'][221084] = {name = "Kordac", subname = "[Dormant Protector]"}
+MultiLanguageNpcData['ko'][221084] = {name = "코르닥", subname = "휴면 중인 수호병"}
 MultiLanguageNpcData['ko'][221088] = {name = "웅변가 티시티크", subname = "두 번째 가닥"}
 MultiLanguageNpcData['ko'][221089] = {name = "웅변가 티시티크", subname = "두 번째 가닥"}
 MultiLanguageNpcData['ko'][221090] = {name = "웅변가 티시티크", subname = "두 번째 가닥"}
@@ -36744,14 +36743,14 @@ MultiLanguageNpcData['ko'][221167] = {name = "위론", subname = "옥룡"}
 MultiLanguageNpcData['ko'][221177] = {name = "선조", subname = nil}
 MultiLanguageNpcData['ko'][221178] = {name = "기둥 딸깍이", subname = nil}
 MultiLanguageNpcData['ko'][221179] = {name = "황혼그림자", subname = nil}
-MultiLanguageNpcData['ko'][221180] = {name = "Eroded Titan Construct", subname = nil}
+MultiLanguageNpcData['ko'][221180] = {name = "부식된 티탄 피조물", subname = nil}
 MultiLanguageNpcData['ko'][221181] = {name = "기둥 딸깍이", subname = nil}
 MultiLanguageNpcData['ko'][221182] = {name = "폭풍떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][221183] = {name = "폭죽통", subname = nil}
 MultiLanguageNpcData['ko'][221185] = {name = "Stonewing Deepflayer", subname = nil}
 MultiLanguageNpcData['ko'][221186] = {name = "Irontalon Deepflayer", subname = nil}
 MultiLanguageNpcData['ko'][221187] = {name = "밤의 결사대 사도", subname = nil}
-MultiLanguageNpcData['ko'][221188] = {name = "Stormrook", subname = nil}
+MultiLanguageNpcData['ko'][221188] = {name = "폭풍떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][221189] = {name = "늙은 골골이", subname = nil}
 MultiLanguageNpcData['ko'][221190] = {name = "충성주의자 실칼날", subname = nil}
 MultiLanguageNpcData['ko'][221191] = {name = "분리주의 수행사제", subname = nil}
@@ -36897,7 +36896,7 @@ MultiLanguageNpcData['ko'][221439] = {name = "Kill Credit: Epic [DNT]", subname 
 MultiLanguageNpcData['ko'][221440] = {name = "Kill Credit: Legendary [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][221441] = {name = "Stormrider Shaman", subname = nil}
 MultiLanguageNpcData['ko'][221442] = {name = "폭풍기수 주술사", subname = nil}
-MultiLanguageNpcData['ko'][221443] = {name = "Stormrider Shaman", subname = nil}
+MultiLanguageNpcData['ko'][221443] = {name = "폭풍기수 주술사", subname = nil}
 MultiLanguageNpcData['ko'][221444] = {name = "기억의 땅지기", subname = nil}
 MultiLanguageNpcData['ko'][221446] = {name = "생명체 이름", subname = "플레이버 칭호"}
 MultiLanguageNpcData['ko'][221447] = {name = "기억의 스컬지부리", subname = nil}
@@ -36911,7 +36910,7 @@ MultiLanguageNpcData['ko'][221456] = {name = "Order of Night Ranger", subname = 
 MultiLanguageNpcData['ko'][221457] = {name = "Order of Night Tank", subname = nil}
 MultiLanguageNpcData['ko'][221458] = {name = "욜란다 아키스마엘", subname = "전략가"}
 MultiLanguageNpcData['ko'][221459] = {name = "구름떼까마귀", subname = nil}
-MultiLanguageNpcData['ko'][221460] = {name = "Saddled Cloudrook", subname = nil}
+MultiLanguageNpcData['ko'][221460] = {name = "안장 얹은 구름떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][221462] = {name = "키린 토 차원문지기", subname = nil}
 MultiLanguageNpcData['ko'][221463] = {name = "Shadowfel Revenant", subname = nil}
 MultiLanguageNpcData['ko'][221464] = {name = "배양된 수렁버섯", subname = nil}
@@ -36948,7 +36947,7 @@ MultiLanguageNpcData['ko'][221509] = {name = "Kill Credit: Left placement area [
 MultiLanguageNpcData['ko'][221510] = {name = "Kill Credit: Fog site A reached [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][221511] = {name = "Kill Credit: Fog site B reached [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][221512] = {name = "Kill Credit: Fog site C reached [DNT]", subname = nil}
-MultiLanguageNpcData['ko'][221513] = {name = "칠하지 않은 라몰리스 소품", subname = nil}
+MultiLanguageNpcData['ko'][221513] = {name = "칠하지 않은 돌산양 소품", subname = nil}
 MultiLanguageNpcData['ko'][221514] = {name = "네루비안 꼭두각시", subname = nil}
 MultiLanguageNpcData['ko'][221515] = {name = "Cloud Farmed", subname = nil}
 MultiLanguageNpcData['ko'][221516] = {name = "기억 속의 돌연변이 랩터", subname = nil}
@@ -36966,7 +36965,7 @@ MultiLanguageNpcData['ko'][221527] = {name = "왕실 초원매", subname = nil}
 MultiLanguageNpcData['ko'][221528] = {name = "솟구치는 초원매", subname = nil}
 MultiLanguageNpcData['ko'][221529] = {name = "Spirit Bomb", subname = nil}
 MultiLanguageNpcData['ko'][221530] = {name = "수도사 아베알라드", subname = nil}
-MultiLanguageNpcData['ko'][221531] = {name = "Stormrook", subname = nil}
+MultiLanguageNpcData['ko'][221531] = {name = "폭풍떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][221532] = {name = "토석인 시민", subname = nil}
 MultiLanguageNpcData['ko'][221533] = {name = "폭풍떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][221534] = {name = "방황하는 라이트팽", subname = nil}
@@ -37000,7 +36999,7 @@ MultiLanguageNpcData['ko'][221563] = {name = "Gull", subname = nil}
 MultiLanguageNpcData['ko'][221564] = {name = "놀리 마를렌", subname = nil}
 MultiLanguageNpcData['ko'][221566] = {name = "원시 대지의 정령", subname = nil}
 MultiLanguageNpcData['ko'][221567] = {name = "Monstrous Eel", subname = "[T2 (2/1.2)]"}
-MultiLanguageNpcData['ko'][221568] = {name = "라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][221568] = {name = "돌산양", subname = nil}
 MultiLanguageNpcData['ko'][221569] = {name = "매", subname = nil}
 MultiLanguageNpcData['ko'][221570] = {name = "Stormrook", subname = nil}
 MultiLanguageNpcData['ko'][221571] = {name = "Rock Snail", subname = nil}
@@ -37233,7 +37232,7 @@ MultiLanguageNpcData['ko'][221862] = {name = "부서진 광산 수레", subname 
 MultiLanguageNpcData['ko'][221863] = {name = "소환된 수행사제", subname = nil}
 MultiLanguageNpcData['ko'][221865] = {name = "세계분쇄자 강권", subname = nil}
 MultiLanguageNpcData['ko'][221866] = {name = "안두인 린", subname = nil}
-MultiLanguageNpcData['ko'][221867] = {name = "Mereldar Child", subname = nil}
+MultiLanguageNpcData['ko'][221867] = {name = "메렐다르 어린이", subname = nil}
 MultiLanguageNpcData['ko'][221868] = {name = "KC: Power Crystal Donated", subname = nil}
 MultiLanguageNpcData['ko'][221871] = {name = "어둠 비단뱀", subname = nil}
 MultiLanguageNpcData['ko'][221872] = {name = "열성적인 꼬꼬댁", subname = nil}
@@ -37308,7 +37307,7 @@ MultiLanguageNpcData['ko'][221959] = {name = "Kill Credit: Nebb Spoken to [DNT]"
 MultiLanguageNpcData['ko'][221960] = {name = "세계분쇄자 강골등", subname = nil}
 MultiLanguageNpcData['ko'][221961] = {name = "페어린 로서", subname = nil}
 MultiLanguageNpcData['ko'][221962] = {name = "세계분쇄자 현자", subname = nil}
-MultiLanguageNpcData['ko'][221963] = {name = "Worldcarver Captain", subname = nil}
+MultiLanguageNpcData['ko'][221963] = {name = "세계분쇄자 대장", subname = nil}
 MultiLanguageNpcData['ko'][221964] = {name = "세계분쇄자 지휘관", subname = nil}
 MultiLanguageNpcData['ko'][221965] = {name = "사령관 아트루드", subname = nil}
 MultiLanguageNpcData['ko'][221966] = {name = "Summoned Acolyte", subname = nil}
@@ -37320,7 +37319,7 @@ MultiLanguageNpcData['ko'][221972] = {name = "탈린헤트", subname = nil}
 MultiLanguageNpcData['ko'][221973] = {name = "테마야", subname = nil}
 MultiLanguageNpcData['ko'][221974] = {name = "강절단자 공제", subname = nil}
 MultiLanguageNpcData['ko'][221975] = {name = "지벤", subname = nil}
-MultiLanguageNpcData['ko'][221976] = {name = "Zillix", subname = nil}
+MultiLanguageNpcData['ko'][221976] = {name = "질릭스", subname = nil}
 MultiLanguageNpcData['ko'][221977] = {name = "몬테 가즈로", subname = nil}
 MultiLanguageNpcData['ko'][221978] = {name = "살아있는 대지의 정령", subname = nil}
 MultiLanguageNpcData['ko'][221979] = {name = "공허결속 포효자", subname = nil}
@@ -37817,7 +37816,7 @@ MultiLanguageNpcData['ko'][222729] = {name = "가지뿔껍질 진드기", subnam
 MultiLanguageNpcData['ko'][222730] = {name = "광포한 실거미", subname = nil}
 MultiLanguageNpcData['ko'][222731] = {name = "네루비안 전쟁직공", subname = nil}
 MultiLanguageNpcData['ko'][222732] = {name = "Kill Credit: Minecart Credit [DNT]", subname = nil}
-MultiLanguageNpcData['ko'][222733] = {name = "폭풍군자 카오도르", subname = nil}
+MultiLanguageNpcData['ko'][222733] = {name = "폭풍군주 카오도르", subname = nil}
 MultiLanguageNpcData['ko'][222735] = {name = "Unbound Worker", subname = nil}
 MultiLanguageNpcData['ko'][222737] = {name = "지저 쏜살개구리", subname = nil}
 MultiLanguageNpcData['ko'][222738] = {name = "트로글로프로그", subname = nil}
@@ -37856,7 +37855,7 @@ MultiLanguageNpcData['ko'][222783] = {name = "코발트 이끼털", subname = ni
 MultiLanguageNpcData['ko'][222784] = {name = "혈암 이끼털", subname = nil}
 MultiLanguageNpcData['ko'][222786] = {name = "기생충 벌레", subname = nil}
 MultiLanguageNpcData['ko'][222787] = {name = "폭탄", subname = nil}
-MultiLanguageNpcData['ko'][222788] = {name = "Anub'azal", subname = "[Lord of Heritage Forces]"}
+MultiLanguageNpcData['ko'][222788] = {name = "아눕아잘", subname = "명맥대의 군주"}
 MultiLanguageNpcData['ko'][222790] = {name = "구트술", subname = nil}
 MultiLanguageNpcData['ko'][222791] = {name = "크라테론", subname = nil}
 MultiLanguageNpcData['ko'][222792] = {name = "Kill Credit: Speak to Brennok [DNT]", subname = nil}
@@ -37934,7 +37933,7 @@ MultiLanguageNpcData['ko'][222890] = {name = "Kill Credit: Inn Conv 1[DNT]", sub
 MultiLanguageNpcData['ko'][222891] = {name = "Kill Credit: Inn Conv 2[DNT]", subname = nil}
 MultiLanguageNpcData['ko'][222892] = {name = "Kill Credit: Inn Conv 3[DNT]", subname = nil}
 MultiLanguageNpcData['ko'][222894] = {name = "자신을 추방한 자 울로트", subname = nil}
-MultiLanguageNpcData['ko'][222895] = {name = "Vexidal", subname = nil}
+MultiLanguageNpcData['ko'][222895] = {name = "벡시달", subname = nil}
 MultiLanguageNpcData['ko'][222896] = {name = "길 도우미", subname = nil}
 MultiLanguageNpcData['ko'][222898] = {name = "벌꿀주에 집착하는 약탈자", subname = nil}
 MultiLanguageNpcData['ko'][222899] = {name = "폭풍 그리핀", subname = nil}
@@ -38064,7 +38063,7 @@ MultiLanguageNpcData['ko'][223048] = {name = "얼라이언스 사절", subname =
 MultiLanguageNpcData['ko'][223049] = {name = "얼라이언스 사절", subname = nil}
 MultiLanguageNpcData['ko'][223050] = {name = "쿠르드란 와일드해머", subname = nil}
 MultiLanguageNpcData['ko'][223051] = {name = "스트롬가드 보병", subname = nil}
-MultiLanguageNpcData['ko'][223052] = {name = "Thystoria", subname = nil}
+MultiLanguageNpcData['ko'][223052] = {name = "티스토리아", subname = nil}
 MultiLanguageNpcData['ko'][223053] = {name = "스트롬가드 보병", subname = nil}
 MultiLanguageNpcData['ko'][223054] = {name = "조사 중인 드루이드", subname = nil}
 MultiLanguageNpcData['ko'][223055] = {name = "Tentacle Mass", subname = nil}
@@ -38092,7 +38091,7 @@ MultiLanguageNpcData['ko'][223080] = {name = "Elusive Steelclaw Borer", subname 
 MultiLanguageNpcData['ko'][223081] = {name = "기회주의적인 탐광꾼", subname = nil}
 MultiLanguageNpcData['ko'][223082] = {name = "고블린 휴가객", subname = nil}
 MultiLanguageNpcData['ko'][223083] = {name = "아라시 갑판원", subname = "정의의 망치"}
-MultiLanguageNpcData['ko'][223084] = {name = "이끼투성이 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][223084] = {name = "이끼투성이 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][223085] = {name = "묘목 게", subname = nil}
 MultiLanguageNpcData['ko'][223086] = {name = "보주 추적기", subname = nil}
 MultiLanguageNpcData['ko'][223091] = {name = "암울잠복자", subname = nil}
@@ -38115,7 +38114,7 @@ MultiLanguageNpcData['ko'][223110] = {name = "인지 검사기", subname = nil}
 MultiLanguageNpcData['ko'][223111] = {name = "이상 현상 검사기", subname = nil}
 MultiLanguageNpcData['ko'][223112] = {name = "Exarch Admetius", subname = nil}
 MultiLanguageNpcData['ko'][223113] = {name = "Crystalsmith Laharu", subname = nil}
-MultiLanguageNpcData['ko'][223114] = {name = "실타래 쥐", subname = nil}
+MultiLanguageNpcData['ko'][223114] = {name = "그물쥐", subname = nil}
 MultiLanguageNpcData['ko'][223115] = {name = "불협의 수확자", subname = nil}
 MultiLanguageNpcData['ko'][223116] = {name = "불협의 땅거미", subname = nil}
 MultiLanguageNpcData['ko'][223117] = {name = "불협의 무리진드기", subname = nil}
@@ -38174,7 +38173,7 @@ MultiLanguageNpcData['ko'][223182] = {name = "거미줄 약탈자", subname = ni
 MultiLanguageNpcData['ko'][223184] = {name = "가브 기어휘슬", subname = nil}
 MultiLanguageNpcData['ko'][223185] = {name = "Arriving Prospector", subname = nil}
 MultiLanguageNpcData['ko'][223186] = {name = "Kill Credit: Q02b - Rescue Kaheti", subname = nil}
-MultiLanguageNpcData['ko'][223187] = {name = "이끼투성이 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][223187] = {name = "이끼투성이 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][223188] = {name = "고위 대변자 브린테", subname = nil}
 MultiLanguageNpcData['ko'][223189] = {name = "다그란 타우릿산 2세", subname = nil}
 MultiLanguageNpcData['ko'][223190] = {name = "메릭스", subname = "의회감독관"}
@@ -38217,6 +38216,7 @@ MultiLanguageNpcData['ko'][223234] = {name = "스칼카즈", subname = "수리"}
 MultiLanguageNpcData['ko'][223235] = {name = "Giant Crystal", subname = nil}
 MultiLanguageNpcData['ko'][223236] = {name = "해방자 토석인", subname = "해방자 토석인"}
 MultiLanguageNpcData['ko'][223237] = {name = "불안정한 쐐기 추적기", subname = nil}
+MultiLanguageNpcData['ko'][223238] = {name = "날렵한 구름떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][223239] = {name = "Tranquil Peafowl", subname = nil}
 MultiLanguageNpcData['ko'][223240] = {name = "아나", subname = nil}
 MultiLanguageNpcData['ko'][223241] = {name = "차원문", subname = nil}
@@ -38305,7 +38305,7 @@ MultiLanguageNpcData['ko'][223336] = {name = "알레리아 윈드러너", subnam
 MultiLanguageNpcData['ko'][223337] = {name = "무서운 괴물", subname = nil}
 MultiLanguageNpcData['ko'][223338] = {name = "달라란 하수도 거북이", subname = nil}
 MultiLanguageNpcData['ko'][223339] = {name = "피알라 스위트베리", subname = nil}
-MultiLanguageNpcData['ko'][223341] = {name = "Cataloger's Disc", subname = nil}
+MultiLanguageNpcData['ko'][223341] = {name = "분류학자의 원반", subname = nil}
 MultiLanguageNpcData['ko'][223342] = {name = "카즈 알가르 웜홀", subname = nil}
 MultiLanguageNpcData['ko'][223348] = {name = "공허의 균열", subname = nil}
 MultiLanguageNpcData['ko'][223349] = {name = "안두인 린", subname = nil}
@@ -38521,7 +38521,7 @@ MultiLanguageNpcData['ko'][223614] = {name = "코볼트 도둑", subname = nil}
 MultiLanguageNpcData['ko'][223615] = {name = "사로잡힌 땅밑거미", subname = nil}
 MultiLanguageNpcData['ko'][223616] = {name = "영혼교감사 니르", subname = "상급 흑마법사"}
 MultiLanguageNpcData['ko'][223617] = {name = "Omenai Curate", subname = nil}
-MultiLanguageNpcData['ko'][223618] = {name = "Nerubian Rebel", subname = nil}
+MultiLanguageNpcData['ko'][223618] = {name = "네루비안 반란군", subname = nil}
 MultiLanguageNpcData['ko'][223619] = {name = "티샤마트 축하객", subname = nil}
 MultiLanguageNpcData['ko'][223620] = {name = "티샤마트 축하객", subname = nil}
 MultiLanguageNpcData['ko'][223621] = {name = "티샤마트 축하객", subname = nil}
@@ -38693,7 +38693,7 @@ MultiLanguageNpcData['ko'][223827] = {name = "티코트", subname = nil}
 MultiLanguageNpcData['ko'][223828] = {name = "스락스룬", subname = nil}
 MultiLanguageNpcData['ko'][223829] = {name = "그루티트", subname = nil}
 MultiLanguageNpcData['ko'][223830] = {name = "머스텐", subname = nil}
-MultiLanguageNpcData['ko'][223831] = {name = "Firefly", subname = "T0 Swarmer (.3/.3)"}
+MultiLanguageNpcData['ko'][223831] = {name = "반딧불이", subname = "T0 Swarmer (.3/.3)"}
 MultiLanguageNpcData['ko'][223832] = {name = "Lamplighter Priest", subname = nil}
 MultiLanguageNpcData['ko'][223833] = {name = "바엘그림", subname = "폭풍수호자"}
 MultiLanguageNpcData['ko'][223834] = {name = "샤이알루드", subname = "라크우쉬 한량"}
@@ -38806,7 +38806,7 @@ MultiLanguageNpcData['ko'][223987] = {name = "검은 피 낙하 받침대", subn
 MultiLanguageNpcData['ko'][223988] = {name = "서약신도 고위 관리", subname = nil}
 MultiLanguageNpcData['ko'][223989] = {name = "날렵심지 지원자", subname = nil}
 MultiLanguageNpcData['ko'][223990] = {name = "Path Helper", subname = nil}
-MultiLanguageNpcData['ko'][223991] = {name = "The General's Standard", subname = nil}
+MultiLanguageNpcData['ko'][223991] = {name = "장군의 깃발", subname = nil}
 MultiLanguageNpcData['ko'][223992] = {name = "zzzoldRavaging Steel", subname = nil}
 MultiLanguageNpcData['ko'][223994] = {name = "일몰 어둠마법사", subname = nil}
 MultiLanguageNpcData['ko'][223995] = {name = "일몰 저주칼날", subname = nil}
@@ -38830,10 +38830,10 @@ MultiLanguageNpcData['ko'][224016] = {name = "왕 아눕아락", subname = nil}
 MultiLanguageNpcData['ko'][224018] = {name = "비대한 바다갈매기", subname = nil}
 MultiLanguageNpcData['ko'][224019] = {name = "여왕 네페레스", subname = nil}
 MultiLanguageNpcData['ko'][224021] = {name = "비상 민병대", subname = nil}
-MultiLanguageNpcData['ko'][224023] = {name = "Interfering Aspirant", subname = nil}
-MultiLanguageNpcData['ko'][224025] = {name = "Dishonorable Acolyte", subname = nil}
+MultiLanguageNpcData['ko'][224023] = {name = "간섭하는 지원자", subname = nil}
+MultiLanguageNpcData['ko'][224025] = {name = "불명예스러운 수행사제", subname = nil}
 MultiLanguageNpcData['ko'][224050] = {name = "Fataly Impaled Earthen", subname = nil}
-MultiLanguageNpcData['ko'][224051] = {name = "Zev'kall", subname = "[High General of the Siege]"}
+MultiLanguageNpcData['ko'][224051] = {name = "제브칼", subname = "공성 고위사령관"}
 MultiLanguageNpcData['ko'][224052] = {name = "유령고깔 위협", subname = nil}
 MultiLanguageNpcData['ko'][224053] = {name = "고대의 토석인", subname = nil}
 MultiLanguageNpcData['ko'][224054] = {name = "Haywire Loaderbot", subname = nil}
@@ -38855,7 +38855,7 @@ MultiLanguageNpcData['ko'][224077] = {name = "알 고치", subname = nil}
 MultiLanguageNpcData['ko'][224078] = {name = "광채진드기", subname = nil}
 MultiLanguageNpcData['ko'][224079] = {name = "먼지투성이 혈암날개", subname = nil}
 MultiLanguageNpcData['ko'][224080] = {name = "지친 잿불벌", subname = nil}
-MultiLanguageNpcData['ko'][224081] = {name = "체념한 일벌레", subname = nil}
+MultiLanguageNpcData['ko'][224081] = {name = "망설이는 일벌레", subname = nil}
 MultiLanguageNpcData['ko'][224082] = {name = "활기찬 반딧불이", subname = nil}
 MultiLanguageNpcData['ko'][224083] = {name = "Wounded Arathi Priest", subname = nil}
 MultiLanguageNpcData['ko'][224084] = {name = "Kill Credit: Play Completed", subname = nil}
@@ -38900,7 +38900,7 @@ MultiLanguageNpcData['ko'][224150] = {name = "네루비안 척후병", subname =
 MultiLanguageNpcData['ko'][224152] = {name = "황혼의 투사", subname = nil}
 MultiLanguageNpcData['ko'][224153] = {name = "Auralia Steelstrike", subname = nil}
 MultiLanguageNpcData['ko'][224154] = {name = "장군 스틸스트라이크", subname = nil}
-MultiLanguageNpcData['ko'][224155] = {name = "Zev'kall", subname = "[High General of the Siege]"}
+MultiLanguageNpcData['ko'][224155] = {name = "제브칼", subname = "공성 고위사령관"}
 MultiLanguageNpcData['ko'][224157] = {name = "기억 속의 리치 왕", subname = nil}
 MultiLanguageNpcData['ko'][224161] = {name = "에르제이", subname = "장군의 요원"}
 MultiLanguageNpcData['ko'][224162] = {name = "에르제이", subname = "장군의 요원"}
@@ -38921,8 +38921,8 @@ MultiLanguageNpcData['ko'][224180] = {name = "고소프", subname = "재상의 
 MultiLanguageNpcData['ko'][224181] = {name = "고소프", subname = "재상의 요원"}
 MultiLanguageNpcData['ko'][224182] = {name = "고소프", subname = "재상의 요원"}
 MultiLanguageNpcData['ko'][224183] = {name = "고소프", subname = "재상의 요원"}
-MultiLanguageNpcData['ko'][224184] = {name = "Ghos'opp", subname = "[Agent of the Vizier]"}
-MultiLanguageNpcData['ko'][224185] = {name = "Ancient Tentacle", subname = nil}
+MultiLanguageNpcData['ko'][224184] = {name = "고소프", subname = "재상의 요원"}
+MultiLanguageNpcData['ko'][224185] = {name = "고대 촉수", subname = nil}
 MultiLanguageNpcData['ko'][224186] = {name = "고소프", subname = "재상의 요원"}
 MultiLanguageNpcData['ko'][224187] = {name = "고소프", subname = "재상의 요원"}
 MultiLanguageNpcData['ko'][224188] = {name = "고소프", subname = "재상의 요원"}
@@ -38965,10 +38965,10 @@ MultiLanguageNpcData['ko'][224252] = {name = "Kill Credit: Participation Earned"
 MultiLanguageNpcData['ko'][224261] = {name = "보급품 상자", subname = nil}
 MultiLanguageNpcData['ko'][224264] = {name = "오래된 영혼 아니지크", subname = "무기 상인"}
 MultiLanguageNpcData['ko'][224266] = {name = "Kill Credit: Right Leg Shackle DIsmantled [DNT]", subname = nil}
-MultiLanguageNpcData['ko'][224267] = {name = "아브잘", subname = nil}
+MultiLanguageNpcData['ko'][224267] = {name = "아브잘", subname = "경쟁자의 재단사"}
 MultiLanguageNpcData['ko'][224268] = {name = "Kill Credit: Left Arm Shackle DIsmantled [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][224269] = {name = "Kill Credit: Right Arm Shackle Dismantled [DNT]", subname = nil}
-MultiLanguageNpcData['ko'][224270] = {name = "입잘", subname = nil}
+MultiLanguageNpcData['ko'][224270] = {name = "입잘", subname = "영웅의 재단사"}
 MultiLanguageNpcData['ko'][224271] = {name = "황혼의 흑마법사", subname = nil}
 MultiLanguageNpcData['ko'][224272] = {name = "Kill Credit: Tell Y'tekhi No 2nd Time [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][224273] = {name = "Kill Credit: Tell Y'tekhi No 3rd Time [DNT]", subname = nil}
@@ -39005,7 +39005,7 @@ MultiLanguageNpcData['ko'][224314] = {name = "족쇄 닻", subname = nil}
 MultiLanguageNpcData['ko'][224315] = {name = "Kill Credit: Select a faction", subname = nil}
 MultiLanguageNpcData['ko'][224317] = {name = "도른 아골로 통하는 땅굴", subname = nil}
 MultiLanguageNpcData['ko'][224318] = {name = "아즈카헤트로 통하는 땅굴", subname = nil}
-MultiLanguageNpcData['ko'][224319] = {name = "아눕아잘", subname = "[Lord of Heritage Forces]"}
+MultiLanguageNpcData['ko'][224319] = {name = "아눕아잘", subname = "명맥대의 군주"}
 MultiLanguageNpcData['ko'][224320] = {name = "테스카", subname = "수습 비단노래꾼"}
 MultiLanguageNpcData['ko'][224321] = {name = "베스카", subname = "수습 비단노래꾼"}
 MultiLanguageNpcData['ko'][224324] = {name = "비단애호가 와리", subname = "전문 재봉사"}
@@ -39169,14 +39169,14 @@ MultiLanguageNpcData['ko'][224533] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][224534] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][224535] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][224537] = {name = "Corrupted Voidfinder", subname = nil}
-MultiLanguageNpcData['ko'][224538] = {name = "Siegehold Soldier", subname = nil}
+MultiLanguageNpcData['ko'][224538] = {name = "공성요새 병사", subname = nil}
 MultiLanguageNpcData['ko'][224540] = {name = "수풀 뱀", subname = nil}
-MultiLanguageNpcData['ko'][224541] = {name = "Siegehold Websinger", subname = nil}
+MultiLanguageNpcData['ko'][224541] = {name = "공성요새 거미줄가수", subname = nil}
 MultiLanguageNpcData['ko'][224542] = {name = "양초 복제", subname = nil}
 MultiLanguageNpcData['ko'][224543] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['ko'][224544] = {name = "라니다", subname = nil}
 MultiLanguageNpcData['ko'][224546] = {name = "선홍빛 포복자", subname = nil}
-MultiLanguageNpcData['ko'][224547] = {name = "Anub'azal", subname = "[Lord of Heritage Forces]"}
+MultiLanguageNpcData['ko'][224547] = {name = "아눕아잘", subname = "명맥대의 군주"}
 MultiLanguageNpcData['ko'][224548] = {name = "진줏빛 껍질게", subname = nil}
 MultiLanguageNpcData['ko'][224549] = {name = "벌꿀주 일꾼 네담", subname = nil}
 MultiLanguageNpcData['ko'][224551] = {name = "미숙한 혈암뿔", subname = nil}
@@ -39320,7 +39320,7 @@ MultiLanguageNpcData['ko'][224774] = {name = "미완성 꼭두각시", subname =
 MultiLanguageNpcData['ko'][224776] = {name = "야성갈퀴", subname = nil}
 MultiLanguageNpcData['ko'][224778] = {name = "트로글로프로그", subname = nil}
 MultiLanguageNpcData['ko'][224779] = {name = "전류가 흐르는 잠복꾼", subname = nil}
-MultiLanguageNpcData['ko'][224780] = {name = "Igitith ik'Tak", subname = nil}
+MultiLanguageNpcData['ko'][224780] = {name = "이기티스 이크타크", subname = nil}
 MultiLanguageNpcData['ko'][224782] = {name = "던", subname = "깨어난 여왕"}
 MultiLanguageNpcData['ko'][224783] = {name = "현장감독 우즈잭스", subname = nil}
 MultiLanguageNpcData['ko'][224784] = {name = "아눕일리스 하인", subname = nil}
@@ -39349,7 +39349,7 @@ MultiLanguageNpcData['ko'][224810] = {name = "세 번째 접속기", subname = n
 MultiLanguageNpcData['ko'][224817] = {name = "공성 보급품 수레", subname = nil}
 MultiLanguageNpcData['ko'][224818] = {name = "Stoneborn Colossus", subname = nil}
 MultiLanguageNpcData['ko'][224819] = {name = "Queen's Enforcer", subname = nil}
-MultiLanguageNpcData['ko'][224820] = {name = "Deathly Presence", subname = nil}
+MultiLanguageNpcData['ko'][224820] = {name = "죽음의 존재감", subname = nil}
 MultiLanguageNpcData['ko'][224821] = {name = "제브칼", subname = "공성 고위사령관"}
 MultiLanguageNpcData['ko'][224822] = {name = "카헤티 척후병", subname = nil}
 MultiLanguageNpcData['ko'][224823] = {name = "플린 페어윈드", subname = nil}
@@ -39472,7 +39472,7 @@ MultiLanguageNpcData['ko'][225018] = {name = "페르노", subname = "여관주�
 MultiLanguageNpcData['ko'][225019] = {name = "경계하는 무리진드기", subname = nil}
 MultiLanguageNpcData['ko'][225021] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['ko'][225022] = {name = "길 잃은 스라소니", subname = nil}
-MultiLanguageNpcData['ko'][225024] = {name = "Executor Nizrek", subname = "[Word of the Queen]"}
+MultiLanguageNpcData['ko'][225024] = {name = "집행자 니즈레크", subname = "여왕의 전령"}
 MultiLanguageNpcData['ko'][225026] = {name = "모래비늘 립리스크", subname = nil}
 MultiLanguageNpcData['ko'][225040] = {name = "이끼가죽 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][225049] = {name = "부식성 아귀벌레", subname = nil}
@@ -39510,10 +39510,10 @@ MultiLanguageNpcData['ko'][225183] = {name = "Tinker", subname = "[Test Enginee
 MultiLanguageNpcData['ko'][225184] = {name = "아눕아잘", subname = "명맥대의 군주"}
 MultiLanguageNpcData['ko'][225187] = {name = "땅거미족 노동자", subname = nil}
 MultiLanguageNpcData['ko'][225188] = {name = "장군 스틸스트라이크", subname = nil}
-MultiLanguageNpcData['ko'][225189] = {name = "R-K-MEDES", subname = "[Awakening The Machine]"}
+MultiLanguageNpcData['ko'][225189] = {name = "알-케이-메데스", subname = "기계의 각성"}
 MultiLanguageNpcData['ko'][225190] = {name = "어둠 사냥개", subname = nil}
 MultiLanguageNpcData['ko'][225191] = {name = "패출리사", subname = "라크우쉬 작업장"}
-MultiLanguageNpcData['ko'][225192] = {name = "Orator Tx'itk", subname = "[The Second Strand]"}
+MultiLanguageNpcData['ko'][225192] = {name = "웅변가 티시티크", subname = "두 번째 가닥"}
 MultiLanguageNpcData['ko'][225193] = {name = "정지된 수정탑", subname = nil}
 MultiLanguageNpcData['ko'][225194] = {name = "R-K-MEDES", subname = nil}
 MultiLanguageNpcData['ko'][225195] = {name = "Rakva", subname = "[Grieve and Weave]"}
@@ -39527,11 +39527,11 @@ MultiLanguageNpcData['ko'][225205] = {name = "Kill Credit: Energy Reading [DNT]"
 MultiLanguageNpcData['ko'][225206] = {name = "Sureki Assassin", subname = nil}
 MultiLanguageNpcData['ko'][225207] = {name = "토마스 힐헬름", subname = nil}
 MultiLanguageNpcData['ko'][225208] = {name = "점액의 물결", subname = nil}
-MultiLanguageNpcData['ko'][225209] = {name = "Unseen Blade Zek", subname = nil}
+MultiLanguageNpcData['ko'][225209] = {name = "보이지 않는 칼날 제크", subname = nil}
 MultiLanguageNpcData['ko'][225210] = {name = "경계하는 소굴수호병", subname = nil}
 MultiLanguageNpcData['ko'][225211] = {name = "Unseen Blade Kixaal", subname = nil}
 MultiLanguageNpcData['ko'][225212] = {name = "Unseen Blade Oritex", subname = nil}
-MultiLanguageNpcData['ko'][225213] = {name = "Unseen Blade Pali'zir", subname = nil}
+MultiLanguageNpcData['ko'][225213] = {name = "보이지 않는 칼날 팔리지르", subname = nil}
 MultiLanguageNpcData['ko'][225214] = {name = "KC: Shipwright Confronted [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][225215] = {name = "헤르만", subname = nil}
 MultiLanguageNpcData['ko'][225216] = {name = "거미 강탈자", subname = nil}
@@ -39553,7 +39553,7 @@ MultiLanguageNpcData['ko'][225241] = {name = "Area Trigger Bunny", subname = nil
 MultiLanguageNpcData['ko'][225242] = {name = "폭풍떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][225243] = {name = "땅거미족 운반꾼", subname = nil}
 MultiLanguageNpcData['ko'][225244] = {name = "게걸스러운 발광진드기", subname = nil}
-MultiLanguageNpcData['ko'][225246] = {name = "Ar'syn", subname = "[Legendary Legerdemain]"}
+MultiLanguageNpcData['ko'][225246] = {name = "아르신", subname = "전설의 괴도"}
 MultiLanguageNpcData['ko'][225247] = {name = "꿀 수액괴물", subname = nil}
 MultiLanguageNpcData['ko'][225248] = {name = "인형술사", subname = nil}
 MultiLanguageNpcData['ko'][225249] = {name = "긁적갉작이", subname = nil}
@@ -39579,7 +39579,7 @@ MultiLanguageNpcData['ko'][225276] = {name = "보급 잰발전차", subname = ni
 MultiLanguageNpcData['ko'][225277] = {name = "아라시 충성대원", subname = nil}
 MultiLanguageNpcData['ko'][225287] = {name = "잰발전차 운전사", subname = nil}
 MultiLanguageNpcData['ko'][225288] = {name = "잰발전차 풍뎅이", subname = nil}
-MultiLanguageNpcData['ko'][225289] = {name = "Vizier's Shadecaster", subname = nil}
+MultiLanguageNpcData['ko'][225289] = {name = "재상의 그늘투영기", subname = nil}
 MultiLanguageNpcData['ko'][225293] = {name = "브린테", subname = nil}
 MultiLanguageNpcData['ko'][225296] = {name = "락아하트 풍뎅이조련사", subname = nil}
 MultiLanguageNpcData['ko'][225297] = {name = "락아하트 비단운반꾼", subname = nil}
@@ -39590,14 +39590,14 @@ MultiLanguageNpcData['ko'][225308] = {name = "양초토막", subname = nil}
 MultiLanguageNpcData['ko'][225309] = {name = "락아하트 비단질주자", subname = nil}
 MultiLanguageNpcData['ko'][225311] = {name = "평원방랑자 혈암뿔", subname = nil}
 MultiLanguageNpcData['ko'][225323] = {name = "진저", subname = nil}
-MultiLanguageNpcData['ko'][225327] = {name = "The Vizier", subname = nil}
-MultiLanguageNpcData['ko'][225330] = {name = "Executor Nizrek", subname = "[The Vizier]"}
-MultiLanguageNpcData['ko'][225332] = {name = "Executor Nizrek", subname = "[Word of the Queen]"}
-MultiLanguageNpcData['ko'][225334] = {name = "Tulumun", subname = "[Assistant to the Executor]"}
+MultiLanguageNpcData['ko'][225327] = {name = "재상", subname = nil}
+MultiLanguageNpcData['ko'][225330] = {name = "집행자 니즈레크", subname = "재상"}
+MultiLanguageNpcData['ko'][225332] = {name = "집행자 니즈레크", subname = "여왕의 전령"}
+MultiLanguageNpcData['ko'][225334] = {name = "툴루문", subname = "집행자 조수"}
 MultiLanguageNpcData['ko'][225335] = {name = "변화한 수액덩어리", subname = nil}
 MultiLanguageNpcData['ko'][225337] = {name = "악성 그림자", subname = nil}
 MultiLanguageNpcData['ko'][225338] = {name = "방종한 그림자", subname = nil}
-MultiLanguageNpcData['ko'][225339] = {name = "Pilfered Cinderbrew", subname = nil}
+MultiLanguageNpcData['ko'][225339] = {name = "훔친 잿불맥주", subname = nil}
 MultiLanguageNpcData['ko'][225340] = {name = "Stalker", subname = nil}
 MultiLanguageNpcData['ko'][225341] = {name = "호송대 수호병", subname = nil}
 MultiLanguageNpcData['ko'][225342] = {name = "뒤틀린 파괴자", subname = nil}
@@ -39611,14 +39611,14 @@ MultiLanguageNpcData['ko'][225351] = {name = "폭풍떼까마귀", subname = nil
 MultiLanguageNpcData['ko'][225352] = {name = "웅변가 티시티크", subname = "두 번째 가닥"}
 MultiLanguageNpcData['ko'][225353] = {name = "인형술사", subname = nil}
 MultiLanguageNpcData['ko'][225355] = {name = "대마법사 에이타스 선리버", subname = "키린 토"}
-MultiLanguageNpcData['ko'][225357] = {name = "Rakva", subname = "[Grieve and Weave]"}
+MultiLanguageNpcData['ko'][225357] = {name = "라크바", subname = "비탄과 길쌈"}
 MultiLanguageNpcData['ko'][225358] = {name = "Orator Tx'itk", subname = "[The Second Strand]"}
-MultiLanguageNpcData['ko'][225359] = {name = "Orator Tx'itk", subname = "[The Second Strand]"}
-MultiLanguageNpcData['ko'][225360] = {name = "Ar'syn", subname = "[Legendary Legerdemain]"}
+MultiLanguageNpcData['ko'][225359] = {name = "웅변가 티시티크", subname = "두 번째 가닥"}
+MultiLanguageNpcData['ko'][225360] = {name = "아르신", subname = "전설의 괴도"}
 MultiLanguageNpcData['ko'][225361] = {name = "여왕 안수레크", subname = nil}
 MultiLanguageNpcData['ko'][225370] = {name = "Kill Credit: Letter Written", subname = nil}
 MultiLanguageNpcData['ko'][225375] = {name = "Lost Cogwalker", subname = nil}
-MultiLanguageNpcData['ko'][225376] = {name = "Beloved Worm", subname = nil}
+MultiLanguageNpcData['ko'][225376] = {name = "사랑받는 벌레", subname = nil}
 MultiLanguageNpcData['ko'][225378] = {name = "Lost Cogwalker", subname = nil}
 MultiLanguageNpcData['ko'][225384] = {name = "Shroomy", subname = nil}
 MultiLanguageNpcData['ko'][225385] = {name = "바위금고 룬마술사", subname = nil}
@@ -39649,7 +39649,7 @@ MultiLanguageNpcData['ko'][225419] = {name = "제국 스라소니", subname = ni
 MultiLanguageNpcData['ko'][225420] = {name = "이기", subname = nil}
 MultiLanguageNpcData['ko'][225421] = {name = "무그", subname = nil}
 MultiLanguageNpcData['ko'][225422] = {name = "고블린 얼음 지뢰", subname = nil}
-MultiLanguageNpcData['ko'][225423] = {name = "Volatile Ooze", subname = nil}
+MultiLanguageNpcData['ko'][225423] = {name = "일촉즉발 수액괴물", subname = nil}
 MultiLanguageNpcData['ko'][225424] = {name = "몽롱한 스라소니", subname = nil}
 MultiLanguageNpcData['ko'][225425] = {name = "베크킥스", subname = nil}
 MultiLanguageNpcData['ko'][225426] = {name = "사라디", subname = "의회지기 사무원"}
@@ -40024,8 +40024,8 @@ MultiLanguageNpcData['ko'][226085] = {name = "Fluffy", subname = "[Lost Lynx]"}
 MultiLanguageNpcData['ko'][226086] = {name = "Fluffy", subname = nil}
 MultiLanguageNpcData['ko'][226087] = {name = "아롱이", subname = nil}
 MultiLanguageNpcData['ko'][226088] = {name = "아롱이", subname = "길 잃은 스라소니"}
-MultiLanguageNpcData['ko'][226089] = {name = "Gustavo", subname = nil}
-MultiLanguageNpcData['ko'][226090] = {name = "Gustavo", subname = "[Lost Lynx]"}
+MultiLanguageNpcData['ko'][226089] = {name = "구스타보", subname = nil}
+MultiLanguageNpcData['ko'][226090] = {name = "구스타보", subname = "길 잃은 스라소니"}
 MultiLanguageNpcData['ko'][226091] = {name = "기계 향", subname = nil}
 MultiLanguageNpcData['ko'][226092] = {name = "Lightspark Hatchling", subname = nil}
 MultiLanguageNpcData['ko'][226093] = {name = "빛의 불꽃 뱀", subname = nil}
@@ -40079,7 +40079,7 @@ MultiLanguageNpcData['ko'][226165] = {name = "새끼 고원 도롱뇽", subname 
 MultiLanguageNpcData['ko'][226166] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][226167] = {name = "비번 일꾼", subname = nil}
 MultiLanguageNpcData['ko'][226169] = {name = "Projection", subname = nil}
-MultiLanguageNpcData['ko'][226170] = {name = "속박 풀린 벌꿀주 일꾼", subname = nil}
+MultiLanguageNpcData['ko'][226170] = {name = "해방자 벌꿀주 일꾼", subname = nil}
 MultiLanguageNpcData['ko'][226171] = {name = "뿔 달린 가지뿔껍질", subname = nil}
 MultiLanguageNpcData['ko'][226172] = {name = "Highland Eft", subname = nil}
 MultiLanguageNpcData['ko'][226173] = {name = "진흙투성이 가지뿔껍질", subname = nil}
@@ -40151,7 +40151,7 @@ MultiLanguageNpcData['ko'][226259] = {name = "아델곤", subname = "돌지기"}
 MultiLanguageNpcData['ko'][226261] = {name = "모이라 타우릿산", subname = "검은무쇠 부족 여왕"}
 MultiLanguageNpcData['ko'][226264] = {name = "에보나", subname = nil}
 MultiLanguageNpcData['ko'][226265] = {name = "일벌레 납치범", subname = nil}
-MultiLanguageNpcData['ko'][226266] = {name = "바엘그림", subname = "폭풍수호자"}
+MultiLanguageNpcData['ko'][226266] = {name = "바엘그림", subname = "폭풍지기"}
 MultiLanguageNpcData['ko'][226267] = {name = "왁스", subname = nil}
 MultiLanguageNpcData['ko'][226268] = {name = "어스름사냥개", subname = nil}
 MultiLanguageNpcData['ko'][226269] = {name = "숯사냥개", subname = nil}
@@ -40184,18 +40184,18 @@ MultiLanguageNpcData['ko'][226344] = {name = "바람의 영혼", subname = nil}
 MultiLanguageNpcData['ko'][226349] = {name = "Adland", subname = nil}
 MultiLanguageNpcData['ko'][226350] = {name = "토석인 대표", subname = nil}
 MultiLanguageNpcData['ko'][226351] = {name = "볼리타", subname = nil}
-MultiLanguageNpcData['ko'][226352] = {name = "Wotwin", subname = nil}
-MultiLanguageNpcData['ko'][226353] = {name = "Larlda", subname = nil}
+MultiLanguageNpcData['ko'][226352] = {name = "워트윈", subname = nil}
+MultiLanguageNpcData['ko'][226353] = {name = "랄다", subname = nil}
 MultiLanguageNpcData['ko'][226354] = {name = "Undercrawler Hatchling", subname = nil}
 MultiLanguageNpcData['ko'][226358] = {name = "편찬자 굴데론", subname = nil}
 MultiLanguageNpcData['ko'][226359] = {name = "기록관 프룬힐", subname = nil}
 MultiLanguageNpcData['ko'][226360] = {name = "아른보다", subname = nil}
 MultiLanguageNpcData['ko'][226361] = {name = "Alforila", subname = nil}
-MultiLanguageNpcData['ko'][226362] = {name = "메릭스", subname = "의회감독관"}
+MultiLanguageNpcData['ko'][226362] = {name = "메릭스", subname = "의회지기"}
 MultiLanguageNpcData['ko'][226363] = {name = "고위 대변자 브린테", subname = nil}
 MultiLanguageNpcData['ko'][226364] = {name = "아델곤", subname = "돌지기"}
-MultiLanguageNpcData['ko'][226365] = {name = "Leikaroc", subname = nil}
-MultiLanguageNpcData['ko'][226366] = {name = "루프셀라", subname = "폭풍수호자"}
+MultiLanguageNpcData['ko'][226365] = {name = "레이카로크", subname = nil}
+MultiLanguageNpcData['ko'][226366] = {name = "루프셀라", subname = "폭풍지기"}
 MultiLanguageNpcData['ko'][226367] = {name = "프로스페라 코그웨일", subname = nil}
 MultiLanguageNpcData['ko'][226369] = {name = "온기잠복 악어", subname = nil}
 MultiLanguageNpcData['ko'][226371] = {name = "Igrann", subname = nil}
@@ -40213,7 +40213,7 @@ MultiLanguageNpcData['ko'][226393] = {name = "잰발전차 풍뎅이", subname =
 MultiLanguageNpcData['ko'][226395] = {name = "Letter", subname = nil}
 MultiLanguageNpcData['ko'][226397] = {name = "바위판 바실리스크", subname = nil}
 MultiLanguageNpcData['ko'][226408] = {name = "아라시 포로", subname = nil}
-MultiLanguageNpcData['ko'][226409] = {name = "웬드브렌트", subname = nil}
+MultiLanguageNpcData['ko'][226409] = {name = "웬브랜트", subname = nil}
 MultiLanguageNpcData['ko'][226412] = {name = "Steelvein Trader", subname = nil}
 MultiLanguageNpcData['ko'][226413] = {name = "아랫빛 혈암날개", subname = nil}
 MultiLanguageNpcData['ko'][226414] = {name = "훔친 소형선", subname = nil}
@@ -40341,7 +40341,7 @@ MultiLanguageNpcData['ko'][226685] = {name = "롤젤", subname = nil}
 MultiLanguageNpcData['ko'][226686] = {name = "Evaldurn", subname = nil}
 MultiLanguageNpcData['ko'][226687] = {name = "린골가", subname = nil}
 MultiLanguageNpcData['ko'][226688] = {name = "올레난", subname = nil}
-MultiLanguageNpcData['ko'][226689] = {name = "Modaln", subname = nil}
+MultiLanguageNpcData['ko'][226689] = {name = "모달린", subname = nil}
 MultiLanguageNpcData['ko'][226691] = {name = "짓이겨진 수확자", subname = nil}
 MultiLanguageNpcData['ko'][226692] = {name = "짓이겨진 땅거미족", subname = nil}
 MultiLanguageNpcData['ko'][226694] = {name = "당신?", subname = "악의 분신"}
@@ -40360,7 +40360,7 @@ MultiLanguageNpcData['ko'][226727] = {name = "베네다즈", subname = nil}
 MultiLanguageNpcData['ko'][226729] = {name = "메룬스", subname = nil}
 MultiLanguageNpcData['ko'][226730] = {name = "바렐코", subname = nil}
 MultiLanguageNpcData['ko'][226731] = {name = "넬피", subname = "키린 토"}
-MultiLanguageNpcData['ko'][226732] = {name = "하가사 무어헤드", subname = "마법 재료 상인"}
+MultiLanguageNpcData['ko'][226732] = {name = "하가사 무어헤드", subname = nil}
 MultiLanguageNpcData['ko'][226733] = {name = "엔도라 무어헤드", subname = nil}
 MultiLanguageNpcData['ko'][226734] = {name = "검은 고양이", subname = nil}
 MultiLanguageNpcData['ko'][226735] = {name = "알프리타", subname = nil}
@@ -40384,7 +40384,7 @@ MultiLanguageNpcData['ko'][226759] = {name = "던", subname = "깨어난 여왕
 MultiLanguageNpcData['ko'][226761] = {name = "평화감시자 알레프", subname = nil}
 MultiLanguageNpcData['ko'][226762] = {name = "잘아타스", subname = nil}
 MultiLanguageNpcData['ko'][226763] = {name = "날레디아 리버글림", subname = nil}
-MultiLanguageNpcData['ko'][226767] = {name = "Speeding Swarmmite", subname = nil}
+MultiLanguageNpcData['ko'][226767] = {name = "재빠른 무리진드기", subname = nil}
 MultiLanguageNpcData['ko'][226769] = {name = "작은 당신?", subname = "악의 분신"}
 MultiLanguageNpcData['ko'][226773] = {name = "제크비르", subname = "전령의 대리인"}
 MultiLanguageNpcData['ko'][226777] = {name = "교수 팔린", subname = nil}
@@ -40395,7 +40395,7 @@ MultiLanguageNpcData['ko'][226781] = {name = "Kill Credit: Comedy Play", subname
 MultiLanguageNpcData['ko'][226782] = {name = "Kill Credit: Melodrama Play", subname = nil}
 MultiLanguageNpcData['ko'][226783] = {name = "후나카 그린후프", subname = nil}
 MultiLanguageNpcData['ko'][226784] = {name = "Kill Credit: Tragedy Play", subname = nil}
-MultiLanguageNpcData['ko'][226785] = {name = "콘달 헌트스원", subname = "전문 무두장이"}
+MultiLanguageNpcData['ko'][226785] = {name = "콘달 헌트스원", subname = nil}
 MultiLanguageNpcData['ko'][226786] = {name = "물레거미", subname = nil}
 MultiLanguageNpcData['ko'][226787] = {name = "크랄라 어스스톰", subname = nil}
 MultiLanguageNpcData['ko'][226789] = {name = "툴루문", subname = "집행자 조수"}
@@ -40663,7 +40663,7 @@ MultiLanguageNpcData['ko'][227343] = {name = "스텔린 베라사", subname = "�
 MultiLanguageNpcData['ko'][227344] = {name = "적 기사", subname = nil}
 MultiLanguageNpcData['ko'][227345] = {name = "Ar'syn", subname = "[Legendary Legerdemain]"}
 MultiLanguageNpcData['ko'][227346] = {name = "흙주둥이 땅굴꾼", subname = nil}
-MultiLanguageNpcData['ko'][227347] = {name = "Wandering Spore", subname = nil}
+MultiLanguageNpcData['ko'][227347] = {name = "Wandering Sporbit", subname = nil}
 MultiLanguageNpcData['ko'][227349] = {name = "Kill Credit: tool collected [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][227350] = {name = "Kill Credit: wildlife catalogued [DNT]", subname = nil}
 MultiLanguageNpcData['ko'][227351] = {name = "칼날엄니 가지뿔껍질", subname = nil}
@@ -40781,8 +40781,8 @@ MultiLanguageNpcData['ko'][227506] = {name = "Kill Credit: Jaina Opens a Portal"
 MultiLanguageNpcData['ko'][227507] = {name = "수레키 척후병", subname = nil}
 MultiLanguageNpcData['ko'][227508] = {name = "Kill Credit: Won WQ Light's Gambit", subname = nil}
 MultiLanguageNpcData['ko'][227510] = {name = "제크비르", subname = "전령의 대리인"}
-MultiLanguageNpcData['ko'][227513] = {name = "Tala", subname = "[Zekvir's Heralds]"}
-MultiLanguageNpcData['ko'][227514] = {name = "Velo", subname = "[Zekvir's Heralds]"}
+MultiLanguageNpcData['ko'][227513] = {name = "탈라", subname = "제크비르의 사도"}
+MultiLanguageNpcData['ko'][227514] = {name = "벨로", subname = "제크비르의 사도"}
 MultiLanguageNpcData['ko'][227517] = {name = "메렐다르 모형", subname = nil}
 MultiLanguageNpcData['ko'][227518] = {name = "스며드는 파편", subname = nil}
 MultiLanguageNpcData['ko'][227521] = {name = "태양길잡이 데즈코", subname = "돈체이서 족장"}
@@ -40814,19 +40814,19 @@ MultiLanguageNpcData['ko'][227566] = {name = "에드윈", subname = nil}
 MultiLanguageNpcData['ko'][227567] = {name = "페어레이", subname = nil}
 MultiLanguageNpcData['ko'][227568] = {name = "세이린", subname = nil}
 MultiLanguageNpcData['ko'][227572] = {name = "바싹 마른 딸깍이", subname = nil}
-MultiLanguageNpcData['ko'][227573] = {name = "Anub'vir", subname = "[Zekvir's Heralds]"}
+MultiLanguageNpcData['ko'][227573] = {name = "아눕비르", subname = "제크비르의 사도"}
 MultiLanguageNpcData['ko'][227574] = {name = "Weave-Rat", subname = nil}
-MultiLanguageNpcData['ko'][227575] = {name = "Armored Shellguard", subname = "[Zekvir's Heralds]"}
+MultiLanguageNpcData['ko'][227575] = {name = "장갑 껍질경비대", subname = "제크비르의 사도"}
 MultiLanguageNpcData['ko'][227576] = {name = "절벽 뱀", subname = nil}
 MultiLanguageNpcData['ko'][227577] = {name = "새끼 땅밑거미", subname = nil}
-MultiLanguageNpcData['ko'][227578] = {name = "Nerubian Webcaster", subname = "[Zekvir's Heralds]"}
+MultiLanguageNpcData['ko'][227578] = {name = "네루비안 그물술사", subname = "제크비르의 사도"}
 MultiLanguageNpcData['ko'][227580] = {name = "보급 잰발전차", subname = nil}
-MultiLanguageNpcData['ko'][227581] = {name = "Nerubian Oracle", subname = "[Zekvir's Heralds]"}
+MultiLanguageNpcData['ko'][227581] = {name = "네루비안 예언자", subname = "제크비르의 사도"}
 MultiLanguageNpcData['ko'][227582] = {name = "Duke Velhan", subname = nil}
 MultiLanguageNpcData['ko'][227583] = {name = "잊힌 수확자", subname = nil}
 MultiLanguageNpcData['ko'][227584] = {name = "잊힌 땅거미족", subname = nil}
 MultiLanguageNpcData['ko'][227586] = {name = "Forgotten Hulk", subname = nil}
-MultiLanguageNpcData['ko'][227587] = {name = "Forgotten Swarmite", subname = nil}
+MultiLanguageNpcData['ko'][227587] = {name = "잊힌 무리진드기", subname = nil}
 MultiLanguageNpcData['ko'][227588] = {name = "대장 파리야", subname = "초승달 글레이브"}
 MultiLanguageNpcData['ko'][227589] = {name = "Splattered Slime", subname = nil}
 MultiLanguageNpcData['ko'][227592] = {name = "Forgotten Deepwalker", subname = nil}
@@ -40884,7 +40884,7 @@ MultiLanguageNpcData['ko'][227709] = {name = "카헤티 시민", subname = nil}
 MultiLanguageNpcData['ko'][227714] = {name = "맥동하는 구덩이", subname = nil}
 MultiLanguageNpcData['ko'][227715] = {name = "흔들리는 평원", subname = nil}
 MultiLanguageNpcData['ko'][227716] = {name = "응축된 망령", subname = nil}
-MultiLanguageNpcData['ko'][227718] = {name = "Garketh Anvilcrack", subname = nil}
+MultiLanguageNpcData['ko'][227718] = {name = "가르케스 앤빌크랙", subname = nil}
 MultiLanguageNpcData['ko'][227720] = {name = "음향 추적자 - 11.0 시나리오 - 극장 공연단 - 관객", subname = nil}
 MultiLanguageNpcData['ko'][227722] = {name = "잘아타스", subname = "검은 제국의 비수"}
 MultiLanguageNpcData['ko'][227723] = {name = "독혓바닥 미스크", subname = nil}
@@ -40904,7 +40904,7 @@ MultiLanguageNpcData['ko'][227748] = {name = "흉포한 하늘발톱", subname =
 MultiLanguageNpcData['ko'][227749] = {name = "페어린 로서", subname = nil}
 MultiLanguageNpcData['ko'][227753] = {name = "가면 쓴 흰담비", subname = nil}
 MultiLanguageNpcData['ko'][227754] = {name = "동굴헤엄 농어", subname = nil}
-MultiLanguageNpcData['ko'][227756] = {name = "야생 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][227756] = {name = "야생 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][227757] = {name = "바다 매", subname = nil}
 MultiLanguageNpcData['ko'][227758] = {name = "알레리아 윈드러너", subname = nil}
 MultiLanguageNpcData['ko'][227759] = {name = "아라시 충성대원", subname = nil}
@@ -40925,7 +40925,7 @@ MultiLanguageNpcData['ko'][227779] = {name = "용암 방울", subname = nil}
 MultiLanguageNpcData['ko'][227780] = {name = "새끼 모래뚫이", subname = nil}
 MultiLanguageNpcData['ko'][227781] = {name = "\"재치 있는\" 즈킬 즌", subname = "\"아라시 반역자\""}
 MultiLanguageNpcData['ko'][227785] = {name = "Runeweaver Gedolax", subname = nil}
-MultiLanguageNpcData['ko'][227786] = {name = "Bouldaz", subname = nil}
+MultiLanguageNpcData['ko'][227786] = {name = "볼다즈", subname = nil}
 MultiLanguageNpcData['ko'][227787] = {name = "Hekgarda", subname = nil}
 MultiLanguageNpcData['ko'][227788] = {name = "Deepflayer", subname = nil}
 MultiLanguageNpcData['ko'][227789] = {name = "아달라르", subname = nil}
@@ -40942,7 +40942,7 @@ MultiLanguageNpcData['ko'][227825] = {name = "수레키 분리자", subname = ni
 MultiLanguageNpcData['ko'][227827] = {name = "깊은물 해파리", subname = nil}
 MultiLanguageNpcData['ko'][227828] = {name = "가시복어", subname = nil}
 MultiLanguageNpcData['ko'][227831] = {name = "뾰족니 무리어", subname = nil}
-MultiLanguageNpcData['ko'][227844] = {name = "안장 얹은 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][227844] = {name = "안장 얹은 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][227849] = {name = "구름떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][227859] = {name = "7군단 병사", subname = nil}
 MultiLanguageNpcData['ko'][227860] = {name = "마그하르 그런트", subname = nil}
@@ -41027,9 +41027,9 @@ MultiLanguageNpcData['ko'][228040] = {name = "집행자 니즈레크", subname =
 MultiLanguageNpcData['ko'][228042] = {name = "Kill Credit: Severed Threads RP", subname = nil}
 MultiLanguageNpcData['ko'][228044] = {name = "리노 잭슨", subname = nil}
 MultiLanguageNpcData['ko'][228045] = {name = "구릉정상 무리어미", subname = nil}
-MultiLanguageNpcData['ko'][228046] = {name = "Alta", subname = nil}
+MultiLanguageNpcData['ko'][228046] = {name = "알타", subname = nil}
 MultiLanguageNpcData['ko'][228047] = {name = "Black Blood", subname = nil}
-MultiLanguageNpcData['ko'][228048] = {name = "Flint", subname = nil}
+MultiLanguageNpcData['ko'][228048] = {name = "플린트", subname = nil}
 MultiLanguageNpcData['ko'][228049] = {name = "감독관 책상", subname = nil}
 MultiLanguageNpcData['ko'][228054] = {name = "급조한 용수철판", subname = nil}
 MultiLanguageNpcData['ko'][228055] = {name = "새끼 구릉정상 아귀벌레", subname = nil}
@@ -41150,10 +41150,10 @@ MultiLanguageNpcData['ko'][228392] = {name = "얼라이언스 노동자", subnam
 MultiLanguageNpcData['ko'][228396] = {name = "대장 트레드 스파크노즐", subname = nil}
 MultiLanguageNpcData['ko'][228404] = {name = "죽은 납치범", subname = nil}
 MultiLanguageNpcData['ko'][228406] = {name = "노움 기술자", subname = nil}
-MultiLanguageNpcData['ko'][228407] = {name = "이끼투성이 라몰리스", subname = nil}
+MultiLanguageNpcData['ko'][228407] = {name = "이끼투성이 돌산양", subname = nil}
 MultiLanguageNpcData['ko'][228408] = {name = "부상당한 토석인", subname = "부상당한 토석인"}
 MultiLanguageNpcData['ko'][228409] = {name = "Brightscale Eel", subname = nil}
-MultiLanguageNpcData['ko'][228410] = {name = "속박 풀린 수호자", subname = "속박 풀린 수호자"}
+MultiLanguageNpcData['ko'][228410] = {name = "해방자 수호병", subname = "해방자 수호병"}
 MultiLanguageNpcData['ko'][228411] = {name = "맹독 바위점액", subname = nil}
 MultiLanguageNpcData['ko'][228412] = {name = "방랑 외판원", subname = "글리머로그"}
 MultiLanguageNpcData['ko'][228419] = {name = "엘마", subname = nil}
@@ -41267,7 +41267,7 @@ MultiLanguageNpcData['ko'][228815] = {name = "서약신도 평화감시자", sub
 MultiLanguageNpcData['ko'][228821] = {name = "추적자", subname = nil}
 MultiLanguageNpcData['ko'][228823] = {name = "아랫바다 도롱뇽", subname = nil}
 MultiLanguageNpcData['ko'][228824] = {name = "중심로 일꾼", subname = "중심로 일꾼"}
-MultiLanguageNpcData['ko'][228825] = {name = "바엘그림", subname = "폭풍수호자"}
+MultiLanguageNpcData['ko'][228825] = {name = "바엘그림", subname = "폭풍지기"}
 MultiLanguageNpcData['ko'][228826] = {name = "자레인", subname = nil}
 MultiLanguageNpcData['ko'][228828] = {name = "폭풍기수 메이란드", subname = nil}
 MultiLanguageNpcData['ko'][228830] = {name = "메이란드의 폭풍떼까마귀", subname = nil}
@@ -41311,7 +41311,7 @@ MultiLanguageNpcData['ko'][228925] = {name = "리안드", subname = nil}
 MultiLanguageNpcData['ko'][228926] = {name = "반짝이는 보석눈", subname = nil}
 MultiLanguageNpcData['ko'][228927] = {name = "이그라야", subname = nil}
 MultiLanguageNpcData['ko'][228933] = {name = "Kill Credit [DNT]", subname = nil}
-MultiLanguageNpcData['ko'][228937] = {name = "Eye of the Old Gods", subname = nil}
+MultiLanguageNpcData['ko'][228937] = {name = "고대 신의 눈", subname = nil}
 MultiLanguageNpcData['ko'][228940] = {name = "유물 비축가", subname = nil}
 MultiLanguageNpcData['ko'][228941] = {name = "폭풍기수", subname = nil}
 MultiLanguageNpcData['ko'][228942] = {name = "폭풍기수", subname = nil}
@@ -41528,7 +41528,7 @@ MultiLanguageNpcData['ko'][229523] = {name = "새사 가시방랑자", subname =
 MultiLanguageNpcData['ko'][229525] = {name = "Glowmite", subname = "[T2 (2/1.2)]"}
 MultiLanguageNpcData['ko'][229526] = {name = "흥분한 불꽃진드기", subname = nil}
 MultiLanguageNpcData['ko'][229536] = {name = "잘아타스", subname = "전령"}
-MultiLanguageNpcData['ko'][229537] = {name = "Void Emissary", subname = nil}
+MultiLanguageNpcData['ko'][229537] = {name = "공허의 사절", subname = nil}
 MultiLanguageNpcData['ko'][229539] = {name = "Bear", subname = nil}
 MultiLanguageNpcData['ko'][229540] = {name = "경로 포자 파편", subname = nil}
 MultiLanguageNpcData['ko'][229544] = {name = "승천의 보루로 통하는 차원문", subname = nil}
@@ -41560,7 +41560,7 @@ MultiLanguageNpcData['ko'][229633] = {name = "포식자 울그락스", subname =
 MultiLanguageNpcData['ko'][229634] = {name = "밀랍투성이 포자 파편", subname = nil}
 MultiLanguageNpcData['ko'][229635] = {name = "잘아타스", subname = "전령"}
 MultiLanguageNpcData['ko'][229636] = {name = "Oblivion Crystal", subname = nil}
-MultiLanguageNpcData['ko'][229637] = {name = "Lil Wick", subname = nil}
+MultiLanguageNpcData['ko'][229637] = {name = "작은 심지", subname = nil}
 MultiLanguageNpcData['ko'][229638] = {name = "온순한 구름떼까마귀", subname = nil}
 MultiLanguageNpcData['ko'][229643] = {name = "Warborn Crusher", subname = nil}
 MultiLanguageNpcData['ko'][229648] = {name = "Kill Credit: Red Dyebath Tested [DNT]", subname = nil}
@@ -41705,7 +41705,7 @@ MultiLanguageNpcData['ko'][230117] = {name = "애쉬비", subname = nil}
 MultiLanguageNpcData['ko'][230118] = {name = "토석인 수레", subname = nil}
 MultiLanguageNpcData['ko'][230119] = {name = "광포그물 하늘발톱", subname = nil}
 MultiLanguageNpcData['ko'][230155] = {name = "잘아타스", subname = nil}
-MultiLanguageNpcData['ko'][230156] = {name = "Oblivion Crystal", subname = nil}
+MultiLanguageNpcData['ko'][230156] = {name = "망각의 수정", subname = nil}
 MultiLanguageNpcData['ko'][230157] = {name = "격분한 불곰", subname = nil}
 MultiLanguageNpcData['ko'][230190] = {name = "서약신도 토석인", subname = "서약신도 토석인"}
 MultiLanguageNpcData['ko'][230201] = {name = "빛벼림 구원자", subname = nil}
@@ -41744,7 +41744,7 @@ MultiLanguageNpcData['ko'][230525] = {name = "Awakened Earthen", subname = nil}
 MultiLanguageNpcData['ko'][230526] = {name = "Mote of Unrelenting Rage", subname = nil}
 MultiLanguageNpcData['ko'][230528] = {name = "Harbingers of the Void", subname = nil}
 MultiLanguageNpcData['ko'][230529] = {name = "벌꿀주 상인", subname = nil}
-MultiLanguageNpcData['ko'][230531] = {name = "속박 풀린 무역상", subname = nil}
+MultiLanguageNpcData['ko'][230531] = {name = "해방자 무역상", subname = nil}
 MultiLanguageNpcData['ko'][230532] = {name = "서약신도 무역상", subname = nil}
 MultiLanguageNpcData['ko'][230533] = {name = "여행 중인 이끼털", subname = nil}
 MultiLanguageNpcData['ko'][230534] = {name = "이끼털 목동", subname = nil}
@@ -41764,7 +41764,7 @@ MultiLanguageNpcData['ko'][230622] = {name = "Kill Credit: Misc Activity, Small"
 MultiLanguageNpcData['ko'][230643] = {name = "유지보수 기계", subname = nil}
 MultiLanguageNpcData['ko'][230650] = {name = "프톨레미 스테디스케치", subname = "대가 지도제작자"}
 MultiLanguageNpcData['ko'][230651] = {name = "메르카테셀", subname = "수습 지도제작자"}
-MultiLanguageNpcData['ko'][230659] = {name = "Anub'azal", subname = "[Lord of Heritage Forces]"}
+MultiLanguageNpcData['ko'][230659] = {name = "아눕아잘", subname = "명맥대의 군주"}
 MultiLanguageNpcData['ko'][230698] = {name = "The Pulsing Pit", subname = nil}
 MultiLanguageNpcData['ko'][230709] = {name = "Slime Wave", subname = nil}
 MultiLanguageNpcData['ko'][230729] = {name = "영역 트리거", subname = nil}
@@ -41780,7 +41780,7 @@ MultiLanguageNpcData['ko'][230884] = {name = "Assauged Memories", subname = nil}
 MultiLanguageNpcData['ko'][230885] = {name = "Assauged Memories", subname = nil}
 MultiLanguageNpcData['ko'][230886] = {name = "Assauged Memories", subname = nil}
 MultiLanguageNpcData['ko'][230887] = {name = "비단노래꾼 훈련생", subname = nil}
-MultiLanguageNpcData['ko'][230889] = {name = "실타래 쥐", subname = nil}
+MultiLanguageNpcData['ko'][230889] = {name = "그물쥐", subname = nil}
 MultiLanguageNpcData['ko'][230890] = {name = "누그러진 기억", subname = nil}
 MultiLanguageNpcData['ko'][230891] = {name = "누그러진 기억", subname = nil}
 MultiLanguageNpcData['ko'][230892] = {name = "Assauged Memories", subname = nil}
@@ -41816,5 +41816,8 @@ MultiLanguageNpcData['ko'][233409] = {name = "키틴질 기사", subname = nil}
 MultiLanguageNpcData['ko'][233410] = {name = "수레키 비단활", subname = nil}
 MultiLanguageNpcData['ko'][233413] = {name = "수레키 암흑칼날", subname = nil}
 MultiLanguageNpcData['ko'][233422] = {name = "네룹아르 궁전", subname = nil}
+MultiLanguageNpcData['ko'][233446] = {name = "Generic Bunny", subname = nil}
 MultiLanguageNpcData['ko'][233487] = {name = "Snorzidormu", subname = nil}
 MultiLanguageNpcData['ko'][233492] = {name = "시간의 수호자", subname = nil}
+MultiLanguageNpcData['ko'][233886] = {name = "Area Trigger Stalker [DNT]", subname = nil}
+MultiLanguageNpcData['ko'][234024] = {name = "Egg Cocoon", subname = nil}
