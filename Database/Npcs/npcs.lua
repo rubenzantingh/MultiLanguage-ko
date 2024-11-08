@@ -3351,7 +3351,6 @@ MultiLanguageNpcData['ko'][4037] = {name = "화염의 약탈자", subname = nil}
 MultiLanguageNpcData['ko'][4038] = {name = "화염의 파괴자", subname = nil}
 MultiLanguageNpcData['ko'][4039] = {name = "딘니스", subname = "영혼의 치유사"}
 MultiLanguageNpcData['ko'][4040] = {name = "긴다리동굴거미", subname = nil}
-MultiLanguageNpcData['ko'][4041] = {name = "오염된 바실리스크", subname = nil}
 MultiLanguageNpcData['ko'][4042] = {name = "악에물든 바실리스크", subname = nil}
 MultiLanguageNpcData['ko'][4043] = {name = "갈투크", subname = "양손 무기 상인"}
 MultiLanguageNpcData['ko'][4044] = {name = "타락한 바실리스크", subname = nil}
@@ -32078,3 +32077,4 @@ MultiLanguageNpcData['ko'][222854] = {name = "Polly Roger", subname = nil}
 MultiLanguageNpcData['ko'][222858] = {name = "약탈자 핀치", subname = nil}
 MultiLanguageNpcData['ko'][224065] = {name = "쌔앵이", subname = nil}
 MultiLanguageNpcData['ko'][228792] = {name = "용암아귀 가시 추적기", subname = nil}
+MultiLanguageNpcData['ko'][232527] = {name = "레븐", subname = nil}
