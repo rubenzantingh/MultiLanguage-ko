@@ -9378,6 +9378,7 @@ MultiLanguageNpcData['ko'][131921] = {name = "남성 드러스트바 주민", su
 MultiLanguageNpcData['ko'][131922] = {name = "여성 드러스트바 주민", subname = nil}
 MultiLanguageNpcData['ko'][131923] = {name = "페이 라우", subname = nil}
 MultiLanguageNpcData['ko'][131924] = {name = "압축가스 작렬 추적기", subname = nil}
+MultiLanguageNpcData['ko'][131925] = {name = "루실 웨이크레스트", subname = nil}
 MultiLanguageNpcData['ko'][131926] = {name = "춘가", subname = nil}
 MultiLanguageNpcData['ko'][131927] = {name = "높은산 수련생", subname = nil}
 MultiLanguageNpcData['ko'][131928] = {name = "유혹의 꽃", subname = nil}
@@ -27293,6 +27294,7 @@ MultiLanguageNpcData['ko'][151934] = {name = "포획꾼 기계거미", subname =
 MultiLanguageNpcData['ko'][151935] = {name = "Kill Credit: Use - Charging Station", subname = nil}
 MultiLanguageNpcData['ko'][151936] = {name = "마일룬", subname = nil}
 MultiLanguageNpcData['ko'][151937] = {name = "차원문 제어기", subname = nil}
+MultiLanguageNpcData['ko'][151938] = {name = "발리스리아 드림워커", subname = nil}
 MultiLanguageNpcData['ko'][151939] = {name = "베르디사", subname = nil}
 MultiLanguageNpcData['ko'][151940] = {name = "트로그 삼촌", subname = nil}
 MultiLanguageNpcData['ko'][151941] = {name = "폭발 직전의 더시웨이", subname = "비즈모의 싸움굴 병참장교"}
