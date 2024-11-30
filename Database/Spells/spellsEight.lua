@@ -1,3 +1,8 @@
+MultiLanguageSpellData['ko'][465783] = {name = "악마 순간이동", additional_info = nil}
+MultiLanguageSpellData['ko'][465805] = {name = "마법 파괴", additional_info = "10 야드 사정거리2 초 주문 시전 시간 12 초 재사용 대기시간\n[q]적을 가격해 마법의 유대를 파괴합니다. 15의 비전충격 피해를 입히고 이로운 마법 효과 1개를 제거합니다."}
+MultiLanguageSpellData['ko'][465815] = {name = "낫 회전베기", additional_info = "근접 사정거리\n0.75 초 주문 시전 시간\n[q]적과 그와 가장 가까운 적 최대 3명에게 일반 근접 공격력의 110%에 해당하는 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][465828] = {name = "지면 파쇄", additional_info = "근접 사정거리\n3.5 초 주문 시전 시간 13 초 재사용 대기시간\n[q]Knocks all enemies within 9 yards of the caster back.\n Inflicts 48 Physical damage to enemies within 9 yards."}
+MultiLanguageSpellData['ko'][465843] = {name = "소용돌이치는 물", additional_info = "즉시\n[q]다음 치유의 물결 또는 치유의 파도가 추가로 치유의 비 안에 있는 아군을 0%의 효율로 치유합니다."}
 MultiLanguageSpellData['ko'][465853] = {name = "우상 바라보기 대상", additional_info = nil}
 MultiLanguageSpellData['ko'][465854] = {name = "\"멍멍사론\" 의상", additional_info = "20 야드 사정거리\n즉시\n[q]명랑한 막공이에게 옷을 갖춰 입힙니다."}
 MultiLanguageSpellData['ko'][465855] = {name = "밀쳐짐", additional_info = nil}
@@ -402,7 +407,7 @@ MultiLanguageSpellData['ko'][468695] = {name = "뱀가죽 화살통", additional
 MultiLanguageSpellData['ko'][468701] = {name = "뱀의 박자", additional_info = "[q]코브라 사격 시전 시 공격력이 25%만큼 증가합니다. 최대 4번까지 중첩됩니다.\n\n 4번 중첩 시 추가 효과가 사라지고 8 sec 동안 야수의 공격력이 8%만큼 증가합니다."}
 MultiLanguageSpellData['ko'][468703] = {name = "뱀의 박자", additional_info = "즉시\n[q]마무리 사격이 1명의 추가 대상을 가격하고 활성화된 야수 하나당 공격력이 10%만큼 증가합니다. 최대 5번까지 중첩됩니다."}
 MultiLanguageSpellData['ko'][468704] = {name = "뱀의 축복", additional_info = "즉시\n[q]코브라 사격 시전 시 공격력이 25%만큼 증가합니다. 최대 4번까지 중첩됩니다.\n\n 4번 중첩 시 추가 효과가 사라지고 8 sec 동안 야수의 공격력이 8%만큼 증가합니다."}
-MultiLanguageSpellData['ko'][468732] = {name = "유실물 보관함 포장 풀기", additional_info = "3 초 주문 시전 시간\n재료:\nItem #231773\n[q]보관함의 포장을 풀어 물품 다섯 개를 모두 획득합니다."}
+MultiLanguageSpellData['ko'][468732] = {name = "유실물 보관함 포장 풀기", additional_info = "3 초 주문 시전 시간\n재료:\n[Lost & Found Chest][q]보관함의 포장을 풀어 물품 다섯 개를 모두 획득합니다."}
 MultiLanguageSpellData['ko'][468743] = {name = "휘도는 별", additional_info = "[q][ 화신: 엘룬의 선택 / 천체의 정렬]의 재사용 대기시간이 100초로 감소하고 2회 충전되지만 지속시간이 20%만큼 감소합니다."}
 MultiLanguageSpellData['ko'][468757] = {name = "표범 변신", additional_info = "즉시\n[q]표범으로 변신합니다. 자동 공격의 공격력이 40%만큼, 이동 속도가 30%만큼 증가하고 변이 효과에 면역이 되며, 낙하 피해가 감소합니다.\n\n 변신을 하면 이동 방해 효과에서 벗어납니다."}
 MultiLanguageSpellData['ko'][468795] = {name = "검은무쇠 다이너마이트", additional_info = "100 야드 사정거리\n2 초 주문 시전 시간\n[q]대상 위치에 폭탄을 던져 주위의 적에게 1523612의 화염 피해를 입히고 뒤로 밀쳐냅니다."}
