@@ -1,3 +1,4 @@
+MultiLanguageSpellData['ko'][464582] = {name = "불안정한 고블린 파도분쇄기", additional_info = "5 야드 사정거리\n즉시\n[q]고블린 파도분쇄기 임시 탈것에 올라타거나 내립니다."}
 MultiLanguageSpellData['ko'][464587] = {name = "재장전", additional_info = "100 야드 사정거리\n1 초 주문 시전 시간\n[q]원거리 무기를 재장전합니다."}
 MultiLanguageSpellData['ko'][464590] = {name = "다크문 잡낭", additional_info = "0.1 초 주문 시전 시간\n[q]카즈 알가르 다크문 카드 제작 시 0%의 확률로 추가로 하나 더 만듭니다.\n\n [ 카즈 알가르 주문각인 1 필요 착용 효과 ][ 카즈 알가르 주문각인 1 필요 착용 효과 ]"}
 MultiLanguageSpellData['ko'][464593] = {name = "휘감는 비단", additional_info = nil}
@@ -892,8 +893,10 @@ MultiLanguageSpellData['ko'][468159] = {name = "검은 물", additional_info = "
 MultiLanguageSpellData['ko'][468162] = {name = "거대괴수 도끼", additional_info = "근접 사정거리\n2 초 주문 시전 시간\n[q]시전자가 무기를 강화해 6 sec 동안 근접 공격 적중 시 검은 물을 겁니다."}
 MultiLanguageSpellData['ko'][468179] = {name = "질풍차기", additional_info = "즉시\n[q]강한 돌풍을 일으켜 전방 25미터 부채꼴 범위 내의 적에게 (359.5% of Attack power)의 자연 피해를 나누어 입힙니다. 적중당한 대상 하나당 공격력이 6%만큼, 최대 30%만큼 증가합니다.\n\n 4 sec 동안 맹렬한 바람이 부여되어 소생의 안개의 치유량이 100%만큼 증가합니다."}
 MultiLanguageSpellData['ko'][468186] = {name = "레벤", additional_info = "즉시\n[q]레벤을 소환하거나 소환 해제합니다."}
+MultiLanguageSpellData['ko'][468205] = {name = "나무 하늘뱀", additional_info = "1.5 초 주문 시전 시간\n[q]탈것에 올라타거나 내립니다.\n[q]\"생생하게 살아 숨 쉬며 날아다니는 예술 작품입니다.\"\n게임 내 상점"}
 MultiLanguageSpellData['ko'][468219] = {name = "사냥꾼의 먹잇감", additional_info = "즉시\n[q]마무리 사격이 1명의 추가 대상을 가격하고 활성화된 야수 하나당 공격력이 10%만큼 증가합니다. 최대 5번까지 중첩됩니다."}
 MultiLanguageSpellData['ko'][468226] = {name = "번개 도관", additional_info = "즉시\n[q]일정 확률로 벼락에 맞습니다. 벼락에 맞으면 5 sec 동안 이동 속도가 50%만큼 증가합니다. 야외에서는 효과가 100%로 증가합니다.\n\n 윤회 시 천둥폭풍을 불러 내립니다."}
+MultiLanguageSpellData['ko'][468228] = {name = "어린 나무 하늘뱀", additional_info = "즉시\n[q]이 애완동물을 소환하거나 소환 해제합니다."}
 MultiLanguageSpellData['ko'][468231] = {name = "가라앉은 쇄도", additional_info = "100 야드 사정거리\n즉시\n[q]회오리가 시전자의 주위를 맴돌며 접촉하는 적에게 검은 물을 겁니다."}
 MultiLanguageSpellData['ko'][468232] = {name = "가라앉은 쇄도", additional_info = "2 초 주문 시전 시간\n[q]회오리가 시전자의 주위를 맴돌며 접촉하는 적에게 검은 물을 겁니다."}
 MultiLanguageSpellData['ko'][468246] = {name = "과조작", additional_info = "200 야드 사정거리\n즉시\n[q]골렘이 파괴되면 전투가 끝날 때까지 남은 골렘의 공격력이 25%만큼 증가합니다. 이 효과는 중첩됩니다."}
@@ -1696,7 +1699,7 @@ MultiLanguageSpellData['ko'][471683] = {name = "천상의 탄막", additional_in
 MultiLanguageSpellData['ko'][471696] = {name = "갈고리발톱", additional_info = "1.5 초 주문 시전 시간\n[q]탈것에 올라타거나 내립니다.\n\n 이 탈것은 같이 타기가 가능합니다.\n[q]\"갈고리발톱은 한때 붉은해적단과 함께 바다를 누볐고, 그 이후에는 검은바다 해적단에 몸담았습니다. 그리고 바다 저 너머에는 어떤 전리품이 있는지 알아보고자 다시 한번 떠났죠.\"\n특별 이벤트:\n약탈폭풍"}
 MultiLanguageSpellData['ko'][471697] = {name = "주문 배우기: 갈고리발톱", additional_info = nil}
 MultiLanguageSpellData['ko'][471706] = {name = "폭풍 소환", additional_info = "30 야드 사정거리\n5 초 주문 시전 시간\n[q]시전자가 강력한 번개를 떨어뜨려 30미터 내의 적에게 100의 자연 피해를 입힙니다."}
-MultiLanguageSpellData['ko'][471717] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간) 18 초 재사용 대기시간\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n18초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
+MultiLanguageSpellData['ko'][471717] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간)\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n18초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
 MultiLanguageSpellData['ko'][471722] = {name = "순간이동", additional_info = nil}
 MultiLanguageSpellData['ko'][471726] = {name = "순간이동", additional_info = nil}
 MultiLanguageSpellData['ko'][471727] = {name = "순간이동", additional_info = nil}
@@ -1786,7 +1789,7 @@ MultiLanguageSpellData['ko'][472337] = {name = "어둠파도 파도술사의 보
 MultiLanguageSpellData['ko'][472353] = {name = "천상의 탄막", additional_info = nil}
 MultiLanguageSpellData['ko'][472360] = {name = "방황하는 브리쿨의 등불", additional_info = "즉시\n[q]주요 직업 능력 시전 시 브리쿨 영혼의 흉포함이 깃들어 8 sec 동안 치명타 및 극대화가 171 만큼 증가합니다.\n\n 마지막으로 주입된 시기에 따라 효과의 지속시간이 최대 40초만큼 증가합니다."}
 MultiLanguageSpellData['ko'][472370] = {name = "바위 폭발", additional_info = nil}
-MultiLanguageSpellData['ko'][472390] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간) 16 초 재사용 대기시간\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n16초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
+MultiLanguageSpellData['ko'][472390] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간)\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n16초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
 MultiLanguageSpellData['ko'][472391] = {name = "천상의 탄막", additional_info = nil}
 MultiLanguageSpellData['ko'][472392] = {name = "천상의 탄막", additional_info = nil}
 MultiLanguageSpellData['ko'][472393] = {name = "천상의 탄막", additional_info = nil}
@@ -1799,8 +1802,8 @@ MultiLanguageSpellData['ko'][472399] = {name = "천상의 탄막", additional_in
 MultiLanguageSpellData['ko'][472400] = {name = "천상의 탄막", additional_info = nil}
 MultiLanguageSpellData['ko'][472401] = {name = "천상의 탄막", additional_info = nil}
 MultiLanguageSpellData['ko'][472402] = {name = "천상의 탄막", additional_info = nil}
-MultiLanguageSpellData['ko'][472403] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간) 14 초 재사용 대기시간\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n14초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
-MultiLanguageSpellData['ko'][472406] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간) 12 초 재사용 대기시간\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n12초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
+MultiLanguageSpellData['ko'][472403] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간)\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n14초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
+MultiLanguageSpellData['ko'][472406] = {name = "천상의 탄막", additional_info = "집중 (2 초 주문 시전 시간)\n[q]- 직선 공격\n- 길게 눌러 충전\n- 매우 긴 사정거리\n\n12초의 재사용 대기시간\n 달의 빛줄기를 연달아 불러 내려 적에게 피해를 입힙니다.\n\n 길게 누르면 사정거리가 증가합니다."}
 MultiLanguageSpellData['ko'][472407] = {name = "천상의 탄막", additional_info = nil}
 MultiLanguageSpellData['ko'][472408] = {name = "천상의 탄막", additional_info = nil}
 MultiLanguageSpellData['ko'][472409] = {name = "천상의 탄막", additional_info = nil}
@@ -1837,7 +1840,7 @@ MultiLanguageSpellData['ko'][472655] = {name = "10/2/24 오류 긴급 수정 사
 MultiLanguageSpellData['ko'][472696] = {name = "공허의 틈새", additional_info = "즉시 18 초 재사용 대기시간\n[q]- 위치 변경\n- 능력 재시전\n- 이동 속도 감소\n\n18초의 재사용 대기시간\n 공허를 찢어 공허의 징표를 남깁니다. 공허의 틈새를 재시전하면 즉시 징표의 위치로 이동하고, 적에게 피해를 입히며 이동 속도를 감소시킵니다.\n\n 다른 주문 시전 중에 시전할 수 있습니다."}
 MultiLanguageSpellData['ko'][472701] = {name = "도우미", additional_info = nil}
 MultiLanguageSpellData['ko'][472704] = {name = "현실의 틈새", additional_info = "즉시 1 초 재사용 대기시간\n[q]- 위치 변경\n- 능력 재시전\n- 이동 속도 감소\n\n18초의 재사용 대기시간\n 공허를 찢어 공허의 징표를 남깁니다. 공허의 틈새를 재시전하면 즉시 징표의 위치로 이동하고, 적에게 피해를 입히며 이동 속도를 감소시킵니다.\n\n 다른 주문 시전 중에 시전할 수 있습니다."}
-MultiLanguageSpellData['ko'][472725] = {name = "따닥이", additional_info = "즉시\n[q]Find someone to help pull open the cracker. One participant will receive a surprise."}
+MultiLanguageSpellData['ko'][472725] = {name = "따닥이", additional_info = "즉시\n[q]함께 잡아당겨 열 사람을 찾습니다. 참여자 중 한 명에게 깜짝선물이 증정됩니다."}
 MultiLanguageSpellData['ko'][472726] = {name = "공허의 틈새", additional_info = nil}
 MultiLanguageSpellData['ko'][472730] = {name = "상호작용", additional_info = nil}
 MultiLanguageSpellData['ko'][472738] = {name = "따닥이 당기기", additional_info = nil}
@@ -2055,7 +2058,7 @@ MultiLanguageSpellData['ko'][474653] = {name = "보조: 강풍깃털 부르기",
 MultiLanguageSpellData['ko'][474658] = {name = "어두운 달빛", additional_info = "사정거리 없음\n즉시\n[q]주문 시전 속도를 50%만큼 감소시킵니다."}
 MultiLanguageSpellData['ko'][474672] = {name = "요점 정리", additional_info = "집중\n[q]바르구스와 앙골라가 금이 간 조각을 고치는 동안 집중합니다."}
 MultiLanguageSpellData['ko'][474679] = {name = "바위 소생기", additional_info = "즉시\n[q]주위의 잠 못 드는 조약돌 정령과 바위정령의 잔류 마력을 이용해 짧은 시간 동안 전투를 돕게 합니다."}
-MultiLanguageSpellData['ko'][474688] = {name = "꼬마 투덜이 해제", additional_info = "3 초 주문 시전 시간\n[q]Allows you to summon Grumplings using the Box of Puntables toy.\n [ Already known ]"}
+MultiLanguageSpellData['ko'][474688] = {name = "꼬마 투덜이 해제", additional_info = "3 초 주문 시전 시간\n[q]발로차 상자 장난감을 사용해 꼬마 투덜이를 소환할 수 있습니다.\n [ 이 주문은 이미 습득했습니다. ]"}
 MultiLanguageSpellData['ko'][474690] = {name = "꼬마 투덜이 소환", additional_info = "즉시\n[q]꼬마 투덜이를 소환합니다."}
 MultiLanguageSpellData['ko'][474691] = {name = "꼬마 투덜이 소환", additional_info = "집중 (5 초 주문 시전 시간)\n[q]격노한 오리를 소환하여 전투를 돕게 합니다."}
 MultiLanguageSpellData['ko'][474698] = {name = "재련", additional_info = "집중 (0 초 주문 시전 시간)\n[q]가열로의 마력을 이용해 금이 간 파편의 외관을 복원합니다."}
@@ -2205,6 +2208,7 @@ MultiLanguageSpellData['ko'][1216089] = {name = "줄 감기", additional_info = 
 MultiLanguageSpellData['ko'][1216189] = {name = "열기", additional_info = nil}
 MultiLanguageSpellData['ko'][1216229] = {name = "톨 다고르 출발", additional_info = nil}
 MultiLanguageSpellData['ko'][1216418] = {name = "실험용 이동 배낭", additional_info = "100 야드 사정거리\n즉시\n[q]대상 위치로 강하합니다."}
+MultiLanguageSpellData['ko'][1216542] = {name = "타오르는 왕실 불꽃매", additional_info = "1.5 초 주문 시전 시간\n[q]타오르는 왕실 불꽃매에 올라타거나 내립니다. 하늘을 날 수 있습니다.\n[q]\"그 누구보다 정열적이고 격정적인 마음을 가진 자만이 타오르는 왕실 불꽃매를 탈것으로 삼을 수 있습니다.\"\n프로모션"}
 MultiLanguageSpellData['ko'][1216696] = {name = "차원문: 선물 기념제...?", additional_info = "즉시\n[q]시전자를 스톰윈드로 순간이동시킵니다."}
 MultiLanguageSpellData['ko'][1216697] = {name = "차원문: 선물 기념제...?", additional_info = "즉시\n[q]시전자를 선물 기념제로 순간이동시킵니다."}
 MultiLanguageSpellData['ko'][1216746] = {name = "랜드로의 깜짝 전리품 상자", additional_info = nil}
@@ -2229,3 +2233,9 @@ MultiLanguageSpellData['ko'][1218030] = {name = "뱃사람의 금고", additiona
 MultiLanguageSpellData['ko'][1218099] = {name = "장애물", additional_info = nil}
 MultiLanguageSpellData['ko'][1218100] = {name = "장애물", additional_info = nil}
 MultiLanguageSpellData['ko'][1218101] = {name = "장애물", additional_info = nil}
+MultiLanguageSpellData['ko'][1218374] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['ko'][1218980] = {name = "탑승 인원 내보내기 1", additional_info = nil}
+MultiLanguageSpellData['ko'][1218981] = {name = "방패 돌격", additional_info = "10 - 40 야드 사정거리\n즉시 5 초 재사용 대기시간\n[q]받는 피해가 240%만큼 감소합니다.\n\n until canceled 동안 이동 속도가 240%만큼 증가하고 접촉하는 적을 뒤로 밀쳐냅니다."}
+MultiLanguageSpellData['ko'][1220498] = {name = "제멋대로 순간이동", additional_info = "5 초 주문 시전 시간\n[q]특별히 까다로운 사람이 아니라면 좋아할 만한 장소로 순간이동합니다."}
+MultiLanguageSpellData['ko'][1221338] = {name = "발공 차기", additional_info = "40 야드 사정거리\n즉시 5 초 재사용 대기시간\n[q]공을 아군 플레이어에게 찹니다. 가능한 경우, 상대방이 자동으로 되돌려 줍니다."}
+MultiLanguageSpellData['ko'][1221476] = {name = "Tracking Quest", additional_info = nil}
