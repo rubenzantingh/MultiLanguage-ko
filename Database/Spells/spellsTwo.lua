@@ -19960,6 +19960,20 @@ MultiLanguageSpellData['ko'][113836] = {name = "물의 참호", additional_info 
 MultiLanguageSpellData['ko'][114406] = {name = "공격 저지", additional_info = nil}
 MultiLanguageSpellData['ko'][121805] = {name = "친구 초대 탈것 III", additional_info = "1.5 초 주문 시전 시간\n[q]친구 초대 탈것 III을 소환하거나 소환 해제합니다. 타기 숙련도와 위치에 따라 탈것이 달라집니다."}
 MultiLanguageSpellData['ko'][121820] = {name = "흑요석 밤날개표범", additional_info = "1.5 초 주문 시전 시간\n[q]흑요석 밤날개표범으로 변신하여 아주 빠르게 비행합니다. 등에 아군을 태우고 하늘을 날 수 있습니다."}
+MultiLanguageSpellData['ko'][126236] = {name = "미끄러움", additional_info = "즉시\n[q]15 sec 동안 회피가 963만큼 증가합니다."}
+MultiLanguageSpellData['ko'][126237] = {name = "아이템 - 회피 효과", additional_info = "[q]공격 시 일정 확률로 15 sec 동안 회피가 963만큼 증가합니다. (15% 확률, 재사용 대기시간 55초)\n(효과 발동 확률: 15%, 55초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][126266] = {name = "깨달음", additional_info = "즉시\n[q]10 sec 동안 지능이 1926만큼 증가합니다."}
+MultiLanguageSpellData['ko'][126268] = {name = "아이템 - 특화도 효과", additional_info = "[q]치유 주문 사용 시 일정 확률로 10 sec 동안 지능이 1926만큼 증가합니다.\n(효과 발동 확률: 10%, 30초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][126467] = {name = "마나 충전", additional_info = "100 야드 사정거리\n즉시\n[q]5700의 마나를 회복합니다."}
+MultiLanguageSpellData['ko'][126468] = {name = "연구의 대가 - 아이템 - 마나 충전 발동", additional_info = "[q]치유 주문 사용 시 일정 확률로 5700의 마나를 회복합니다. (10% 확률, 재사용 대기시간 55초)\n(효과 발동 확률: 10%, 55초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][126552] = {name = "아이템 - 민첩 효과", additional_info = "[q]공격 시 일정 확률로 20 sec 동안 민첩성이 963만큼 증가합니다. (확률 15%, 재사용 대기시간 55초)\n(효과 발동 확률: 15%, 55초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][126554] = {name = "기민함", additional_info = "즉시\n[q]20 sec 동안 민첩성이 963만큼 증가합니다."}
+MultiLanguageSpellData['ko'][126582] = {name = "확고한 힘", additional_info = "즉시\n[q]20 sec 동안 힘이 963만큼 증가합니다."}
+MultiLanguageSpellData['ko'][126583] = {name = "아이템 - 힘 효과", additional_info = "[q]공격 시 일정 확률로 20 sec 동안 힘이 963만큼 증가합니다. (15% 확률, 재사용 대기시간 55초)\n(효과 발동 확률: 15%, 55초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][126659] = {name = "급속", additional_info = "즉시\n[q]20 sec 동안 가속이 963만큼 증가합니다."}
+MultiLanguageSpellData['ko'][126660] = {name = "아이템 - 주문 적중 시 가속 발동", additional_info = "[q]공격 주문이 적중할 때마다 일정 확률로 20 sec 동안 가속이 963만큼 증가합니다. (15% 확률, 재사용 대기시간 115초)\n(효과 발동 확률: 15%, 1.917분 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][133630] = {name = "능수능란", additional_info = "40 야드 사정거리\n즉시\n[q]20 sec 동안 특화도가 2573만큼 증가합니다."}
+MultiLanguageSpellData['ko'][133631] = {name = "아이템 - 공격 발동 특화", additional_info = "[q]공격이 적중하면 일정 확률로 until cancelled 동안 특화가 0만큼 증가합니다.\n(효과 발동 확률: 15%, 1.083분 재사용 대기시간)"}
 MultiLanguageSpellData['ko'][158263] = {name = "비겁자", additional_info = nil}
 MultiLanguageSpellData['ko'][160597] = {name = "계승품 생성", additional_info = nil}
 MultiLanguageSpellData['ko'][171555] = {name = "공격대 표시기 6", additional_info = "즉시"}
@@ -20004,6 +20018,7 @@ MultiLanguageSpellData['ko'][346285] = {name = "가상 상황", additional_info 
 MultiLanguageSpellData['ko'][347065] = {name = "사피론 이벤트 초기화", additional_info = nil}
 MultiLanguageSpellData['ko'][347551] = {name = "팰리나 몬스터 초기화", additional_info = nil}
 MultiLanguageSpellData['ko'][347564] = {name = "라주비어스 몬스터 초기화", additional_info = nil}
+MultiLanguageSpellData['ko'][347869] = {name = "Fly", additional_info = "즉시\n[q]Take flight!"}
 MultiLanguageSpellData['ko'][348005] = {name = "독", additional_info = "50 야드 사정거리\n즉시\n[q]적에게 30 sec에 걸쳐 매 3초마다 자연 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][348021] = {name = "지원 요청", additional_info = nil}
 MultiLanguageSpellData['ko'][348023] = {name = "그라불루스 처치 - 정리", additional_info = nil}
@@ -20606,6 +20621,7 @@ MultiLanguageSpellData['ko'][466980] = {name = "혼돈살이 히포그리프", a
 MultiLanguageSpellData['ko'][466983] = {name = "혼돈살이 그리핀", additional_info = "1.5 초 주문 시전 시간\n[q]혼돈살이 그리핀에 올라타거나 내립니다. 하늘을 날 수 있습니다."}
 MultiLanguageSpellData['ko'][468201] = {name = "레븐", additional_info = "즉시\n[q]레븐을 소환하거나 소환 해제합니다."}
 MultiLanguageSpellData['ko'][468215] = {name = "황혼의 애완동물 배우기", additional_info = nil}
+MultiLanguageSpellData['ko'][468247] = {name = "어린 나무 바람뱀", additional_info = "즉시\n[q]목조 바람뱀 새끼를 소환하거나 소환 해제합니다."}
 MultiLanguageSpellData['ko'][469265] = {name = "세계수의 징표 10개 부여", additional_info = "즉시\n[q]세계수의 징표 10개를 획득합니다."}
 MultiLanguageSpellData['ko'][469349] = {name = "고통 반사", additional_info = "즉시\n[q]10 sec 동안 전투력이 3576만큼 증가합니다."}
 MultiLanguageSpellData['ko'][469350] = {name = "고통 반사", additional_info = "[q]근접 혹은 원거리 공격으로 치명타를 적중시키면 일정 확률로 10초 동안 전투력이 3576만큼 증가합니다.\n(효과 발동 확률: 10%, 50초 재사용 대기시간)"}
@@ -20629,3 +20645,185 @@ MultiLanguageSpellData['ko'][1215484] = {name = "폭발 사격", additional_info
 MultiLanguageSpellData['ko'][1215485] = {name = "폭발 사격", additional_info = "100 야드 사정거리\n즉시\n원거리 무기 필요\n[q]폭발의 화살이나 탄환을 발사하여 적 대상에게 (Ranged attack power * 0.273 + 449 )의 화염 피해를 입힙니다. 추가로 2 sec 동안 1초마다 대상을 폭발하게 만듭니다."}
 MultiLanguageSpellData['ko'][1215486] = {name = "폭발 사격", additional_info = "100 야드 사정거리\n즉시\n원거리 무기 필요\n[q]폭발의 화살이나 탄환을 발사하여 적 대상에게 (Ranged attack power * 0.273 + 449 )의 화염 피해를 입힙니다. 추가로 2 sec 동안 1초마다 대상을 폭발하게 만듭니다."}
 MultiLanguageSpellData['ko'][1215492] = {name = "과열", additional_info = "사정거리 없음\n즉시\n[q]라그나로스의 힘이 극대화되고 과열되었습니다. 5초마다 6000의 화염 피해를 입히고 대상이 과열로 받는 피해를 10%만큼 증가시킵니다. 효과가 중첩됩니다."}
+MultiLanguageSpellData['ko'][1216290] = {name = "[q3]피에 굶주린 지배의 눈알", additional_info = "3 초 주문 시전 시간 2\n도구: 숙련자의 필기구\n재료:\n지옥불 잉크 (5), 물의 휘발물 (12), 보존된 오우거 눈썹\n[q3]피에 굶주린 지배의 눈알\n착용 시 귀속\n성물\n체력 +159\n지능 +106\n\n[q0]다색 보석 홈\n\n85\n[q2]착용 효과: 치명타 및 극대화 적중도가 71만큼 증가합니다.\n[q2]착용 효과: 탄력도가 71만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216316] = {name = "[q3]피에 굶주린 승전의 부적", additional_info = "3 초 주문 시전 시간 2\n도구: 숙련자의 필기구\n재료:\n지옥불 잉크 (5), 생명의 휘발물 (6), 물의 휘발물 (6), 은장식 팔찌\n[q3]피에 굶주린 승전의 부적\n착용 시 귀속\n성물\n민첩성 +106\n체력 +159\n\n[q0]다색 보석 홈\n\n85\n[q2]착용 효과: 치명타 및 극대화 적중도가 71만큼 증가합니다.\n[q2]착용 효과: 탄력도가 71만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216317] = {name = "[q3]피에 굶주린 정복의 턱뼈", additional_info = "3 초 주문 시전 시간 2\n도구: 숙련자의 필기구\n재료:\n지옥불 잉크 (5), 생명의 휘발물 (12), 표백된 턱뼈\n[q3]피에 굶주린 정복의 턱뼈\n착용 시 귀속\n성물\n힘 +106\n체력 +159\n\n[q0]다색 보석 홈\n\n85\n[q2]착용 효과: 치명타 및 극대화 적중도가 71만큼 증가합니다.\n[q2]착용 효과: 탄력도가 71만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216321] = {name = "[q3]피에 굶주린 호박보석 펜던트", additional_info = "12.5 초 주문 시전 시간\n재료:\n보석세공인의 장식 , 호박보석 (5), 물의 휘발물 (8), 생명의 휘발물 (4)\n[q3]피에 굶주린 호박보석 펜던트\n착용 시 귀속\n목\n체력 +282\n지능 +188\n85\n[q2]착용 효과: 탄력도가 126만큼 증가합니다.\n[q2]착용 효과: 가속도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216323] = {name = "[q3]피에 굶주린 사파이어 반지", additional_info = "12.5 초 주문 시전 시간\n재료:\n보석세공인의 장식 , 대양 사파이어 (4), 바람의 휘발물 (8)\n[q3]피에 굶주린 사파이어 반지\n착용 시 귀속\n손가락\n민첩성 +188\n체력 +282\n85\n[q2]착용 효과: 치명타 및 극대화 적중도가 126만큼 증가합니다.\n[q2]착용 효과: 탄력도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216328] = {name = "[q3]피에 굶주린 호박보석 고리", additional_info = "12.5 초 주문 시전 시간\n재료:\n보석세공인의 장식 , 호박보석 (4), 물의 휘발물 (8)\n[q3]피에 굶주린 호박보석 고리\n착용 시 귀속\n손가락\n체력 +282\n지능 +188\n정신력 +126\n85\n[q2]착용 효과: 탄력도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216329] = {name = "[q3]피에 굶주린 루비 인장", additional_info = "12.5 초 주문 시전 시간\n재료:\n보석세공인의 장식 , 지옥불 루비 (4), 대지의 휘발물 (8)\n[q3]피에 굶주린 루비 인장\n착용 시 귀속\n손가락\n힘 +188\n체력 +282\n85\n[q2]착용 효과: 치명타 및 극대화 적중도가 126만큼 증가합니다.\n[q2]착용 효과: 탄력도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216330] = {name = "[q3]피에 굶주린 사파이어 목걸이", additional_info = "12.5 초 주문 시전 시간\n재료:\n보석세공인의 장식 , 대양 사파이어 (5), 바람의 휘발물 (8), 불의 휘발물 (4)\n[q3]피에 굶주린 사파이어 목걸이\n착용 시 귀속\n목\n민첩성 +188\n체력 +282\n85\n[q2]착용 효과: 탄력도가 126만큼 증가합니다.\n[q2]착용 효과: 숙련도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216331] = {name = "[q3]피에 굶주린 루비 목장식", additional_info = "12.5 초 주문 시전 시간\n재료:\n보석세공인의 장식 , 지옥불 루비 (5), 대지의 휘발물 (8), 물의 휘발물 (6)\n[q3]피에 굶주린 루비 목장식\n착용 시 귀속\n목\n힘 +188\n체력 +282\n85\n[q2]착용 효과: 탄력도가 126만큼 증가합니다.\n[q2]착용 효과: 숙련도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216335] = {name = "[q3]피에 굶주린 모피 망토", additional_info = "2 초 주문 시전 시간 3\n재료:\n온전한 가죽 , 대지의 휘발물 (4)\n[q3]피에 굶주린 모피 망토\n착용 시 귀속\n등\n방어도 622\n민첩성 +188\n체력 +282\n85\n[q2]착용 효과: 치명타 및 극대화 적중도가 126만큼 증가합니다.\n[q2]착용 효과: 탄력도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216336] = {name = "[q3]피에 굶주린 통가죽 망토", additional_info = "2 초 주문 시전 시간 3\n재료:\n온전한 가죽 , 불의 휘발물 (4)\n[q3]피에 굶주린 통가죽 망토\n착용 시 귀속\n등\n방어도 622\n힘 +188\n체력 +282\n[q2]특화 + 126\n85\n[q2]착용 효과: 탄력도가 126만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1216338] = {name = "[q3]피에 굶주린 잿불비단 단망토", additional_info = "2 초 주문 시전 시간 2\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (6), 불의 휘발물 (6)\n[q3]피에 굶주린 잿불비단 단망토\n착용 시 귀속\n등\n방어도 622\n체력 +282\n지능 +188\n[q2]특화 + 126\n85\n[q2]착용 효과: 탄력도가 126만큼 증가합니다.\n\n[q]피에 굶주린 잿불비단 (0/9)\n[q0]피에 굶주린 잿불비단 허리띠\n피에 굶주린 잿불비단 장화\n피에 굶주린 잿불비단 팔보호구\n피에 굶주린 잿불비단 단망토\n피에 굶주린 잿불비단 수도두건\n피에 굶주린 잿불비단 장갑\n피에 굶주린 잿불비단 바지\n피에 굶주린 잿불비단 로브\n피에 굶주린 잿불비단 어깨보호구"}
+MultiLanguageSpellData['ko'][1223558] = {name = "용의 영혼 공명", additional_info = "즉시\n[q]용의 영혼에 의해 힘이 솟아나 전체 생명력과 치유량, 피해 흡수량, 공격력이 5%만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1223561] = {name = "용의 영혼 공명", additional_info = "즉시\n[q]용의 영혼에 의해 힘이 솟아나 전체 생명력과 치유량, 피해 흡수량, 공격력이 10%만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1223564] = {name = "용의 영혼 공명", additional_info = "즉시\n[q]용의 영혼에 의해 힘이 솟아나 전체 생명력과 치유량, 피해 흡수량, 공격력이 15%만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1223565] = {name = "용의 영혼 공명", additional_info = "즉시\n[q]용의 영혼에 의해 힘이 솟아나 전체 생명력과 치유량, 피해 흡수량, 공격력이 20%만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1223566] = {name = "용의 영혼 공명", additional_info = "즉시\n[q]용의 영혼에 의해 힘이 솟아나 전체 생명력과 치유량, 피해 흡수량, 공격력이 25%만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1223567] = {name = "용의 영혼 공명", additional_info = "즉시\n[q]용의 영혼에 의해 힘이 솟아나 전체 생명력과 치유량, 피해 흡수량, 공격력이 30%만큼 증가합니다."}
+MultiLanguageSpellData['ko'][1223568] = {name = "용의 영혼 공명", additional_info = nil}
+MultiLanguageSpellData['ko'][1223669] = {name = "열기", additional_info = "2 초 주문 시전 시간\n[q]가방을 엽니다!"}
+MultiLanguageSpellData['ko'][1224138] = {name = "[q3]흉포한 그을음비늘 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224139] = {name = "[q3]흉포한 그을음비늘 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224140] = {name = "[q3]흉포한 그을음비늘 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224141] = {name = "[q3]흉포한 그을음비늘 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224142] = {name = "[q3]흉포한 그을음비늘 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224143] = {name = "[q3]흉포한 그을음비늘 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224144] = {name = "[q3]흉포한 그을음비늘 다리보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224145] = {name = "[q3]흉포한 그을음비늘 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224146] = {name = "[q3]흉포한 용비늘 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224147] = {name = "[q3]흉포한 용비늘 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224148] = {name = "[q3]흉포한 용비늘 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224149] = {name = "[q3]흉포한 용비늘 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224150] = {name = "[q3]흉포한 용비늘 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224151] = {name = "[q3]흉포한 용비늘 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224152] = {name = "[q3]흉포한 용비늘 다리보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224153] = {name = "[q3]흉포한 용비늘 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224154] = {name = "[q3]흉포한 잿불비단 허리띠", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224155] = {name = "[q3]흉포한 잿불비단 장화", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224156] = {name = "[q3]흉포한 잿불비단 팔보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 불의 휘발물 (4), 물의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224157] = {name = "[q3]흉포한 잿불비단 수도두건", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224158] = {name = "[q3]흉포한 잿불비단 장갑", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224159] = {name = "[q3]흉포한 잿불비단 바지", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224160] = {name = "[q3]흉포한 잿불비단 로브", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224161] = {name = "[q3]흉포한 잿불비단 어깨보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 물의 휘발물 (3), 불의 휘발물 (3)"}
+MultiLanguageSpellData['ko'][1224162] = {name = "[q3]흉포한 불매듭 허리띠", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 불의 휘발물 (3), 바람의 휘발물 (3)"}
+MultiLanguageSpellData['ko'][1224163] = {name = "[q3]흉포한 불매듭 장화", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 물의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224164] = {name = "[q3]흉포한 불매듭 팔보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 불의 휘발물 (3), 바람의 휘발물 (3)"}
+MultiLanguageSpellData['ko'][1224165] = {name = "[q3]흉포한 불매듭 수도두건", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224166] = {name = "[q3]흉포한 불매듭 장갑", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224167] = {name = "[q3]흉포한 불매듭 바지", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224168] = {name = "[q3]흉포한 불매듭 로브", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (8), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224169] = {name = "[q3]흉포한 불매듭 어깨보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224170] = {name = "[q3]흉포한 가죽 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224171] = {name = "[q3]흉포한 가죽 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224172] = {name = "[q3]흉포한 가죽 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224173] = {name = "[q3]흉포한 가죽 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224174] = {name = "[q3]흉포한 가죽 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224175] = {name = "[q3]흉포한 가죽 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224176] = {name = "[q3]흉포한 가죽 다리보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224177] = {name = "[q3]흉포한 가죽 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224178] = {name = "[q3]흉포한 화려한 황철 허리띠", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224179] = {name = "[q3]흉포한 화려한 황철 장화", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224180] = {name = "[q3]흉포한 화려한 황철 팔보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (8), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224181] = {name = "[q3]흉포한 화려한 황철 가슴보호갑", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224182] = {name = "[q3]흉포한 화려한 황철 건틀릿", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224183] = {name = "[q3]흉포한 화려한 황철 투구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224184] = {name = "[q3]흉포한 화려한 황철 다리보호대", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224185] = {name = "[q3]흉포한 화려한 황철 어깨보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224186] = {name = "[q3]흉포한 황철 허리띠", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224187] = {name = "[q3]흉포한 황철 장화", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224188] = {name = "[q3]흉포한 황철 팔보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (8), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224189] = {name = "[q3]흉포한 황철 가슴보호갑", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224190] = {name = "[q3]흉포한 황철 건틀릿", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224191] = {name = "[q3]흉포한 황철 투구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224192] = {name = "[q3]흉포한 황철 다리보호대", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224193] = {name = "[q3]흉포한 황철 어깨보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224194] = {name = "[q3]흉포한 고룡가죽 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224195] = {name = "[q3]흉포한 고룡가죽 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224196] = {name = "[q3]흉포한 고룡가죽 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224197] = {name = "[q3]흉포한 고룡가죽 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224198] = {name = "[q3]흉포한 고룡가죽 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224199] = {name = "[q3]흉포한 고룡가죽 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224200] = {name = "[q3]흉포한 고룡가죽 다리방어구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224201] = {name = "[q3]흉포한 고룡가죽 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224208] = {name = "[q3]불매듭 허리띠", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 불의 휘발물 (3), 바람의 휘발물 (3)"}
+MultiLanguageSpellData['ko'][1224209] = {name = "[q3]잿불불꽃 팔보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 불의 휘발물 (4), 물의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224210] = {name = "[q3]불매듭 팔보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 불의 휘발물 (3), 바람의 휘발물 (3)"}
+MultiLanguageSpellData['ko'][1224211] = {name = "[q3]잿불불꽃 어깨보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (6), 물의 휘발물 (3), 불의 휘발물 (3)"}
+MultiLanguageSpellData['ko'][1224212] = {name = "[q3]불매듭 어깨보호구", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224213] = {name = "[q3]잿불불꽃 허리띠", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224214] = {name = "[q3]불매듭 장화", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 물의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224215] = {name = "[q3]잿불불꽃 장갑", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224216] = {name = "[q3]불매듭 장갑", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224217] = {name = "[q3]잿불불꽃 장화", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224218] = {name = "[q3]불매듭 바지", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224219] = {name = "[q3]불매듭 로브", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (8), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224220] = {name = "[q3]불매듭 수도두건", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 불의 휘발물 (4), 바람의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224221] = {name = "[q3]잿불불꽃 로브", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224222] = {name = "[q3]잿불불꽃 수도두건", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224223] = {name = "[q3]잿불불꽃 바지", additional_info = "2 초 주문 시전 시간\n재료:\n잿불비단 두루마리 (10), 물의 휘발물 (4), 불의 휘발물 (4)"}
+MultiLanguageSpellData['ko'][1224224] = {name = "[q3]피투성이 황철 팔보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (8), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224225] = {name = "[q3]피투성이 황철 건틀릿", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224226] = {name = "[q3]피투성이 황철 허리띠", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224227] = {name = "[q3]피투성이 황철 장화", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224228] = {name = "[q3]피투성이 황철 어깨보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224229] = {name = "[q3]피투성이 황철 다리보호대", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224230] = {name = "[q3]피투성이 황철 투구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224231] = {name = "[q3]피투성이 황철 가슴보호갑", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224232] = {name = "[q3]화려한 황철 팔보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (8), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224233] = {name = "[q3]화려한 황철 건틀릿", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224234] = {name = "[q3]화려한 황철 허리띠", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224235] = {name = "[q3]화려한 황철 장화", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224236] = {name = "[q3]화려한 황철 어깨보호구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (12), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224237] = {name = "[q3]화려한 황철 다리보호대", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224238] = {name = "[q3]화려한 황철 투구", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224239] = {name = "[q3]화려한 황철 가슴보호갑", additional_info = "2 초 주문 시전 시간\n도구: 대장장이 망치\n재료:\n엘레멘티움 주괴 (15), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224240] = {name = "[q3]피투성이 고룡가죽 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224241] = {name = "[q3]피투성이 고룡가죽 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224242] = {name = "[q3]피투성이 가죽 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224243] = {name = "[q3]피투성이 가죽 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224244] = {name = "[q3]피투성이 비늘 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224245] = {name = "[q3]피투성이 비늘 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224246] = {name = "[q3]피투성이 용비늘 팔보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224247] = {name = "[q3]피투성이 용비늘 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224248] = {name = "[q3]피투성이 고룡가죽 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224249] = {name = "[q3]피투성이 고룡가죽 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224250] = {name = "[q3]피투성이 가죽 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224251] = {name = "[q3]피투성이 가죽 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224252] = {name = "[q3]피투성이 비늘 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224253] = {name = "[q3]피투성이 비늘 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224254] = {name = "[q3]피투성이 용비늘 장화", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224255] = {name = "[q3]피투성이 용비늘 장갑", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 불의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224256] = {name = "[q3]피투성이 고룡가죽 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224257] = {name = "[q3]피투성이 고룡가죽 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224258] = {name = "[q3]피투성이 가죽 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224259] = {name = "[q3]피투성이 가죽 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224260] = {name = "[q3]피투성이 비늘 어깨보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224261] = {name = "[q3]피투성이 비늘 다리보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224262] = {name = "[q3]피투성이 용비늘 허리띠", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224263] = {name = "[q3]피투성이 용비늘 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 물의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224264] = {name = "[q3]피투성이 고룡가죽 다리방어구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224265] = {name = "[q3]피투성이 고룡가죽 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224266] = {name = "[q3]피투성이 가죽 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224267] = {name = "[q3]피투성이 가죽 다리보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224268] = {name = "[q3]피투성이 비늘 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224269] = {name = "[q3]피투성이 비늘 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224270] = {name = "[q3]피투성이 용비늘 다리보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224271] = {name = "[q3]피투성이 용비늘 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
+MultiLanguageSpellData['ko'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "즉시\n[q]Dragon Soul is disabled on the PTR at this time."}
+MultiLanguageSpellData['ko'][1224920] = {name = "Protocol Twilight", additional_info = "사정거리 없음\n즉시 1 분 재사용 대기시간"}
+MultiLanguageSpellData['ko'][1224921] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['ko'][1224922] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['ko'][1224923] = {name = "Twilight's Madness", additional_info = "즉시\n(효과 발동 확률: 35%, 30초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224924] = {name = "Summon Defender", additional_info = "즉시\n[q]Summon a Wyrmrest Defender."}
+MultiLanguageSpellData['ko'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
+MultiLanguageSpellData['ko'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
+MultiLanguageSpellData['ko'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
+MultiLanguageSpellData['ko'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224931] = {name = "Verdant Surge", additional_info = nil}
+MultiLanguageSpellData['ko'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224933] = {name = "Verdant Restoration", additional_info = nil}
+MultiLanguageSpellData['ko'][1224934] = {name = "슈마의 눈부신 피", additional_info = "즉시\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['ko'][1224935] = {name = "마나 공허", additional_info = "30 야드 사정거리\n즉시\n[q]주위 적에게 0의 암흑 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224936] = {name = "이글거리는 피", additional_info = "30 야드 사정거리\n즉시 3 초 재사용 대기시간\n[q]무작위 대상의 피를 달아오르게 합니다. 대상은 시전자로부터 멀리 떨어져 있을수록 더 큰 피해를 입습니다."}
+MultiLanguageSpellData['ko'][1224937] = {name = "타락한 하수인", additional_info = nil}
+MultiLanguageSpellData['ko'][1224938] = {name = "타락한 하수인", additional_info = "200 야드 사정거리\n즉시\n[q]적에게 들끓는 용암을 한바탕 날려 땅을 가르고 29250 to 30750의 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224939] = {name = "위산", additional_info = "사정거리 없음\n즉시\n[q]적 대상에게 30625 to 39375의 자연 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224940] = {name = "위산", additional_info = "사정거리 없음\n즉시\n[q]적 대상에게 67275 to 70725의 자연 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224941] = {name = "위산", additional_info = "즉시"}
+MultiLanguageSpellData['ko'][1224942] = {name = "위산", additional_info = nil}
+MultiLanguageSpellData['ko'][1224943] = {name = "위산", additional_info = "200 야드 사정거리\n즉시\n[q]5초마다 0의 자연 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224944] = {name = "깊은 타락", additional_info = "150 야드 사정거리\n즉시\n[q]주위 모든 아군에게 46250 to 53750의 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224945] = {name = "깊은 타락", additional_info = "100 야드 사정거리\n즉시\n[q]치유 또는 피해 흡수 효과를 받으면 5중첩째에 폭발이 일어납니다."}
+MultiLanguageSpellData['ko'][1224946] = {name = "깊은 타락", additional_info = "100 야드 사정거리\n즉시\n[q]치유 또는 피해 흡수 효과를 받으면 5중첩째에 폭발이 일어납니다."}
+MultiLanguageSpellData['ko'][1224947] = {name = "깊은 타락", additional_info = nil}
+MultiLanguageSpellData['ko'][1224948] = {name = "깊은 타락", additional_info = nil}
+MultiLanguageSpellData['ko'][1224949] = {name = "깊은 타락", additional_info = nil}
+MultiLanguageSpellData['ko'][1224950] = {name = "깊은 타락", additional_info = "150 야드 사정거리\n즉시\n[q]주위 모든 아군에게 89725 to 104275의 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224951] = {name = "깊은 타락", additional_info = "100 야드 사정거리\n즉시\n[q]치유 또는 피해 흡수 효과를 받으면 5중첩째에 폭발이 일어납니다."}
+MultiLanguageSpellData['ko'][1224952] = {name = "깊은 타락", additional_info = "100 야드 사정거리\n즉시\n[q]치유 또는 피해 흡수 효과를 받으면 5중첩째에 폭발이 일어납니다."}
