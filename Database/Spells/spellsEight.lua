@@ -2239,3 +2239,7 @@ MultiLanguageSpellData['ko'][1218981] = {name = "방패 돌격", additional_info
 MultiLanguageSpellData['ko'][1220498] = {name = "제멋대로 순간이동", additional_info = "5 초 주문 시전 시간\n[q]특별히 까다로운 사람이 아니라면 좋아할 만한 장소로 순간이동합니다."}
 MultiLanguageSpellData['ko'][1221338] = {name = "발공 차기", additional_info = "40 야드 사정거리\n즉시 5 초 재사용 대기시간\n[q]공을 아군 플레이어에게 찹니다. 가능한 경우, 상대방이 자동으로 되돌려 줍니다."}
 MultiLanguageSpellData['ko'][1221476] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['ko'][1223890] = {name = "열광의 오라", additional_info = nil}
+MultiLanguageSpellData['ko'][1223891] = {name = "열광의 오라", additional_info = nil}
+MultiLanguageSpellData['ko'][1223893] = {name = "열광의 오라", additional_info = nil}
+MultiLanguageSpellData['ko'][1223894] = {name = "열광의 오라", additional_info = nil}
