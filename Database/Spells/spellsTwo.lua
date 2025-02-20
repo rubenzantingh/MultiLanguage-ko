@@ -768,7 +768,7 @@ MultiLanguageSpellData['ko'][78269] = {name = "퀘스트 점수: 그러니까 �
 MultiLanguageSpellData['ko'][78270] = {name = "크발디르 심판자 소환", additional_info = nil}
 MultiLanguageSpellData['ko'][78271] = {name = "위상 이동 1 해초 숲과 구속의 손아귀", additional_info = nil}
 MultiLanguageSpellData['ko'][78272] = {name = "울부짖는 화염", additional_info = nil}
-MultiLanguageSpellData['ko'][78273] = {name = "불꽃의 무기", additional_info = "6% (기본 마나 중)\n즉시\n근접 무기 필요\n[q]주술사의 무기에 불의 기운을 불어넣어 전체 주문 공격력을 7만큼 증가시킵니다. 주문이 지속되는 동안 주술사의 무기는 공격 시 $/78275m1~1의 추가 화염 피해를 입힙니다. 30분 동안 지속됩니다."}
+MultiLanguageSpellData['ko'][78273] = {name = "불꽃의 무기", additional_info = "6% (기본 마나 중)\n즉시\n근접 무기 필요\n[q]주술사의 무기에 불의 기운을 불어넣어 전체 주문 공격력을 7만큼 증가시킵니다. 주문이 지속되는 동안 주술사의 무기는 공격 시 /78275m1~1의 추가 화염 피해를 입힙니다. 30분 동안 지속됩니다."}
 MultiLanguageSpellData['ko'][78274] = {name = "회오리바람 시각효과", additional_info = nil}
 MultiLanguageSpellData['ko'][78275] = {name = "불꽃의 무기 발동", additional_info = nil}
 MultiLanguageSpellData['ko'][78276] = {name = "멍멍이용 잠수 모자", additional_info = nil}
@@ -19973,7 +19973,7 @@ MultiLanguageSpellData['ko'][126583] = {name = "아이템 - 힘 효과", additio
 MultiLanguageSpellData['ko'][126659] = {name = "급속", additional_info = "즉시\n[q]20 sec 동안 가속이 963만큼 증가합니다."}
 MultiLanguageSpellData['ko'][126660] = {name = "아이템 - 주문 적중 시 가속 발동", additional_info = "[q]공격 주문이 적중할 때마다 일정 확률로 20 sec 동안 가속이 963만큼 증가합니다. (15% 확률, 재사용 대기시간 115초)\n(효과 발동 확률: 15%, 1.917분 재사용 대기시간)"}
 MultiLanguageSpellData['ko'][133630] = {name = "능수능란", additional_info = "40 야드 사정거리\n즉시\n[q]20 sec 동안 특화도가 2573만큼 증가합니다."}
-MultiLanguageSpellData['ko'][133631] = {name = "아이템 - 공격 발동 특화", additional_info = "[q]공격이 적중하면 일정 확률로 until cancelled 동안 특화가 0만큼 증가합니다.\n(효과 발동 확률: 15%, 1.083분 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][133631] = {name = "아이템 - 공격 발동 특화", additional_info = "[q]공격이 적중하면 일정 확률로 20 sec 동안 특화가 2573만큼 증가합니다.\n(효과 발동 확률: 15%, 1.083분 재사용 대기시간)"}
 MultiLanguageSpellData['ko'][158263] = {name = "비겁자", additional_info = nil}
 MultiLanguageSpellData['ko'][160597] = {name = "계승품 생성", additional_info = nil}
 MultiLanguageSpellData['ko'][171555] = {name = "공격대 표시기 6", additional_info = "즉시"}
@@ -20793,27 +20793,27 @@ MultiLanguageSpellData['ko'][1224268] = {name = "[q3]피투성이 비늘 가슴�
 MultiLanguageSpellData['ko'][1224269] = {name = "[q3]피투성이 비늘 투구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
 MultiLanguageSpellData['ko'][1224270] = {name = "[q3]피투성이 용비늘 다리보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
 MultiLanguageSpellData['ko'][1224271] = {name = "[q3]피투성이 용비늘 가슴보호구", additional_info = "3 초 주문 시전 시간\n재료:\n질긴 야만 가죽 (8), 검어진 용비늘 (10), 생명의 휘발물 (10)"}
-MultiLanguageSpellData['ko'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "즉시\n[q]Dragon Soul is disabled on the PTR at this time."}
-MultiLanguageSpellData['ko'][1224920] = {name = "Protocol Twilight", additional_info = "사정거리 없음\n즉시 1 분 재사용 대기시간"}
-MultiLanguageSpellData['ko'][1224921] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['ko'][1224922] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['ko'][1224923] = {name = "Twilight's Madness", additional_info = "즉시\n(효과 발동 확률: 35%, 30초 재사용 대기시간)"}
-MultiLanguageSpellData['ko'][1224924] = {name = "Summon Defender", additional_info = "즉시\n[q]Summon a Wyrmrest Defender."}
-MultiLanguageSpellData['ko'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
-MultiLanguageSpellData['ko'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
-MultiLanguageSpellData['ko'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
-MultiLanguageSpellData['ko'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
-MultiLanguageSpellData['ko'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
-MultiLanguageSpellData['ko'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
-MultiLanguageSpellData['ko'][1224931] = {name = "Verdant Surge", additional_info = nil}
-MultiLanguageSpellData['ko'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
-MultiLanguageSpellData['ko'][1224933] = {name = "Verdant Restoration", additional_info = nil}
-MultiLanguageSpellData['ko'][1224934] = {name = "슈마의 눈부신 피", additional_info = "즉시\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['ko'][1224545] = {name = "용의 영혼 순간이동 불가", additional_info = "즉시\n[q]현재 PTR에서 불의 땅은 비활성화 상태입니다."}
+MultiLanguageSpellData['ko'][1224920] = {name = "프로토콜 황혼", additional_info = "사정거리 없음\n즉시 1 분 재사용 대기시간"}
+MultiLanguageSpellData['ko'][1224921] = {name = "프로토콜 황혼", additional_info = nil}
+MultiLanguageSpellData['ko'][1224922] = {name = "프로토콜 황혼", additional_info = nil}
+MultiLanguageSpellData['ko'][1224923] = {name = "황혼의 광기", additional_info = "즉시\n(효과 발동 확률: 35%, 1.083분 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224924] = {name = "수호병 소환", additional_info = "즉시\n[q]고룡쉼터 사원 파수꾼을 소환합니다."}
+MultiLanguageSpellData['ko'][1224925] = {name = "붉은용군단의 선물", additional_info = nil}
+MultiLanguageSpellData['ko'][1224926] = {name = "붉은용군단의 선물", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224927] = {name = "청동용군단의 선물", additional_info = "즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224928] = {name = "청동용군단의 선물", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224929] = {name = "푸른용군단의 선물", additional_info = nil}
+MultiLanguageSpellData['ko'][1224930] = {name = "푸른용군단의 선물", additional_info = nil}
+MultiLanguageSpellData['ko'][1224931] = {name = "신록의 쇄도", additional_info = nil}
+MultiLanguageSpellData['ko'][1224932] = {name = "녹색용군단의 선물", additional_info = "사정거리 없음\n즉시\n(1초 재사용 대기시간)"}
+MultiLanguageSpellData['ko'][1224933] = {name = "신록의 복원", additional_info = nil}
+MultiLanguageSpellData['ko'][1224934] = {name = "슈마의 눈부신 피", additional_info = "즉시\n[q]고대 신의 눈부신 피를 주입받습니다.\n 공격 속도가 25%만큼 증가합니다."}
 MultiLanguageSpellData['ko'][1224935] = {name = "마나 공허", additional_info = "30 야드 사정거리\n즉시\n[q]주위 적에게 0의 암흑 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][1224936] = {name = "이글거리는 피", additional_info = "30 야드 사정거리\n즉시 3 초 재사용 대기시간\n[q]무작위 대상의 피를 달아오르게 합니다. 대상은 시전자로부터 멀리 떨어져 있을수록 더 큰 피해를 입습니다."}
 MultiLanguageSpellData['ko'][1224937] = {name = "타락한 하수인", additional_info = nil}
 MultiLanguageSpellData['ko'][1224938] = {name = "타락한 하수인", additional_info = "200 야드 사정거리\n즉시\n[q]적에게 들끓는 용암을 한바탕 날려 땅을 가르고 29250 to 30750의 피해를 입힙니다."}
-MultiLanguageSpellData['ko'][1224939] = {name = "위산", additional_info = "사정거리 없음\n즉시\n[q]적 대상에게 30625 to 39375의 자연 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224939] = {name = "위산", additional_info = "사정거리 없음\n즉시\n[q]적 대상에게 15312 to 19688의 자연 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][1224940] = {name = "위산", additional_info = "사정거리 없음\n즉시\n[q]적 대상에게 67275 to 70725의 자연 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][1224941] = {name = "위산", additional_info = "즉시"}
 MultiLanguageSpellData['ko'][1224942] = {name = "위산", additional_info = nil}
@@ -20824,6 +20824,34 @@ MultiLanguageSpellData['ko'][1224946] = {name = "깊은 타락", additional_info
 MultiLanguageSpellData['ko'][1224947] = {name = "깊은 타락", additional_info = nil}
 MultiLanguageSpellData['ko'][1224948] = {name = "깊은 타락", additional_info = nil}
 MultiLanguageSpellData['ko'][1224949] = {name = "깊은 타락", additional_info = nil}
-MultiLanguageSpellData['ko'][1224950] = {name = "깊은 타락", additional_info = "150 야드 사정거리\n즉시\n[q]주위 모든 아군에게 89725 to 104275의 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1224950] = {name = "깊은 타락", additional_info = "150 야드 사정거리\n즉시\n[q]주위 모든 아군에게 23125 to 26875의 피해를 입힙니다."}
 MultiLanguageSpellData['ko'][1224951] = {name = "깊은 타락", additional_info = "100 야드 사정거리\n즉시\n[q]치유 또는 피해 흡수 효과를 받으면 5중첩째에 폭발이 일어납니다."}
 MultiLanguageSpellData['ko'][1224952] = {name = "깊은 타락", additional_info = "100 야드 사정거리\n즉시\n[q]치유 또는 피해 흡수 효과를 받으면 5중첩째에 폭발이 일어납니다."}
+MultiLanguageSpellData['ko'][1225871] = {name = "청동용군단의 선물", additional_info = nil}
+MultiLanguageSpellData['ko'][1225923] = {name = "푸른용군단의 선물", additional_info = nil}
+MultiLanguageSpellData['ko'][1226145] = {name = "그늘진 핏방울 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226146] = {name = "수혈", additional_info = "100 야드 사정거리\n즉시\n[q]핏방울 속에 담긴 고대 신의 힘을 부여받습니다."}
+MultiLanguageSpellData['ko'][1226147] = {name = "진홍색 핏방울 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226148] = {name = "검은 핏방울 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226149] = {name = "산성 핏방울 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226150] = {name = "암청색 핏방울 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226151] = {name = "눈부신 핏방울 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226265] = {name = "방울 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226387] = {name = "슈마의 진홍색 피", additional_info = "즉시\n[q]이글거리는 피 능력을 부여합니다."}
+MultiLanguageSpellData['ko'][1226408] = {name = "슈마의 그늘진 피", additional_info = "즉시\n[q]깊은 타락 능력을 부여합니다."}
+MultiLanguageSpellData['ko'][1226416] = {name = "슈마의 암청색 피", additional_info = "즉시\n[q]마나 공허 능력을 부여합니다."}
+MultiLanguageSpellData['ko'][1226422] = {name = "슈마의 산성 피", additional_info = "즉시\n[q]위산 능력을 부여합니다."}
+MultiLanguageSpellData['ko'][1226453] = {name = "슈마의 검은 피", additional_info = "즉시\n[q]타락한 하수인 능력을 부여합니다."}
+MultiLanguageSpellData['ko'][1226484] = {name = "얼라이언스 고룡쉼터 사원 파수꾼 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226485] = {name = "호드 고룡쉼터 사원 파수꾼 소환", additional_info = nil}
+MultiLanguageSpellData['ko'][1226486] = {name = "심령 가르기", additional_info = "20 야드 사정거리0.6 초 주문 시전 시간 5 초 재사용 대기시간\n[q]대상에게 초자연적인 힘의 파장을 집중하여 55770 to 58630의 암흑 피해를 입힙니다."}
+MultiLanguageSpellData['ko'][1227043] = {name = "스톰레이지의 힘", additional_info = "즉시\n[q]공격력이 감소합니다.\n 최대 생명력이 감소합니다."}
+MultiLanguageSpellData['ko'][1227044] = {name = "스톰레이지의 힘", additional_info = nil}
+MultiLanguageSpellData['ko'][1227317] = {name = "Signet of the Wyrmrest Accord - Remove Item", additional_info = nil}
+MultiLanguageSpellData['ko'][1227448] = {name = "정의 250 수여", additional_info = "즉시\n[q]정의 점수 250점을 얻습니다."}
+MultiLanguageSpellData['ko'][1227450] = {name = "Shadowed Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['ko'][1227589] = {name = "Cobalt Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['ko'][1227594] = {name = "Glowing Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['ko'][1227595] = {name = "Crimson Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['ko'][1227598] = {name = "Dark Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['ko'][1227599] = {name = "Acidic Globule - Spawn Spell", additional_info = nil}
