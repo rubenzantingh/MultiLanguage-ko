@@ -15,13 +15,6 @@ local function addLanguageOption()
         table.insert(MultiLanguageOptions.AVAILABLE_LANGUAGES, {value = 'ko', text = 'Korean'})
         AddLanguageDropdownOption()
     end
-
-    if MultiLanguageTranslations['ko'] == nil then
-        MultiLanguageTranslations['ko'] = {
-            description = "서술",
-            objectives = "목표"
-        }
-    end
 end
 
 local function addonLoaded(self, event, addonLoadedName)
