@@ -1,8 +1,8 @@
-## Interface: 110105
+## Interface: 110107
 ## Title: MultiLanguage_KO
 ## Notes: KO language for the MultiLanguage addon
 ## Author: Ruben Zantingh
-## Version: 1.0.13
+## Version: 1.0.14
 ## Dependencies: MultiLanguage
 
 Database/Quests/quests.lua
