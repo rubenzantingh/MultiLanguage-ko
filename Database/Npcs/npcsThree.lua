@@ -24868,7 +24868,6 @@ MultiLanguageNpcData['ko'][149026] = {name = "파도여사제의 영혼", subnam
 MultiLanguageNpcData['ko'][149027] = {name = "목재 운반", subname = nil}
 MultiLanguageNpcData['ko'][149028] = {name = "파도사제의 영혼", subname = nil}
 MultiLanguageNpcData['ko'][149029] = {name = "토아타나", subname = nil}
-MultiLanguageNpcData['ko'][149030] = {name = "공포 쇠뇌", subname = nil}
 MultiLanguageNpcData['ko'][149031] = {name = "다카니 지략가", subname = nil}
 MultiLanguageNpcData['ko'][149032] = {name = "알거슨 벌목꾼", subname = nil}
 MultiLanguageNpcData['ko'][149033] = {name = "알거슨 벌목꾼", subname = nil}
@@ -31601,7 +31600,7 @@ MultiLanguageNpcData['ko'][156660] = {name = "대장 개릭", subname = nil}
 MultiLanguageNpcData['ko'][156661] = {name = "바를라센", subname = nil}
 MultiLanguageNpcData['ko'][156662] = {name = "대장 개릭", subname = nil}
 MultiLanguageNpcData['ko'][156663] = {name = "차원술사 타오렌", subname = "형상변환사"}
-MultiLanguageNpcData['ko'][156664] = {name = "금고지기 타키스", subname = "공허 보관사"}
+MultiLanguageNpcData['ko'][156664] = {name = "금고지기 타키스", subname = nil}
 MultiLanguageNpcData['ko'][156665] = {name = "명예로운 영혼사냥꾼", subname = nil}
 MultiLanguageNpcData['ko'][156666] = {name = "대장장이 아우베르크", subname = "전문 대장장이"}
 MultiLanguageNpcData['ko'][156667] = {name = "무두장이 아우켐", subname = "전문 무두장이"}
@@ -40968,7 +40967,7 @@ MultiLanguageNpcData['ko'][167209] = {name = "니알 쿠갈", subname = nil}
 MultiLanguageNpcData['ko'][167210] = {name = "전산자 킬햄", subname = "전투 심판원"}
 MultiLanguageNpcData['ko'][167211] = {name = "기억 추출기", subname = nil}
 MultiLanguageNpcData['ko'][167212] = {name = "장군 브레카 그림액스", subname = nil}
-MultiLanguageNpcData['ko'][167213] = {name = "배급원 진하케", subname = nil}
+MultiLanguageNpcData['ko'][167213] = {name = "배급원 진하케", subname = "수리 및 보급품 상인"}
 MultiLanguageNpcData['ko'][167214] = {name = "아그티아 수호병", subname = nil}
 MultiLanguageNpcData['ko'][167215] = {name = "미스드란 돈트래커", subname = "야수 관리인"}
 MultiLanguageNpcData['ko'][167216] = {name = "그런트 쓰로그", subname = nil}
