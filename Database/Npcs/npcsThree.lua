@@ -7120,7 +7120,7 @@ MultiLanguageNpcData['ko'][129318] = {name = "빠른모래 게", subname = nil}
 MultiLanguageNpcData['ko'][129319] = {name = "칼날경비병 타르카지", subname = nil}
 MultiLanguageNpcData['ko'][129320] = {name = "Pearl Channel Chicken (Storm)", subname = nil}
 MultiLanguageNpcData['ko'][129321] = {name = "Pearl Channel Chicken (Current)", subname = nil}
-MultiLanguageNpcData['ko'][129322] = {name = "휴대용 복장 변환 장치", subname = nil}
+MultiLanguageNpcData['ko'][129322] = {name = "휴대용 복장 변환 장치", subname = "형상변환사"}
 MultiLanguageNpcData['ko'][129323] = {name = "여왕 칼엄니", subname = nil}
 MultiLanguageNpcData['ko'][129324] = {name = "Kill Credit: Revive Tarkaj", subname = nil}
 MultiLanguageNpcData['ko'][129325] = {name = "Kill Credit: Water Tarkaj", subname = nil}
