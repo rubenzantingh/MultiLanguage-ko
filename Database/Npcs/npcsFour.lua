@@ -19926,7 +19926,7 @@ MultiLanguageNpcData['ko'][198982] = {name = "수호자 티르", subname = nil}
 MultiLanguageNpcData['ko'][198983] = {name = "단장 마티아스 쇼", subname = "SI:7 단장"}
 MultiLanguageNpcData['ko'][198984] = {name = "세실리아 클레싱턴", subname = nil}
 MultiLanguageNpcData['ko'][198988] = {name = "바네사 밴클리프", subname = nil}
-MultiLanguageNpcData['ko'][198990] = {name = "Marshal McBride", subname = nil}
+MultiLanguageNpcData['ko'][198990] = {name = "치안대장 맥브라이드", subname = nil}
 MultiLanguageNpcData['ko'][198991] = {name = "Sergeant Willem", subname = nil}
 MultiLanguageNpcData['ko'][198992] = {name = "폭풍 에너지", subname = nil}
 MultiLanguageNpcData['ko'][198993] = {name = "하늘빛 비룡", subname = nil}
@@ -27523,7 +27523,7 @@ MultiLanguageNpcData['ko'][209382] = {name = "Blue Whelp", subname = nil}
 MultiLanguageNpcData['ko'][209383] = {name = "Green Whelp", subname = nil}
 MultiLanguageNpcData['ko'][209384] = {name = "Red Whelp", subname = nil}
 MultiLanguageNpcData['ko'][209385] = {name = "Kill Credit: Approach Eternus", subname = nil}
-MultiLanguageNpcData['ko'][209386] = {name = "Great Gnomeregan Race Gate Marker", subname = nil}
+MultiLanguageNpcData['ko'][209386] = {name = "놈리건 대경주회 관문 표지", subname = nil}
 MultiLanguageNpcData['ko'][209387] = {name = "진줄라", subname = nil}
 MultiLanguageNpcData['ko'][209390] = {name = "제독 페퍼스", subname = nil}
 MultiLanguageNpcData['ko'][209391] = {name = "Image of Blix Swiftwing", subname = nil}
@@ -43732,7 +43732,7 @@ MultiLanguageNpcData['ko'][230460] = {name = "칼잡이 렌직", subname = "SI:7
 MultiLanguageNpcData['ko'][230461] = {name = "몬테 가즈로", subname = "빌지워터 무역왕"}
 MultiLanguageNpcData['ko'][230462] = {name = "K'aresh Flyer", subname = nil}
 MultiLanguageNpcData['ko'][230463] = {name = "그런트 시체", subname = nil}
-MultiLanguageNpcData['ko'][230464] = {name = "Domineering K'arroc", subname = nil}
+MultiLanguageNpcData['ko'][230464] = {name = "지배하는 크아로크", subname = nil}
 MultiLanguageNpcData['ko'][230466] = {name = "각벌레 소금쟁이", subname = nil}
 MultiLanguageNpcData['ko'][230467] = {name = "AOE Invis Bunny", subname = nil}
 MultiLanguageNpcData['ko'][230470] = {name = "Void Creeper", subname = "[T1 (1/1)]"}
