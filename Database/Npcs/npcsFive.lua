@@ -4668,6 +4668,7 @@ MultiLanguageNpcData['ko'][254092] = {name = "이터누스", subname = nil}
 MultiLanguageNpcData['ko'][254093] = {name = "이터누스", subname = nil}
 MultiLanguageNpcData['ko'][254164] = {name = "용오름", subname = nil}
 MultiLanguageNpcData['ko'][254369] = {name = "조종기", subname = nil}
+MultiLanguageNpcData['ko'][256938] = {name = "카드가의 강화된 하수인", subname = nil}
 MultiLanguageNpcData['ko'][257023] = {name = "하이에나", subname = nil}
 MultiLanguageNpcData['ko'][257026] = {name = "갈래발굽", subname = nil}
 MultiLanguageNpcData['ko'][257031] = {name = "Felhound", subname = nil}
